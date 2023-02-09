@@ -1,5 +1,4 @@
-﻿
-七代目有楽亭八雲=Yūrakutei Yakumo
+﻿七代目有楽亭八雲=Yūrakutei Yakumo
 二十七面千手百足=Nijūnanamen Senju Mukade
 八代目有楽亭八雲=Yūrakutei Yakumo
 勘解由小路無花果=Kadenokōji Ichijiku
@@ -29,7 +28,6 @@
 上野弥次郎兵衛=Ueno Yajirōbe
 中央高校副会長=Central High Student Cōncil Vice President
 乔治·维利尔斯=George Villiers
-五月田根美香子=Satsukitane Mikako
 人工知能ADA=ADA
 伊江村八十千和=Iemura Yasochika
 佐村河内曼陀羅=Samuragōchi Mandara
@@ -830,7 +828,6 @@
 三嶋美奈子=Mishima Minako
 三弦亜紀楽=Mitsuru Akira
 三日市沙織=Mikkachi Saori
-三日月夜空=Mikazuki Yozora
 三日月宗近=Munechika Mikazuki
 三明亭円相=Sanmeitei Ensō
 三春滝咲良=Miharutaki Sakura
@@ -1517,7 +1514,6 @@
 伊藤結花里=Itō Yukari
 伊藤美智子=Itō Michiko
 伊藤麻菜美=Itō Manami
-伊角慎一郎=Isumi Shinichiro
 伊豆山太郎=Izuyama Tarō
 伊豆野由宇=Yū Izuno
 伊賀　仁吉=Iga Hitoyoshi
@@ -1737,7 +1733,6 @@
 佐藤百合子=Satō Yuriko
 佐藤真由子=Satō Mayuko
 佐藤美佳子=Sato Mikako
-佐藤美和子=Satō Miwako
 佐藤美由希=Satō Miyuki
 佐藤院麗子=Satōin Reiko
 佐衛門三郎=Saemonsaburō
@@ -2557,7 +2552,6 @@
 士道美沙子=Shidō Misako
 壬生京一郎=Mibu Kyoichiro
 壬生京三郎=Mibu Kyosaburo
-壬生京四郎=Mibu Kyōshirō
 壬生京次郎=Mibu Kyojiro
 壬生屋未央=Mibuya Mio
 壬生紗耶香=Mibu Sayaka
@@ -3472,7 +3466,6 @@
 小野寺啓子=Onodera Keiko
 小野寺善雄=Onodera Yoshio
 小野寺将之=Onodera Masayuki
-小野寺小咲=Onodera Kosaki
 小野寺弥生=Onodera Yayoi
 小野寺拓己=Onodera Takumi
 小野寺樺恋=Onodera Karen
@@ -3602,7 +3595,6 @@
 山川征太郎=Yamakawa Seitarō
 山川美千子=Yamakawa Michiko
 山本 美人=Yamamoto Mito
-山本五十六=Yamamoto Isoroku
 山本亜搖子=Yamamoto Ayuko
 山本亜梨華=Yamamoto Arika
 山本元柳斎=Yamamoto-Genryūsai
@@ -4058,7 +4050,6 @@
 才賀伊智香=Saiga Ichika
 打越鋼太郎=Uchikoshi Kōtarō
 折原九瑠璃=Orihara Kururi
-折木奉太郎=Oreki Hōtarō
 折笠奈緒美=Orikasa Naomi
 折笠富美子=Orikasa Fumiko
 抜田美都利=Batta Mitori
@@ -4855,7 +4846,6 @@
 桐生寺塔子=Kiryūji Tōko
 桐谷木乃芽=Konome Kiritani
 桑原惣一郎=Kuwabara Sōichirō
-桑原本因坊=Kuwabara Honinbō
 桑島慈悟郎=Kuwajima Jigorō
 桔梗院心美=Kikyoin Kokomi
 桜井　佐和=Sakurai Sawa
@@ -4904,7 +4894,6 @@
 梶間方太朗=Kajima Hōtarō
 棗希郎衛門=Natsume Kiroemon
 棟方真梨子=Munakata Mariko
-森下sū=Morishita Sū
 森下由樹子=Morishita Yukiko
 森久保乃々=Morikubo Nono
 森井蔵之助=Morii Kuranosuke
@@ -5061,8 +5050,6 @@
 殿町 宏人=Tonomachi Hiroto
 毒島黒兵衛=Busujima Kurobee
 毒田美博士=Dokudami Hiroshi
-比企谷八幡=Hikigaya Hachiman
-比企谷小町=Hikigaya Komachi
 比古清十郎=Hiko Seijūrō
 比嘉久美子=Higa Kumiko
 比嘉銀史郎=Higa Ginshirō
@@ -5083,7 +5070,6 @@
 比賀佐保子=Higa Sahoko
 毛利十四郎=Mōri Jūshirō
 毛利寿三郎=Mōri Jusaburō
-毛利小五郎=Mōri Kogorō
 毛利藤四郎=Mōri Tōshirō
 氏家火生留=Ujiie Kaoru
 民谷厳鉄斎=Tamiya Gantetsusai
@@ -5634,7 +5620,6 @@
 甘糟那由太=Amakasu Nayuta
 甘羅尾大作=Amarao Daisaku
 甘草虎児郎=Amakusa Kojirō
-甘露寺七海=Kanroji Nanami
 甘露寺蜜璃=Kanroji Mitsuri
 生天目仁美=Nabatame Hitomi
 生方千加子=Ubukata Chikako
@@ -5760,7 +5745,6 @@
 白智小五郎=Shirachi Kogorō
 白木優羽莉=Shiraki Yūri
 白木幹之介=Shiraki Mikinosuke
-白木芽衣子=Shiraki Meiko
 白析美沙子=Shiraseki Misako
 白樺智恵子=Shirakaba Chieko
 白津樹利夫=Shiratsu Julio
@@ -5955,7 +5939,6 @@
 石川佳代子=Ishikawa Kayoko
 石川宗次郎=Ishikawa Sōjirō
 石松千恵美=Ishimatsu Chiemi
-石森章太郎=Ishinomori Shotaro
 石橋賢三郎=Ishibashi Kenzaburō
 石母田史朗=Ishimoda Shirō
 石清水澄明=Iwashimizu Sumiaki
@@ -6150,7 +6133,6 @@
 空操美代子=Kuso Miyoko
 空木基海,=Utsuki Motomi
 空条仗世文=Kūjō Josefumi
-空条承太郎=Kūjō Jōtarō
 空森綺羅々=Soramori Kirara
 空琉美遊亭=Kūrubiyūtei
 空見高双葉=Amitaka Futaba
@@ -6499,7 +6481,6 @@
 芬迪斯诺瓦=Fentis Nova
 花丘観柳斉=Hanaoka Kanryūsai
 花井亜希子=Hanai Akiko
-花京院典明=Kakyōin Noriaki
 花京院涼子=Kakyoin Ryoko
 花依小百合=Hanayori Sayuri
 花倉結里奈=Hanakura Yurina
@@ -7005,7 +6986,6 @@
 赤羽詩天使=Akabane Shieru
 赤西瑛梨華=Akanishi Erika
 赤馬日美香=Akaba Himika
-越前南次郎=Echizen Nanjiro
 越前菜々子=Echizen Nanako
 越前菜都子=Echizen Natsuko
 越後屋楽丸=Echigoya Rakumaru
@@ -8055,7 +8035,6 @@
 七沢由仁=Nanasawa Yuni
 七河正志=Nanakawa Tadashi
 七河瑠依=Nanakawa Rui
-七海千秋=Nanami Chiaki
 七海哉太=Nanami Kanata
 七海宗介=Nanami Sōsuke
 七海建人=Nanami Kento
@@ -8607,7 +8586,6 @@
 上条優一=Kamijō Yūichi
 上条刀夜=Kamijō Tōya
 上条南風=Kamijō Minami
-上条当麻=Kamijō Tōma
 上条恭介=Kamijō Kyōsuke
 上条明峰=Kamijyo Akimine
 上条春太=Kamijō Haruta
@@ -8748,7 +8726,6 @@
 不知火明=Shiranui Akira
 不知火楓=Shiranui Kaede
 不知火真=Shiranui Makoto
-不知火舞=Shiranui/Shiranui Mai
 不知火袴=Shiranui Hakama
 不知火香=Shiranui Kaori
 不破優月=Fuwa Yuzuki
@@ -9108,7 +9085,6 @@
 中田浩二=Nakata Kōji
 中田祐矢=Nakada Yūya
 中田絹代=Nakata Kinuyo
-中田英寿=Nakata Hidetoshi
 中田虎夫=Nakata Torao
 中田譲治=Nakata Jōji
 中田隼人=Nakata Hayato
@@ -9157,11 +9133,7 @@
 中里美夏=Nakazato Minatsu
 中里融司=Nakazato Yūji
 中野一成=Nakano Issei
-中野一花=Nakano Ichika
-中野三玖=Nakano Miku
 中野乙羽=Nakano Otoha
-中野二乃=Nakano Nino
-中野五月=Nakano Itsuki
 中野健治=Nakano Kenji
 中野先生=Nakano-sensei
 中野光輝=Nakano Kōki
@@ -9723,8 +9695,6 @@
 五条美織=Gojō Miori
 五條佑真=Gojō Yūma
 五條武史=Gojo Takeshi
-五河士道=Itsuka Shidō
-五河琴里=Itsuka Kotori
 五河遥子=Itsuka Haruko
 五泉千影=Izumi Chikage
 五流玲於=Goryū Reo
@@ -9806,7 +9776,6 @@
 井上阿爛=Inōe Aran
 井上隆志=Inōe Takashi
 井上隊長=Lieutenant Inōe
-井上雄彦=Inōe Takehiko
 井上雄貴=Inōe Yūki
 井之上潤=Inōe Jun
 井伊卯月=Ii Uzuki
@@ -10166,7 +10135,6 @@
 伊吹橙真=Ibuki Tōma
 伊吹涼子=Ibuki Ryoko
 伊吹竜子=Ibuki Tatsuko
-伊吹萃香=Ibuki Suika
 伊吹誠吾=Ibuki Seigo
 伊吹風子=Ibuki Fūko
 伊園磨知=Isono Machi
@@ -10662,7 +10630,6 @@
 佐藤吹雪=Satō Fubuki
 佐藤和也=Satō Kazuya
 佐藤和江=Satō Kazue
-佐藤和真=Satō Kazuma
 佐藤啓作=Satō Keisaku
 佐藤嘉晃=Satō Yoshiteru
 佐藤圭輔=Satō Keisuke
@@ -10971,7 +10938,6 @@
 優藤聖代=Yūtō Seiyo
 元井隼人=Motoi Hayato
 元内先生=Motōchi-sensei
-元始天尊=Genshi Tenson
 元宮祭莉=Motomiya Matsuri
 元村哲也=Motomura Tetsuya
 元渕恭一=Motobuchi Kyōichi
@@ -11121,7 +11087,6 @@
 八巻小町=Yamaki Komachi
 八巻朔也=Yamaki Sakuya
 八幡平司=Hachimandaira Tsukasa
-八意永琳=Yagokoro Eirin
 八戒猪里=Hakkai Inori
 八方時枝=Happō Tokie
 八星理子=Hachiboshi Riko
@@ -11353,7 +11318,6 @@
 内田沙羅=Uchida Sara
 内田涼子=Uchida Ryōko
 内田直哉=Uchida Naoya
-内田真礼=Uchida Maaya
 内田睦美=Uchida Mutsumi
 内田聡明=Uchida Sōmei
 内田茉優=Uchida Mayu
@@ -11807,7 +11771,6 @@
 加藤泰之=Katō Yasuyuki
 加藤浩志=Katō Hiroshi
 加藤清司=Katō Seiji
-加藤清正=Katō Kiyomasa
 加藤清海=Katō Kiyomi
 加藤清澄=Katō Kiyosumi
 加藤澄晴=Katō Sumiharu
@@ -11915,7 +11878,6 @@
 勢至菩薩=Bosatsu Seishi
 勢雄速見=Seo Hayami
 匂坂郁紀=Sakisaka Fuminori
-匂宮出夢=Niōnomiya Izumu
 匂宮理澄=Niōnomiya Rizumu
 化生院明=Keshōin
 化野沙貴=Adashino Saki
@@ -11932,7 +11894,6 @@
 北原律子=Kitahara Ritsuko
 北原愛子=Kitahara Aiko
 北原文枝=Kitahara Fumie
-北原春希=Kitahara Haruki
 北原深夜=Kitahara Shinya
 北原白秋=Kitahara Hakushū
 北原知奈=Kitahara China
@@ -12826,7 +12787,6 @@
 吉川竹造=Yoshikawa Takezō
 吉川美紀=Yoshikawa Miki
 吉川英朗=Yoshikawa Hideaki
-吉川英治=Yoshikawa Eiji
 吉川茉絵=Yoshikawa Mae
 吉川菜緒=Yoshikawa Nao
 吉川麻美=Yoshikawa Asamami
@@ -12942,7 +12902,6 @@
 吉良信光=Kira Nobumitsu
 吉良凰香=Kira Ôka
 吉良吉廣=Kira Yoshihiro
-吉良吉影=Kira Yoshikage
 吉良国進=Kirakuni Susumu
 吉良康介=Kira Kōsuke
 吉良托人=Kira Takuto
@@ -13159,7 +13118,6 @@
 和泉千晶=Izumi Chiaki
 和泉千隼=Izumi Chihaya
 和泉宣彦=Izumi Nobuhiko
-和泉式部=Izumi Shikibu
 和泉明貞=Izumi Akisada
 和泉柊羽=Izumi Shū
 和泉栄子=Izumi Eiko
@@ -13179,7 +13137,6 @@
 和田丈嗣=Wada Jōji
 和田京子=Wada Kyōko
 和田優依=Wada Yui
-和田光司=Wada Koji
 和田卓也=Wada Takuya
 和田守男=Wada Morio
 和田将弥=Wada Masaya
@@ -13663,10 +13620,8 @@
 坂井弘也=Sakai Hiroya
 坂井恭子=Sakai Kyōko
 坂井恵理=Sakai Eri
-坂井悠二=Sakai Yūji
 坂井易直=Sakai Yasunao
 坂井時風=Sakai Tokikaze
-坂井泉水=Sakai Izumi
 坂井理奈=Sakai Rina
 坂井真紀=Sakai Maki
 坂井知季=Sakai Tomoki
@@ -13678,7 +13633,6 @@
 坂口候一=Sakaguchi Kōichi
 坂口博信=Sakaguchi Hironobu
 坂口哲夫=Sakaguchi Tetsuo
-坂口安吾=Sakaguchi Ango
 坂口日向=Sakaguchi Hinata
 坂口春生=Sakaguchi Haruo
 坂口春茉=Sakaguchi Harumi
@@ -13765,7 +13719,6 @@
 坂東真一=Bandō Shinichi
 坂東英治=Bando Eiji
 坂東鉄二=Bandō Tetsuji
-坂柳有栖=Sakayanagi Arisu
 坂根千沙=Sakane Chisa
 坂水麻希=Sakamizu Maki
 坂沢史郎=Sakazawa Shiro
@@ -13889,7 +13842,6 @@
 堀内隼人=Horiuchi Hayato
 堀内麻里=Horiuchi Mari
 堀勝之祐=Hori Katsunosuke
-堀北真希=Horikita Maki
 堀北鈴音=Horikita Suzune
 堀千鶴子=Hori Chizuko
 堀口元気=Horiguchi Genki
@@ -13993,7 +13945,6 @@
 塔城小猫=Tōjō Koneko
 塔堂拳介=Tōdō Kensuke
 塔矢明子=Toya Akiko
-塔矢行洋=Tōya Kōyō
 塔部八郎=Tohbe Hachiroh
 塔野花梨=Tōno Karin
 塔間泰士=Tōma Taishi
@@ -14162,7 +14113,6 @@
 夏目柴名=Natsume Shibana
 夏目檸檬=Natsume Remon
 夏目残夏=Natsume Zange
-夏目漱石=Natsume Sōseki/Sōseki Natsume
 夏目球児=Natsume Kyūji
 夏目直貴=Natsume Naotaka
 夏目真尋=Natsume Mahiro
@@ -14211,7 +14161,6 @@
 外村光輔=Sotomura Kōsuke
 外村夏紀=Sotomura Natsuki
 外村晶子=Hokamura Akiko
-外村秀雄=Sotomura Hideo
 外村美鈴=Sotomura Misuzu
 外海良基=Tonogai Yoshiki
 外神雅人=Togami Masato
@@ -14354,7 +14303,6 @@
 大原耕一=Oohara Kōichi
 大原育子=Oohara Ikuko
 大友京子=Ootomo Kyoko
-大友克洋=Otomo Katsuhiro
 大友勝利=Ootomo Katsutoshi
 大友宗麟=Otomo Sōrin
 大友康平=Ootomo Kōhei
@@ -15069,7 +15017,6 @@
 天童和光=Tendō Kazumitsu
 天童太星=Tendō Taisei
 天童悠希=Eniwa Airi/Tendō Yūki
-天童木更=Tendō Kisara
 天童瑠璃=Tendō Ruri
 天童辰夫=Tendō Tatsuo
 天童院椿=Tendōin Tsubaki
@@ -15091,7 +15038,6 @@
 天若清弦=Amawaka Seigen
 天草十三=Amakusa Jūza
 天草善次=Amakusa Zenji
-天草四郎=Amakusa Shirō
 天草志郎=Amakusa Shiro
 天草春明=Amakusa Haruaki
 天草理緒=Amakusa Rio
@@ -15141,7 +15087,6 @@
 天野景太=Amano Keita
 天野晴人=Amano Haruhito
 天野月子=Amano Tsukiko
-天野正道=Amano Masamichi
 天野涼太=Amano Ryota
 天野照美=Amano Terumi
 天野由梨=Amano Yuri
@@ -15186,7 +15131,6 @@
 天鷲剛三=Amawashi Gozo
 太一宇道=Taiichi Udo
 太上老君=Taijō Rōkun
-太乙真人=Taiitsu Shinjin
 太刀川慶=Tachikawa Kei
 太刀川瞳=Tachikawa Hitomi
 太刀川都=Tachikawa Miyako
@@ -15450,7 +15394,6 @@
 子国恭一=Nekuni Kyōichi
 子城彼方=Kanata Nejiro
 子安光樹=Koyasu Kōki
-子安武人=Koyasu Takehito
 子林英二=Kobayashi Eiji
 子門真人=Shimon Masato
 子門真明=Masaaki Shimon
@@ -15487,7 +15430,6 @@
 宇垣和枝=Ugaki Kazue
 宇垣成子=Ugaki Seiko
 宇垣秀成=Ugaki Hidenari
-宇多田光=Utada Hikaru
 宇宙人X=Alien X
 宇宙皇子=Utsunomiko
 宇山玲加=Uyama Reika
@@ -16681,7 +16623,6 @@
 小泉彩芽=Koizumi Ayame
 小泉梨奈=Koizumi Rina
 小泉涼子=Koizumi Ryōko
-小泉真昼=Koizumi Mahiru
 小泉真美=Koizumi Mami
 小泉紀介=Koizumi Kisuke
 小泉紅子=Koizumi Akako
@@ -17683,7 +17624,6 @@
 岩永城児=Iwanaga Jōji
 岩永巡査=Iwanaga Junsa
 岩永洋昭=Iwanaga Hiroaki
-岩永琴子=Iwanaga Kotoko
 岩沢彩生=Iwasawa Saki
 岩沢雅美=Iwasawa Masami
 岩河清家=Iwakawa Kiyoie
@@ -18025,7 +17965,6 @@
 川崎文隆=Kawasaki Fumitaka
 川崎朋香=Kawasaki Tomoka/Tomoka
 川崎来夢=Kawasaki Raimu
-川崎沙希=Kawasaki Saki
 川崎洋三=Kawasaki Yōzō
 川崎真央=Kawasaki Mao
 川崎美羽=Kawasaki Miu
@@ -18085,7 +18024,6 @@
 川神一子=Kawakami Kazuko
 川神百代=Kawakami Momoyo
 川神鉄心=Kawakami Tesshin
-川端康成=Kawabata Yasunari
 川端快彰=Kawabata Yoshiaki
 川端未来=Kawabata Miku
 川端満男=Kawabata Mitsuo
@@ -18404,7 +18342,6 @@
 平田敏夫=Hirata Toshio
 平田明史=Hirata Akifumi
 平田智浩=Hirata Tomohiro
-平田洋介=Hirata Yōsuke
 平田真菜=Hirata Mana
 平田秀一=Hirata Shūichi
 平田篤司=Hirata Atsushi
@@ -18437,7 +18374,6 @@
 平野美和=Hirano Miwa
 平野義久=Hirano Yoshihisa
 平野義和=Hirano Yoshikazu
-平野耕太=Hirano Kōta
 平野良貴=Hirano Yoshiki
 平野貴裕=Hirano Takahiro
 平野道雄=Hirano Michio
@@ -18555,13 +18491,11 @@
 庖丁正宗=Hōchō Masamune
 店長神山=Manager Kamiyama
 座名九郎=Ichikawa
-座敷童子=Zashiki Warashi Ichiko/Zashiki Warashi Niko/Zashiki-warashi
 庭妻繁典=Niwazuma Shigenori
 庵堂宏一=Ando Koichi
 庵堂怜子=Ando Reiko
 庵條瑠衣=Anjō Rui
 庵野波平=Anno Namihei
-庵野秀明=Anno Hideaki
 廉野亮太=Renno Ryōta
 廣岡新也=Hirooka Shinya
 廣川三憲=Hirokawa Mitsunori
@@ -18789,7 +18723,6 @@
 御園霧香=Misono Kirika
 御坂春子=Misaka Haruko
 御坂矜持=Misaka Kyōji
-御坂美琴=Misaka Mikoto
 御坊亀光=Obō Kamemitsu
 御坊茶魔=Obocchama
 御城摩耶=Oshiro Maya
@@ -18998,7 +18931,6 @@
 志濃涼子=Shino Ryōko
 志熊恭平=Shiguma Kyōhei
 志熊栄都=Shiguma Eito
-志熊理科=Shiguma Rika
 志田周作=Shida Shūsaku
 志田智明=Shida Tomoaki
 志田有彩=Shida Arisa
@@ -19201,7 +19133,6 @@
 我妻善逸=Agatsuma Zenitsu
 我妻弐郎=Azuma Jirō
 我妻正崇=Azuma Masataka
-我妻由乃=Gasai Yuno
 我妻秋一=Wagatsuma Shūichi
 我妻絹衣=Azuma Kinue
 我妻草灯=Agatsuma Sōbi
@@ -19891,7 +19822,6 @@
 日生優希=Hinase Yūki
 日生直輝=Hinase Naoki
 日立渡辺=Hitachi Watanabe
-日笠陽子=Hikasa Yōko
 日置長俊=Hioki Nagatoshi
 日置順子=Heki Junko
 日車寛見=Higuruma Hiromi
@@ -20078,7 +20008,6 @@
 明智光一=Akechi Kōichi
 明智光理=Akechi Hikari
 明智光男=Akechi Mitsuo
-明智光秀=Akechi/Akechi Mitsuhide
 明智吾郎=Akechi Gorō
 明智小衣=Akechi Kokoro
 明智恵理=Akechi Eri
@@ -20304,7 +20233,6 @@
 春日野悠=Kasugano Haruka
 春日野旭=Kasugano Asahi
 春日野椿=Kasugano Tsubaki
-春日野穹=Kasugano Sora
 春日野道=Kasuganomichi
 春日野遥=Kasugano Haruka
 春日野零=Kasugano Ray
@@ -20687,7 +20615,6 @@
 服部半蔵=Hattori/Hattori Hanzo/Hattori Hanzō
 服部君信=Hatorri Kiminobu
 服部安信=Hattori Yasunobu
-服部平次=Hattori Heiji
 服部平蔵=Hattori Heizō
 服部幸子=Hattori Yukiko
 服部幸應=Hattori Yukio
@@ -20934,7 +20861,6 @@
 木寺実莉=Kidera Minori
 木尾士目=Kio Shimoku
 木屋功治=Kiya Kōji
-木山春生=Kiyama Harumi
 木山智則=Kiyama Tomonori
 木山瑞嬉=Kiyama Mizuki
 木島亮介=Kijima Ryōsuke
@@ -21014,7 +20940,6 @@
 木村恵子=Kimura Keiko
 木村愛美=Kimura Manami
 木村成一=Kimura Seiichi
-木村拓哉=Kimura Takuya
 木村文乃=Kimura Fumino
 木村日翠=Kimura Hisui
 木村日菜=Kimura Hina
@@ -21496,7 +21421,6 @@
 村田蓮爾=Murata Range
 村田鉄子=Murata Tetsuko
 村田鉄矢=Murata Tetsuya
-村田雄介=Murata Yusuke
 村田雨月=Murata Ugetsu
 村紗水蜜=Murasa Minamitsu
 村西弥生=Muranishi Yayoi
@@ -21710,7 +21634,6 @@
 松下一郎=Matsushita Ichirō
 松下亜紀=Matsushita Aki
 松下優也=Matsushita Yuya
-松下千秋=Matsushita Chiaki
 松下容子=Matsushita Yoko
 松下幸治=Matsushita Kōji
 松下慶子=Matsushita Keiko
@@ -21780,7 +21703,6 @@
 松尾早人=Matsuo Hayato
 松尾真砂=Matsuo Masago
 松尾竜二=Matsuo Ryūji
-松尾芭蕉=Matsuo Basho/Matsuo Bashō
 松尾貴史=Matsuo Takashi
 松尾道蕉=Matsuo Dōshō
 松尾銀三=Matsuo Ginzō
@@ -22144,7 +22066,6 @@
 柏崎天馬=Kashiwazaki Pegasus
 柏崎念至=Kashiwazaki Nenji
 柏崎愛奈=Kashiwazaki Aina
-柏崎星奈=Kashiwazaki Sena
 柏崎百合=Kashiwazaki Yuri
 柏木　舞=Kashiwagi Mai
 柏木 琴=Kashiwagi Koto
@@ -22395,7 +22316,6 @@
 栗原雪菜=Kurihara Yukina
 栗坂南美=Kurisaka Minami
 栗宮 茜=Kurimiya Akane
-栗山千明=Kuriyama Chiaki
 栗山奈菜=Kuriyama Nana
 栗山愛子=Kuriyama Aiko
 栗山拓也=Kuriyama Takuya
@@ -22578,7 +22498,6 @@
 桐山和雄=Kiriyama Kazuo
 桐山智花=Kiriyama Tomoka
 桐山桃香=Kiriyama Momoka
-桐山生叶=Kiriyama Ikuto
 桐山真琴=Makoto Kiriyama
 桐山美花=Kiriyama Mika
 桐山英治=Eiji Kiiriyama
@@ -22931,7 +22850,6 @@
 梅里紗生=Umesato Saki
 梅野雅巳=Umeno Masami
 梓夜凪砂=Azuya Nagisa
-梓川咲太=Azusagawa Sakuta
 梓川月乃=Azusagawa Tsukino
 梓川水乃=Azusagawa Mizuno
 梓川貞尚=Azusagawa Sadanao
@@ -22994,6 +22912,7 @@
 棚橋鈴音=Tanahashi Suzune
 棟方愛海=Munakata Atsumi
 森上真吾=Morigami Shingo
+森下sū=Morishita Sū
 森下佳澄=Morishita Kasumi
 森下俊一=Morishita Shunichi
 森下加奈=Morishita Kana
@@ -23006,7 +22925,6 @@
 森下美樹=Morishita Miki
 森下美波=Morishita Minami
 森下能幸=Morishita Yoshiyuki
-森下茂男=Morishita Shigeo
 森下裕美=Morishita Hiromi
 森下麗美=Morishita Remi
 森丘藍子=Morioka Ranko
@@ -23233,7 +23151,6 @@
 植草智之=Uekusa Tomoyuki
 植野宏二=Ueno Koji
 植野浩之=Ueno Hiroyuki
-植野直花=Ueno Naoka
 植野真由=Ueno Mayu
 椎名七波=Shiina Nanami
 椎名亜季=Shiina Aki
@@ -23255,9 +23172,7 @@
 椎名正繁=Shiina Masashige
 椎名法子=Shiina Noriko
 椎名涼介=Shiina Ryōsuke
-椎名深夏=Shiina Minatsu
 椎名琴音=Shiina Kotone
-椎名真冬=Shiina Mafuyu
 椎名真昼=Shiina Mahiru
 椎名真琴=Shiina Makoto
 椎名竜次=Shiina Ryūji
@@ -23777,7 +23692,6 @@
 武田尚虎=Takeda Naotora
 武田幸史=Takeda Kōji
 武田康廣=Takeda Yasuhiro
-武田弘光=Takeda Hiromitsu
 武田彪馬=Takeda Hyōma
 武田心愛=Takeda Kokoa
 武田恒星=Takeda Kōsei
@@ -24319,7 +24233,6 @@
 永見咲良=Nagami Sakura
 永見涼花=Nagami Suzuka
 永谷敬之=Nagatani Takayuki
-永近英良=Nagachika Hideyoshi
 永遠野守=Towano Mamoru
 永野善一=Nagano Yoshikazu
 永野広一=Nagano Kōichi
@@ -24890,7 +24803,6 @@
 流石聡美=Sasuga Satomi
 浄堂麒麟=Jōdō Kirin
 浄天真子=Jōten Manako
-浅上藤乃=Asagami Fujino
 浅井久政=Azai Hisamasa
 浅井京介=Azai Kyōsuke
 浅井健嗣=Asai Kenji
@@ -25368,7 +25280,6 @@
 清河八郎=Hachirō Kiyokawa/Kiyokawa Hachirō
 清河寺栄=Seiganji Sakae
 清流院笙=Seiryūin Syō
-清浦刹那=Kiyōra Setsuna
 清浦夏実=Kiyōra Natsumi
 清滝桂香=Kiyotaki Keika
 清滝鋼介=Kiyotaki Kōsuke
@@ -25712,7 +25623,6 @@
 澤田良介=Sawada Ryōsuke
 澤部真帆=Sawabe Maho
 澤野弘之=Sawano Hiroyuki
-澪田唯吹=Mioda Ibuki
 澱切陣内=Yodogiri Jinnai
 濡羽綾女=Nureba Ayame
 濡羽美烏=Nureha Miu
@@ -26301,7 +26211,6 @@
 狛井晃葵=Komai Kogi
 狛井蓮季=Komai Hasuki
 狛村左陣=Komamura Sajin
-狛枝凪斗=Komaeda Nagito
 狛江一馬=Komae Kazuma
 狛江奈々=Komae Nana
 狡噛慎也=Kōgami Shinya
@@ -26510,7 +26419,6 @@
 玉野裕也=Tamano Yūya
 玉面公主=Kōshō Gyokumen
 玉館時男=Tamadate Tokio
-玉鼎真人=Gyakutei Shinjin/Master Yuding
 王司弥春=Takatsukasa Miharu
 王城正人=Ôjō Masato
 王子一彰=Ôji Kazuaki
@@ -26982,7 +26890,6 @@
 町田由希=Machida Yuki
 町田祐樹=Machida Yūki
 町田義人=Machida Yoshito
-町田苑子=Machida Sonoko
 町谷知浩=Machiya Tomohiro
 画図町筆=Ezumachi Fude
 界原依鳴=Kaihara Imei
@@ -28092,7 +27999,6 @@
 石岡先輩=Ishioka-senpai
 石島土門=Ishijima Domon
 石島昭義=Ishijima Akiyoshi
-石崎大地=Ishizaki Daichi
 石崎浩一=Ishizaki Kōichi
 石崎監督=Coach Ishizaki
 石崎軍児=Ishizaki Gunji
@@ -28182,7 +28088,6 @@
 石狩勇気=Ishikari Yuki
 石狩幸雄=Ishikari Yukio
 石田一将=Ishida Kazumasa
-石田三成=Ishida Mitsunari
 石田五郎=Ishida Goro
 石田亮賀=Ishida Ryōga
 石田佐吉=Ishida Sakichi
@@ -28352,7 +28257,6 @@
 神代優兎=Kamishiro Yūto
 神代凌牙=Kamishiro Ryōga
 神代凛子=Kōjiro Rinko
-神代利世=Kamishiro Rize
 神代小蒔=Jindai Komaki
 神代愛依=Kamiyo Ai
 神代歩美=Kamishiro Ayumi
@@ -28421,7 +28325,6 @@
 神子田瑛=Kamikoda Akira
 神宗一郎=Jin Soichiro
 神室真司=Kamuro Shinji
-神室真澄=Kamuro Masumi
 神宮司奏=Jinguji Kanade
 神宮寺力=Chikara Jinguji
 神宮寺司=Jingūji Tsukasa
@@ -28484,7 +28387,6 @@
 神崎萌美=Kanzaki Moemi
 神崎蘭子=Kanzaki Ranko
 神崎貴至=Kanzaki Takashi
-神崎隆二=Kanzaki Ryūji
 神崎雄哉=Kanzaki Yūya
 神崎颯馬=Kanzaki Sōma
 神崎麗美=Kanzaki Urumi
@@ -28660,7 +28562,6 @@
 福井柚嬉=Fukui Yuzuki
 福井美樹=Fukui Miki
 福井謙二=Fukui Kenji
-福井雄太=Fukui Yuta
 福元一花=Fukumoto Ichika
 福元二葉=Fukumoto Futaba
 福助豆男=Fukusuke Mameo
@@ -28830,7 +28731,6 @@
 秋月大和=Akitsuki Yamato
 秋月奏夜=Akizuki Sōya
 秋月孝三=Akizuki Kōzō
-秋月孝雄=Akizuki Takao
 秋月律子=Akizuki Ritsuko
 秋月志乃=Akidzuki Shino
 秋月怜美=Akizuki Satomi
@@ -29999,7 +29899,6 @@
 織部順平=Oribe Junpei
 繭村琢也=Mayumura Takuya
 繰馬雷蔵=Kurima Raizō
-罪木蜜柑=Tsumiki Mikan
 羅塩大尊=Rashio Taison
 羅漢堂旭=Rakandō Akira
 羅生紘明=Rashō Hiroaki
@@ -30730,7 +30629,6 @@
 茜木温子=Akanegi Atsuko
 茨木圭介=Ibaraki Keisuke
 茨木種彦=Ibaragi Tanehiko
-茨木童子=Ibaraki-dōji
 茨木華扇=Ibaraki Kasen
 茨木蒼鉄=Ibaragi Sōtetsu
 茶乱網武=Chamidare Amitake
@@ -31203,7 +31101,6 @@
 葛城　舞=Katsuragi Mai
 葛城七穂=Katsuragi Nanaho
 葛城天人=Katsuragi Tenjin
-葛城康平=Katsuragi Kōhei
 葛城政典=Katsuragi Masanori
 葛城映司=Katsuragi Eiji
 葛城朱天=Katsuragi Shuten
@@ -31412,7 +31309,6 @@
 藤井一加=Fujii Ichika
 藤井七海=Fujii Nanami
 藤井京子=Fujii Kyoko
-藤井冬弥=Fujii Tōya
 藤井刑事=Detective Fujii
 藤井千里=Fujii Chisato/Fujii Chiyo
 藤井博子=Fujii Hiroko
@@ -31459,7 +31355,6 @@
 藤原光子=Fujiwara Hikaruko
 藤原公任=Fujiwara no Kintō
 藤原利仙=Fujiwara Rise
-藤原千花=Fujiwara Chika
 藤原和王=Fujiwara Kazuo
 藤原啓治=Fujiwara Keiji
 藤原基央=Fujiwara Motoo
@@ -31836,7 +31731,6 @@
 虹川幸雄=Nijikawa Yukio
 虹村修造=Nijimura Shūzō
 虹村億泰=Nijimura Okuyasu
-虹村形兆=Nijimura Keichō
 虹枝光世=Nijieda Mitsuyo
 虹野沙希=Nijino Saki
 虹野美晴=Nijino Miharu
@@ -32537,7 +32431,6 @@
 赤木君枝=Akagi Kimie
 赤木将馬=Akagi Shōma
 赤木康平=Akagi Kōhei
-赤木晴子=Akagi Haruko
 赤木正文=Akagi Masafumi
 赤木英児=Akagi Eiji
 赤木英雄=Akagi Hideo
@@ -32617,7 +32510,6 @@
 越智一真=Ochi Kazuma
 越智光臣=Ochi Mitsuomi
 越智千文=Ochi Chifumi
-越智康介=Ochi Kōsuke
 越智志帆=Ochi Shiho
 越智美諭=Ochi Misato
 越智義彦=Ochi Yoshihiko
@@ -32808,7 +32700,6 @@
 近藤浩章=Kondō Hiroaki
 近藤玲奈=Kondō Reina
 近藤玲子=Kondō Reiko
-近藤玲音=Kondō Reo
 近藤留夏=Kondō Ruka
 近藤真子=Kondō Mako
 近藤紀里=Kondō Kiri
@@ -32857,7 +32748,6 @@
 逆蔵十三=Sakakura Jūzō
 逆鬼至緒=Sakaki Shio
 透明人間=Invisible Man
-通天教主=Tsūten Kyōshu
 通畠寿里=Toribata Juri
 速水久美=Hayami Kumi
 速水俊介=Hayami Shunsuke
@@ -33153,7 +33043,6 @@
 酒井美羽=Sakai Miwa
 酒井陽菜=Sakai Hina
 酒向雄豪=Sakō Yūgō
-酒吞童子=Shuten Dōji/Shuten-doji
 酒呑童子=Shuten-dōji/Shutendōji
 酒奇溝六=Sakaki Doburoku
 酒巻光宏=Sakamaki Mitsuhiro
@@ -34541,7 +34430,6 @@
 青坂氷柱=Aosaka Tsurara
 青天国春=Nabatame Haru
 青実六汰=Aozane Rokuta
-青山七海=Aoyama Nanami
 青山俊介=Aoyama Shunsuke
 青山修二=Aoyama Shūji
 青山優雅=Aoyama Yūga
@@ -34708,7 +34596,6 @@
 鞍馬雪丸=Kurama Yukimaru
 鞍馬雲海=Kurama Unkai
 鞘総逸樹=Tomofusa Itsuki
-鞠川静香=Marikawa Shizuka
 韓遂文約=Kansui Bunyaku
 韮崎理子=Nirasaki Riko
 韮川頼子=Niragawa Noriko
@@ -34964,7 +34851,6 @@
 飛鷹天馬=Hidaka Tenma
 飛鷹征矢=Tobitaka Seiya
 飛鷹猛丸=Hidaka Takemaru
-食蜂操祈=Shokuhō Misaki
 飯加玄南=Iika Gennan
 飯原有香=Iihara Yuka
 飯合誠一=Meshiai Seiichi
@@ -35187,7 +35073,6 @@
 骨川筋介=Honekawa Kinsuke
 骨川筋緒=Sujikawa Honeo
 骨抜柔造=Honenuki Jūzō
-骷髅精灵=Kulō Jingling
 髑髏鬼灯=Dokuro Hoozuki
 高上春樹=Takagami Haruki
 高上聯弥=Kōgami Renya
@@ -35243,7 +35128,6 @@
 高台茂子=Kōdai Shigeko
 高品龍一=Takashina Ryūichi
 高土屋全=Takazuchiya Zen
-高坂京介=Kōsaka Kyōsuke
 高坂伊織=Kōsaka Iori
 高坂佳乃=Kōsaka Yoshino
 高坂大介=Kōsaka Daisuke
@@ -35251,7 +35135,6 @@
 高坂攻輝=Takasaka Kōki
 高坂昌信=Kōsaka Masanobu
 高坂朱里=Takasaka Juri
-高坂桐乃=Kōsaka Kirino
 高坂樹理=Kōsaka Juri
 高坂海美=Kōsaka Umi
 高坂潤平=Kōsaka Junpei
@@ -35274,7 +35157,6 @@
 高城大和=Takajō Yamato
 高城寛子=Takashiro Hiroko
 高城弘貴=Takajo Hiroki
-高城沙耶=Takagi Saya
 高城秋五=Takashiro Shūgo
 高城麗子=Takagi Reiko
 高塚智人=Takatsuka Tomohito
@@ -36683,7 +36565,6 @@
 万丈響=Banjo Hibiki
 万両苺=Manryō Ichigo
 万亀江=Makie
-万事屋=Yorozuya
 万二郎=Manjirō
 万佐代=Masayo
 万偶数=Mongoose
@@ -36743,7 +36624,6 @@
 三九郎=Sankurō
 三五十=3-5-10/30-50
 三五郎=Sangorō
-三井寿=Mitsui Hisashi
 三代目=Sandaime
 三兎湊=Mito Minato
 三十郎=Sanjuro/Sanjūrō
@@ -36988,7 +36868,6 @@
 不死川=Fujikawa/Shinazugawa
 不比等=Fuhito
 不由美=Fuyumi
-不知火=Genan/Shiranui
 不破豹=Fuwa Hyō
 不良牛=Furyōushi
 不霊夢=Flame
@@ -37483,7 +37362,6 @@
 五条修=Gojō Osamu
 五条勝=Gojō Masaru
 五条夕=Gojō Yū
-五条悟=Gojō Satoru
 五条薫=Gojō Kaoru
 五次郎=Gojirō
 五浪丸=Gorōmaru
@@ -37543,7 +37421,6 @@
 井玲子=Reiko
 井種田=Itaneda
 井良沢=Irasawa
-井豪永=Igō Hisashi
 井野優=Ino Masaru
 亘理温=Yutaka Watari
 些々河=Sasagawa
@@ -37847,7 +37724,6 @@
 伊集院=Ijuin/Ijūin
 伊須栞=Isu Shiori
 伍代隼=Godai Shun
-伍六七=Wu Liuqi
 伍兵衛=Gōhei
 伏木蔵=Fushikizō
 伏未夏=Fushi Minatsu
@@ -37863,7 +37739,6 @@
 伝鬼坊=Denkibo
 伟特伟=Wei Te
 伯安子=Bo Anzi
-伯邑考=Hakuyūkō
 伴伸賢=Ban Nobutaka
 伴力也=Ban Rikiya
 伴天連=Missionary
@@ -37872,14 +37747,12 @@
 伴鳳扇=Ban Hōsen
 伸一郎=Shinichiro/Shinichirō
 伸二郎=Shinjirō
-伸太郎=Shintarō/Tsukumo
 伽奈子=Kanako
 伽樓羅=Karura
 伽藍堂=Garandō
 佃太一=Tsukuda Taichi
 佃真央=Tsukuda Mao
 佃美奈=Tsukuda Mina
-住之江=Suminoe
 住吉屋=Sumiyoshiya
 住吉梓=Azusa Sumiyoshi
 住吉透=Sumiyoshi Tooru
@@ -38179,7 +38052,6 @@
 光川緑=Mitsukawa Ryoku
 光才老=Kosairo
 光明寺=Kōmyōji
-光源氏=Genji Hikaru/Hikaru Genji
 光熱斗=Hikari Netto
 光石操=Mitsuishi Misao
 光石研=Mitsuishi Ken
@@ -38288,7 +38160,6 @@
 八神優=Yagami Yū
 八神咲=Yagami Saki
 八神巴=Yagami Tomoe
-八神庵=Yagami Iori
 八神純=Yagami Jun
 八神葵=Yagami Aoi
 八神進=Yagami Susumu
@@ -38327,7 +38198,6 @@
 六太郎=Rokutarō
 六弦歩=Rokugen Ayumu
 六月透=Mutsuki Tooru
-六本木=Roppongi
 六条実=Rokujō Minori
 六条寺=Rokujoji
 六波羅=Rokuhara
@@ -38737,7 +38607,6 @@
 北条凌=Hōjō Ryō
 北条凛=Hōjō Rin
 北条勝=Hōjō Masaru
-北条司=Hojo Tsukasa
 北条団=Hōjō Dan
 北条彰=Hōjō Akira
 北条徹=Hōjō Tōru
@@ -38763,7 +38632,6 @@
 北道山=Hokudōzan
 北野堅=Kitano Ken
 北野強=Kitano Tsuyoshi
-北野武=Kitano Takeshi
 北香那=Kita Kana
 十一月=Shiyi Yue
 十七夜=Kanō
@@ -38818,7 +38686,6 @@
 千代延=Chiyonobu
 千代松=Chiyomatsu
 千代理=Chiyori
-千代田=Chiyoda
 千代蔵=Chozo
 千代野=Chiyono
 千住明=Senju Akira
@@ -38915,7 +38782,6 @@
 半田桃=Handa Tō
 半田馨=Hanta Kaoru
 半蔵門=Hanzōmon
-卑弥呼=Himiko
 卑留呼=Hiruko
 卑美子=Himiko
 卓志村=Shimura Suguru
@@ -38932,7 +38798,6 @@
 南先生=Minami/Minami-sensei
 南光坊=Nankōbō
 南冬馬=Minami Tōma
-南十字=Minami Jūji
 南千秋=Minami Chiaki
 南々井=Nanai
 南原環=Nanbara Tamaki
@@ -39344,7 +39209,6 @@
 周一郎=Shuichiro/Shūichirō
 周万姫=Chō Wanzhen
 周五郎=Shūgorō
-周公瑾=Zhō Gongjin
 周友良=Chow Yu Liang
 周梅麗=Zhō Mei Li
 周泽楷=Zhō Zekai
@@ -39810,7 +39674,6 @@
 壌晴彦=Jō Haruhiko
 士夏彦=Shinatsuhiko
 壬生狂=Mibu Kyō
-壮一郎=Soichirō/Sōichiro/Sōichirō
 壮太郎=Sōtarō
 壱之輔=Ichinosuke
 壱川新=Ichikawa Arata
@@ -39820,7 +39683,6 @@
 夏之丞=Natsunojō
 夏之介=Natsunosuke
 夏伍郎=Natsugorō
-夏侯惇=Kakōton/Xiahō Dun
 夏侯才=Kakōsai
 夏侯淵=Kakōen/Xiahō Yuan
 夏倾月=Xia Qingyue
@@ -39944,7 +39806,6 @@
 夜木沼=Yaginuma
 夜桜万=Yozakura Ban
 夜桜百=Yozakura Momo
-夜神月=Yagami Light
 夜道雪=Yomichi Yuki
 夜點会=Yo Tekai
 夢前光=Yumesaki Hikari
@@ -40034,7 +39895,6 @@
 大塚学=Ootsuka Manabu
 大塚愛=Otsuka Ai
 大塚舞=Ootsuka Mai
-大天狗=Dai-Tengu/Ootengu
 大太刀=Ootachi
 大好誠=Ooyoshi Makoto
 大妖狐=Dai Yoko
@@ -40174,7 +40034,6 @@
 大蔵猛=Okura Takeru
 大蔵翔=Okura Sho
 大蔵風=Okura Fū
-大蛇丸=Orochimaru
 大蛇卓=Oomi Suguru
 大西望=Onishi Nozomi
 大観寺=Daikanji
@@ -40366,8 +40225,6 @@
 太刀風=Tachikaze
 太史慈=Taishiji
 太士郎=Tashirō
-太宰治=Dazai Osamu
-太平洋=Taihei Hiroshi
 太志郎=Taishirō
 太田優=Oota Yū
 太田光=Oota Hikaru
@@ -40507,7 +40364,6 @@
 妃名子=Hinako
 妃呂子=Hiroko
 妃美子=Himiko
-妃英理=Kisaki Eri
 妃菜喜=Hinaki
 妃魅禍=Queen Himika
 妖刀姫=Yoto Hime/Yoto-hime
@@ -40523,7 +40379,6 @@
 妻夫木=Tsumabuki
 姉小路=Anekōji
 姉崎悟=Anezaki Satoru
-始皇帝=First Emperor/Shikōtei
 姑獲鳥=Ubume
 委乃雨=Akane
 委員長=Chairman/Class Rep/Iinchō
@@ -40584,7 +40439,6 @@
 孔鸿俊=Kong Hongjun
 存在X=Existence X
 孙亚楠=Sun Yanan
-孙悟空=Wukong Sun
 孙浩轩=Sun Haoxuan
 孝一郎=Kōichirō
 孝太朗=Kōtarō
@@ -40609,12 +40463,10 @@
 宇井郡=Ui Koori
 宇佐元=Usamoto
 宇佐木=Usagi
-宇佐美=Usami/Uzami
 宇佐見=Usami
 宇和島=Uwajima
 宇和川=Uwagawa
 宇和目=Uwame
-宇喜多=Ukita
 宇喜田=Ukita
 宇因奈=Uinna
 宇多子=Utako
@@ -40750,7 +40602,6 @@
 宗我部=Sogabe
 宗方仁=Munakata Jin
 宗方圭=Munakata Kei
-宗次郎=Sojiro/Sōjirō
 宗田理=Sōda Osamu
 宗谷雪=Sōya Yuki
 官九郎=Kankurō
@@ -40990,7 +40841,6 @@
 小之原=Konohara
 小之森=Konomori
 小二郎=Kojirō
-小五郎=Kogoro/Kogorō
 小井戸=Koido
 小仏凪=Kobotoke Nagi
 小佐波=Ozanami
@@ -41033,7 +40883,6 @@
 小奈美=Konami
 小宇宙=Kosumo
 小守真=Komori Makoto
-小室孝=Komuro Takashi
 小室等=Komuro Hitoshi
 小宮山=Komiyama
 小宮流=Komiya Nagare
@@ -41129,7 +40978,6 @@
 小橋夢=Kobashi Yume
 小橋川=Kobashigawa
 小檜山=Kobiyama/Kohiyama
-小次郎=Fūma Kojirō/Kojiro/Kojirō/Kojirō Taketaka
 小此木=Okonogi
 小比奈=Kohina
 小池健=Koike Takeshi
@@ -41157,7 +41005,6 @@
 小田井=Odai
 小田倉=Otakura
 小田切=Odagiri/Otagiri
-小田原=Odawara
 小田垣=Odagaki
 小田島=Odajima/Odajima Sakai
 小田嶋=Odajima
@@ -41171,7 +41018,6 @@
 小田誠=Koda Makoto
 小田部=Kotabe
 小田霧=Odagiri
-小畑健=Obata Takeshi
 小百合=Kobayashi Sayuri/Sayuri
 小矢島=Oyajima
 小石川=Koishikawa
@@ -41215,7 +41061,6 @@
 小野塚=Onozuka
 小野学=Ono Manabu
 小野宮=Onomiya
-小野寺=Onodera
 小野屋=Onoya
 小野崎=Onozaki
 小野川=Onogawa
@@ -41837,7 +41682,6 @@
 平井大=Hirai Dai
 平井翼=Hirai Tsubasa
 平倩如=Ping Qianru
-平八郎=Heihachiro/Heihachirō
 平凡人=Taira Bondo
 平勝伊=Taira Katsui
 平参平=Taira Sanpei
@@ -41848,7 +41692,6 @@
 平唯一=Tadakazu Taira
 平坂彩=Hirasaka Aya
 平坂樹=Hirasaka Itsuki
-平塚静=Hiratsuka Shizuka
 平大地=Taira Daichi
 平太郎=Heitaro/Heitarō
 平子丈=Hirako Take
@@ -41908,7 +41751,6 @@
 平高清=Taira no Takakiyo
 年乃助=Toshinosuke
 年着勝=Toshitsuku Katsu
-幸一郎=Kōichirō
 幸三郎=Kōzaburō
 幸之助=Kohnosuke/Konosuke
 幸吉郎=Kōkichirō
@@ -42340,7 +42182,6 @@
 慈雲坊=Jiunbo
 慎一郎=Shin'ichirō/Shinichiro/Shinichirō
 慎乃佑=Shinnosuke
-慎之介=Shinnosuke
 慎之助=Shinnosuke/Shinsuke
 慎二郎=Shinjirō
 慎太郎=Nakaoka/Shintarō
@@ -42464,7 +42305,6 @@
 才賀勝=Saiga Masaru
 打樋透=Utebi Tooru
 扶桑忍=Fusō Hijiri
-承太郎=Jōtarō
 折原梢=Orihara Kozue
 折原舞=Orihara Mai
 折原薫=Orihara Kaoru
@@ -42480,7 +42320,6 @@
 抜天坊=Battenbō
 択捉鯨=Etorofu Kujira
 押井剛=Oshii Tsuyoshi
-押井守=Oshii Mamoru
 押井知=Oshii Tomo
 押川剛=Oshikawa Takeshi
 拓跋淵=Tuoba Tuan
@@ -42715,11 +42554,9 @@
 日昇葵=Hinobori Aoi
 日暮里=Nippori
 日本,=Japan
-日本人=Himoto Hitoshi
 日本号=Nihongō
 日村路=Himura Ichirō
 日枝狼=Hierō
-日比谷=Hibiya
 日比野=Hibino/Iibino
 日沙子=Hisako
 日泥保=Hidoro Tamotsu
@@ -42761,7 +42598,6 @@
 日高薫=Hidaka Kaoru
 日高隼=Hidaka Hayato
 日魅子=Himiko
-早乙女=Saotome/Wakana
 早坂優=Hayasaka Yū
 早坂彰=Hayasaka Akira
 早坂愛=Hayasaka Ai
@@ -42832,7 +42668,6 @@
 明日真=Asuma
 明日美=Asumi
 明日翔=Asuka
-明日花=Asuka
 明日菜=Asuna
 明日葉=Ashitaba/Asuha
 明日音=Asune
@@ -43312,7 +43147,6 @@
 本成寺=Honjōji
 本村裕=Motomura Hiroshi
 本条聖=Honjō Hijiri
-本杰明=Benjamin
 本橋紬=Motohashi Tsumugi
 本渡楓=Hondo Kaede/Sakura
 本田修=Honda Osamu
@@ -43465,7 +43299,6 @@
 杏寿郎=Kyōjurō
 杏花音=Akane
 杏里沙=Arisa
-材木座=Zaimokuza
 村上保=Murakami Tamotsu
 村上巴=Murakami Tomoe
 村上泉=Murakami Izumi
@@ -44061,7 +43894,6 @@
 桂林道=Katsura Rindō
 桂横平=Katsura Ôhei
 桂正作=Katsura Shōsaku
-桂正和=Katsura Masakazu
 桂玲子=Katsura Reiko
 桂結衣=Katsura Yui
 桂美々=Katsura Mimi
@@ -44077,7 +43909,6 @@
 桃千代=Momochiyo
 桃園桃=Momozono Momo
 桃城武=Momoshiro Takeshi
-桃太郎=Momotaro/Momotarō
 桃子;=Momoko
 桃山南=Momoyama Minami
 桃山灯=Momoyama Akari
@@ -44085,7 +43916,6 @@
 桃瀬修=Momose Shū
 桃瀬晶=Momose Akira
 桃瀬遍=Momose Amane
-桃白白=Tao Pai Pai
 桃衣愛=Momoi Ai
 桃衣舞=Momoi Mai
 桃野椿=Momono Tsubaki
@@ -44882,7 +44712,6 @@
 毒田美=Dokudami
 毒空木=Dokūtsugi
 比丘尼=Bikuni
-比企谷=Hikigaya
 比名子=Hinako
 比名瀬=Hinase
 比呂乃=Hirono
@@ -45209,7 +45038,6 @@
 沙巫女=Suna Miko
 沙弥香=Sayaka
 沙恵子=Saeko
-沙悟净=Sha Wujing
 沙悟浄=Sagojo/Sagojō/Sha Gojō
 沙斗未=Satomi
 沙斗理=Satori
@@ -45370,7 +45198,6 @@
 法華津=Hoketsu
 法螺田=Horada
 波原霞=Namihara Kasumi
-波塞冬=Poseidon
 波多乃=Hatano
 波多野=Hatano
 波夷羅=Haira/Sanposhi
@@ -45493,7 +45320,6 @@
 浩二郎=Kōjirō
 浩司郎=Kōjirō/Kōshirō
 浩太朗=Kōtarō
-浩太郎=Kōtarō
 浩隆飛=Hirotaka Tobi
 浪燕青=Rō Ensei
 浮浪児=Vagrant child
@@ -45529,7 +45355,6 @@
 海空来=Mikura
 海美帆=Umiho
 海老原=Ebihara
-海老名=Ebina/Yū
 海老大=Boss Hai
 海老川=Ebikawa
 海老沢=Ebisawa
@@ -45837,7 +45662,6 @@
 潮崎渚=Shiozaki Nagisa
 潮恵子=Ushio Keiko
 潮渡渚=Shiowatari Nagisa
-潮田渚=Shiota Nagisa
 潮留至=Shiodome Itaru
 澄田宙=Sumida Sora
 澄里凛=Sumisato Rin
@@ -45926,7 +45750,6 @@
 灯中優=Tōnaka Yū
 灯吾椿=Tsubaki Tōgo
 灯独歩=Akari Doppo
-灰原哀=Haibara Ai
 灰吹陽=Kaibuki Akira
 灰吹静=Kaibuki Shizuka
 灰村切=Haimura Kiri
@@ -46222,7 +46045,6 @@
 玉生烟=Yu Shenyan
 玉田敏=Tamada Satoshi
 玉置厚=Tamaki Atsushi
-玉藻前=Tamamo no Mae/Tamamo no mae/Tamamo-no-Mae/no Mae Tamamo
 玉野井=Tamanoi
 玉野光=Tamano Hikaru
 王三郎=Ôzaburō
@@ -46551,7 +46373,6 @@
 甲本明=Kōmoto Akira
 甲賀幻=Kōga Gen
 甲賀葛=Kōga Tsuzura
-申公豹=Shen Gongbao/Shinkohyō
 申太郎=Shintaro
 男久斗=Okuto
 町京子=Machi Kyōko
@@ -46615,10 +46436,8 @@
 白冰嵐=Binglan Bai
 白咲花=Shirosaki Hana
 白土武=Shirato Takeshi
-白夜叉=Shiroyasha
 白夜王=Byakuya Ô
 白夢華=Bai Mongfa
-白娘子=Bai Niang
 白宗泉=Bai Zongquan
 白山坊=Hakusanbo
 白峰周=Shiramine Itaru
@@ -46729,7 +46548,6 @@
 百合園=Yurizono
 百合城=Yurishiro
 百合奈=Kimikage Yurina/Yurina
-百合子=Yuriko
 百合崎=Yurizaki
 百合恵=Yurie
 百合枝=Yurie
@@ -46763,7 +46581,6 @@
 百野栞=Momono Shiori
 百面相=Hyakumen Shō
 百香里=Yukari
-百鬼丸=Hyakkimaru
 百鬼牙=Hyakkiga
 的場井=Matobai
 的場卓=Matoba Suguru
@@ -46834,7 +46651,6 @@
 相川守=Aikawa Mamoru
 相川歩=Aikawa Ayumu
 相楽玲=Sagara Rei
-相模南=Sagami Minami
 相模原=Sagamihara
 相模屋=Sagamiya
 相模恋=Sagami Ren
@@ -47460,7 +47276,6 @@
 秋山奏=Akiyama Sō
 秋山楓=Akiyama Kaede
 秋山渉=Akiyama Wataru
-秋山澪=Akiyama Mio
 秋山遼=Akiyama Ryō
 秋山醤=Akiyama Jan
 秋山駿=Akiyama Shun
@@ -47606,7 +47421,6 @@
 立花遥=Tachibana Haruka
 立花響=Tachibana Hibiki
 立野広=Tateno Hiroshi
-竜之介=Ryunosuke/Ryūnosuke/Tatsunosuke
 竜之進=Ryūnoshin
 竜司郎=Ryūjirō
 竜堂余=Ryudo Amaru
@@ -48121,7 +47935,6 @@
 繻子蘭=Shusuran
 纏一身=Matoi Isshin
 纏流子=Matoi Ryūko
-红孩儿=Red Boy
 纪鹤天=Ji Hetian
 纱华铃=Sha Hualing
 纱弥香=Sayaka
@@ -48288,9 +48101,7 @@
 美里優=Misato Suguru
 美里葵=Misato Aoi
 美里薫=Misato Kaoru
-美野里=Minori
 美風藍=Mikaze Ai
-美香子=Mikako
 美馬坂=Mimasaka
 美馬都=Mima Miyako
 美鶴木=Mitsurugi
@@ -48331,7 +48142,6 @@
 羽々里=Hahari
 羽藤桂=Hatō Kei
 羽衣姫=Hagoromo-hime
-羽衣狐=Gitsune Hagoromo
 羽賀聖=Haga Satoshi
 羽風薫=Hakaze Kaoru
 羽香里=Hakari
@@ -48415,7 +48225,6 @@
 臙条巴=Enjō Tomoe
 臙条楓=Enjō Kaede
 臥龍岡=Nagaoka
-自来也=Jiraiya
 自然薯=Jinenjo
 自雷也=Jiraiya
 至極京=Shigoku Kyō
@@ -48468,7 +48277,6 @@
 色部紫=Shikibe Murasaki
 艶光路=Adenokōji
 艶間薫=Enma Kaoru
-艾丽丝=Iris
 芙三歩=Fumiho
 芙奈子=Funako
 芙蓉楓=Fuyō Kaede
@@ -48490,7 +48298,6 @@
 花中桃=Hananaka Momo
 花井梓=Hanai Azusa
 花井遥=Hanai Haruka
-花京院=Kakyoin/Kakyōin
 花代子=Kayoko
 花先輩=Hana-senpai
 花右京=Hanaukyō
@@ -48583,7 +48390,6 @@
 芽川類=Megawa Rui
 芽恵夢=Meemu
 芽斗吏=Metori
-芽衣子=Meiko
 芽衣美=Meimi
 芽衣香=Meika
 苏君竹=Su Junzhu
@@ -48714,7 +48520,6 @@
 草次郎=Sōjirō
 草薙Ｋ=Kusanagi K
 草薙一=Kusanagi Hajime
-草薙京=Kusanagi Kyō
 草薙仁=Kusanagi Jin
 草薙桂=Kusanagi Kei
 草薙漸=Kusanagi Zen
@@ -48759,7 +48564,6 @@
 荻山葵=Ogiyama Aoi
 荻野梓=Ogino Azusa
 荻野目=Oginome
-荻野真=Ogino Makoto
 莉々奈=Ririna
 莉々子=Ririko
 莉々香=Ririka
@@ -49220,7 +49024,6 @@
 蝉沢忍=Semisawa Shinobu
 蝙蝠男=Kōmori-otoko
 蝦怒川=Edogawa
-蝴蝶蓝=Butterfly Blue
 蝶野雛=Chōno Hina
 融念冰=Rong Nian Bing/Rong Nianbing
 螢多朗=Keitarō
@@ -50103,7 +49906,6 @@
 金星爺=Jinshinye
 金春実=Konparu Minoru
 金春正=Konparu Tadashi
-金木研=Kaneki Ken
 金本一=Kanemoto Hajime
 金森楓=Kanomori Kaede
 金森泉=Kanamori Izumi
@@ -50112,7 +49914,6 @@
 金湖月=Hotal Kim
 金物屋=Kanemonoya
 金玟芝=Kim Minji
-金田一=Kindaichi
 金田七=Kaneda Nana
 金田二=Kindani
 金田保=Kaneda Tamotsu
@@ -50369,7 +50170,6 @@
 長野洋=Nagano Hiroshi
 長門守=Nagato
 長門忍=Nagato Shinobu
-长谷川=Hasegawa
 門倉甲=Kadokura Kō
 門前仲=Monzennaka
 門守椿=Kadomori Tsubaki
@@ -50528,7 +50328,6 @@
 陈夜辉=Chen Yehui
 陈文文=Chen Wenwen
 陈监首=Chen Jianshō
-陈老师=Chen
 陈长生=Chen Changsheng
 降幡愛=Furihata Ai
 降矢麟=Furuya Rin
@@ -51211,7 +51010,6 @@
 高梨雫=Takanashi Shizuku
 高森亮=Takamori Ryō
 高槻忍=Takatsuki Shinobu
-高槻泉=Takatsuki Sen
 高槻涼=Takatsuki Ryō
 高槻湊=Takatsuki Minato
 高槻透=Takatsuki Tooru
@@ -51328,7 +51126,6 @@
 魔津尾=Matsuo
 魔狭人=Masato
 魔王様=Mao-sama
-魔理沙=Marisa
 魔界之=Makaino
 魔界樹=Makaiju
 魔礼寿=Ma Reijyu/Mo Lishō
@@ -51978,7 +51775,6 @@
 七娘=Qi
 七子=Nanako
 七守=Nanamori
-七宝=Qi Bao/Shippō
 七実=Nanami
 七宮=Nanamiya/Shichimiya
 七尾=Nanao
@@ -52098,7 +51894,6 @@
 三丘=Mioka
 三並=Minami
 三五=Sango
-三井=Mitsui
 三代=Mishiro
 三佐=Misa
 三佳=Mika
@@ -52116,7 +51911,6 @@
 三品=Mishina
 三善=Miyoshi
 三四=Miyo
-三国=Mikuni/Sangoku
 三國=Mikuni
 三園=Misono
 三坂=Misaka/Sanzaka
@@ -52174,7 +51968,6 @@
 三波=Minami
 三津=Mitsu
 三洲=Arata
-三浦=Kazuyoshi/Miura
 三溝=Samizo
 三澤=Misawa
 三瀬=Mitsuse
@@ -52231,7 +52024,6 @@
 上井=Uei/Kamī
 上代=Kamishiro
 上倉=Kamikura
-上原=Uehara
 上司=Boss/Jōshi
 上園=Uezono
 上地=Kamiji
@@ -52249,7 +52041,6 @@
 上戸=Ueto
 上月=Kamitsuki/Kamizuki/Kōzuki
 上木=Kamiki
-上杉=Uesugi
 上村=Kamimura/Uemrua/Uemura
 上条=Kamijō
 上松=Agematsu
@@ -52265,7 +52056,6 @@
 上沢=Uezawa
 上沼=Kaminuma
 上泉=Kamiizumi
-上海=Shanghai
 上理=Agari
 上田=Orie/Ueda/Ueda-sensei
 上町=Uemachi
@@ -52386,7 +52176,6 @@
 中内=Nakanai/Nakauchi
 中務=Nakatsukasa
 中北=Nakakita
-中原=Nakahara/Nakahara no
 中史=Nakafumi
 中吉=Chūkichi
 中國=Nakakuni
@@ -52400,7 +52189,6 @@
 中尾=Nakao
 中居=Nakai
 中屋=Nakaya
-中山=Nakagawa/Nakayama/Yamanaka
 中岡=Nakaoka/Shintaro
 中島=Nakajima/Nakashima
 中嶋=Nakajima/Nakashima/Wakabayashi
@@ -52613,7 +52401,6 @@
 乖龙=Sweet Dragon
 乗児=Jōji
 乗田=Norita
-乙一=Otsuichi
 乙丸=Otomaru
 乙也=Otoya
 乙倉=Otokura
@@ -52646,13 +52433,11 @@
 九内=Kunai
 九力=Kokoriki
 九印=Kuin
-九卿=Kugyo/Kugyō
 九命=Kyūmei
 九喪=Kumo
 九土=Kudo
 九坂=Kusaka
 九堂=Kudō
-九宝=Kuhō
 九峪=Kutani
 九島=Kudō
 九崎=Kuzaki
@@ -52760,7 +52545,6 @@
 二浪=Nirō
 二湖=Niko
 二瀬=Nise
-二狗=Ergō
 二琥=Niko
 二瓶=Nihei
 二目=Er Mu
@@ -52873,7 +52657,6 @@
 井谷=Itani
 井路=Shōro
 井達=Itachi
-井野=Ino
 井関=Iseki
 亘弘=Nobuhiro
 亘理=Watari/Yutaka
@@ -53078,7 +52861,6 @@
 今岡=Imaoka
 今川=Imagawa/Imakawa
 今掛=Imakake
-今敏=Kon Satoshi
 今木=Imaki
 今村=Imamura
 今林=Imabayashi
@@ -53192,7 +52974,6 @@
 伊勢=Ise/Isemi
 伊原=Ibara/Ihara
 伊口=Iguchi
-伊吹=Ibuki/Ibuki Kenji
 伊咲=Isaki
 伊國=Yoshikuni
 伊園=Isono
@@ -53406,7 +53187,6 @@
 佐芽=Sachi
 佐茂=Samo
 佐菜=Sana
-佐藤=Satō
 佐補=Saho
 佐記=Saki
 佐賀=Saga/Sagami
@@ -53493,7 +53273,6 @@
 佳穂=Kaho
 佳純=Kasumi
 佳織=Kaori
-佳美=Yoshimi
 佳花=Kaka
 佳苗=Kanae
 佳茄=Kana
@@ -53518,7 +53297,6 @@
 侑吾=Yugo
 侑士=Yūshi
 侑奈=Yūna
-侑子=Yūko
 侑布=Yū
 侑志=Yūshi
 侑斗=Yūto
@@ -53981,7 +53759,6 @@
 元就=Motonari
 元希=Motoki
 元幸=Motoyuki
-元康=Motoyasu
 元弘=Genko
 元彦=Motohiko
 元忠=Mototada
@@ -54068,7 +53845,6 @@
 光姫=Miki
 光子=Hikaruko/Kōko/Mitsuko
 光宏=Mitsuhiro
-光宗=Mitsumune/Sakai Mitsumune
 光宣=Minoru
 光富=Mitsutomi
 光山=Mitsuyama
@@ -54254,7 +54030,6 @@
 八島=Yashima
 八嶋=Yashima
 八巻=Tsuyoshi/Yamaki
-八幡=Hachiman/Yahata
 八平=Naotari
 八恵=Yae
 八意=Yagokoro
@@ -54312,7 +54087,6 @@
 公佳=Kimika
 公俊=Kimitoshi
 公利=Kimitoshi
-公台=Kōdai
 公司=Kōshi
 公喜=Kōki
 公太=Kōta
@@ -54332,7 +54106,6 @@
 公正=Kimimasa
 公治=Kōji
 公理=Kuri
-公瑾=Gongjin/Shūyu
 公生=Kōsei
 公由=Kimiyoshi
 公英=Kimie
@@ -54375,7 +54148,6 @@
 六海=Mutsumi
 六瓢=Mubyō
 六田=Roku/Rokuta
-六甲=Rokkō
 六石=Mutsuishi
 六破=Rippa
 六笠=Mukasa
@@ -54398,7 +54170,6 @@
 兰藤=Rando
 兰陵=Lanling
 关山=Guanshan
-关羽=Yu
 兵主=Hyosu
 兵介=Hyosuke
 兵伍=Hyōgo
@@ -54410,7 +54181,6 @@
 兵庫=Hyōgo
 兵藤=Hyōdō
 兵衛=Hyōe
-兵部=Hyōbu
 兵頭=Hyōdō
 兵馬=Hyōma
 其方=Sonokata
@@ -54520,7 +54290,6 @@
 冥冥=Mei Mei
 冥利=Myōri
 冥加=Myōga
-冥土=Meido
 冥夢=Meimu
 冥子=Meiko
 冥戸=Meido
@@ -54529,7 +54298,6 @@
 冨安=Tomiyasu
 冨岡=Tomioka
 冨木=Tomiki
-冨樫=Togashi/Togashi,
 冨永=Tominaga
 冨沢=Tomizawa
 冨澤=Tomizawa
@@ -54678,7 +54446,6 @@
 凪紗=Nagisa
 凪野=Nagino
 凰壮=Ôzō
-凰火=Ôka
 凰生=Ikurumi
 凰花=Ôka
 凰蘭=Ôran
@@ -54765,7 +54532,6 @@
 刈谷=Kariya
 刈野=Karino
 刑事=Detective/Keiji/Monzō
-刑天=Xing Tian
 刑部=Osakabe
 列娜=Liena
 列島=Rettō
@@ -54815,7 +54581,6 @@
 初野=Hatsuno
 初雪=Hatsuyuki
 初霜=Hatsushimo
-初音=Hatsune
 初風=Hatsukaze
 判官=Hangan
 判月=Hanzuki
@@ -54831,7 +54596,6 @@
 利也=Toshiya
 利人=Rihito
 利仙=Rise
-利休=Rikyū
 利佳=Rika
 利信=Toshinobu
 利光=Toshimitsu
@@ -55064,7 +54828,6 @@
 加茂=Kamo
 加菜=Kana
 加蓮=Karen
-加藤=Katō
 加西=Kasai
 加護=Kago
 加賀=Kaga
@@ -55548,9 +55311,7 @@
 南城=Nanjō
 南場=Nanba
 南子=Kanako
-南宫=Liuyun/Nangong
 南宮=Minamiya
-南山=Minamiyama/Nanzan
 南峰=Minamine
 南川=Minamikawa
 南平=Minamidaira/Nanpei
@@ -55561,7 +55322,6 @@
 南條=Nanjō
 南楓=Minami Kaede
 南樹=Minami Itsuki
-南沙=Minami
 南沢=Minamisawa
 南河=Minamikawa
 南泉=Nansen
@@ -55603,7 +55363,6 @@
 博巳=Hiromi
 博幸=Hiroyuki
 博志=Hiroshi
-博文=Chang/Hirofumi
 博明=Hiroaki
 博昭=Hiroaki
 博樹=Hiroki
@@ -55667,7 +55426,6 @@
 原村=Haramura
 原沢=Harasawa
 原海=Hara Kai
-原田=Harada
 原石=Gemstone Girl
 原脇=Harawaki
 原賀=Haraga
@@ -55853,7 +55611,6 @@
 古狸=Old Tanuki
 古田=Furuta
 古町=Komachi
-古畑=Furuhata
 古白=Kohaku
 古矢=Furuya
 古砂=Furusuna
@@ -55996,7 +55753,6 @@
 司甲=Tsukasa Kinoe
 司祭=Priest
 司稀=Tomoki
-司空=Sikong
 司葉=Shiba
 司郎=Shirō
 司馬=Shiba
@@ -56076,7 +55832,6 @@
 吉貞=Yoshisada
 吉邊=Yoshibe
 吉郎=Yoshirō
-吉野=Yoshino/Yoshino Fumika
 吉開=Yoshikai
 吉音=Yoshine
 吉高=Yoshitaka
@@ -56205,7 +55960,6 @@
 周斗=Shūto
 周明=Shumei
 周次=Shūji
-周泰=Yōhei
 周深=Zhō Shen
 周瀬=Suse
 周王=Suō
@@ -56338,7 +56092,6 @@
 咲口=Sakiguchi
 咲坂=Sakisaka
 咲夜=Konohana/Sakuya/Saya
-咲太=Sakuta
 咲夫=Sakio
 咲姫=Saki/Sakihime
 咲子=Sakiko/Sakuko
@@ -56379,7 +56132,6 @@
 哉純=Yasumi
 响子=Kyōko
 員昌=Kazumasa
-哪吒=Nataku/Ne Zha/Nezha
 哲,=Tetsu
 哲也=Kawamura/Masatoshi/Tetsuya
 哲人=Tetsuhito
@@ -56766,7 +56518,6 @@
 在昌=Arimasa
 在須=Arisu
 圭,=Kei
-圭一=Keiichi
 圭三=Keizō
 圭二=Keiji
 圭人=Keito
@@ -56801,7 +56552,6 @@
 地數=Chishiki
 地根=Chinone
 地獄=Hell/Jigoku
-地球=Chikyū
 地竜=Chiryū
 地紋=Jimon
 地蔵=Bosatsu/Jizō
@@ -56917,7 +56667,6 @@
 堀中=Horinaka
 堀井=Horii/Ichirō
 堀内=Horiuchi
-堀北=Horikita
 堀口=Higuchi/Horiguchi
 堀場=Horiba
 堀太=Sōta
@@ -57160,7 +56909,6 @@
 夏美=Natsumi/Suga Natsumi
 夏羽=Kabane
 夏脇=Natsuwaki
-夏花=Natsuka
 夏芽=Natsume
 夏苗=Kanae
 夏菜=Natsuna/Origuchi Kana
@@ -57398,7 +57146,6 @@
 大八=Daba
 大公=Taikō
 大典=Daisuke/Taiten
-大内=Oōchi
 大凪=Oonagi
 大凶=Daikyō
 大出=Oide/Ooide
@@ -57637,7 +57384,6 @@
 天依=Tianyi
 天信=Tenshin
 天倉=Amakura
-天元=Amamoto/Tengen
 天内=Amanai
 天利=Amari/Ameri/Tenri
 天動=Tendō
@@ -57703,7 +57449,6 @@
 天火=Tenka
 天災=Tensai
 天無=Amanashi
-天照=Amaterasu
 天牙=Tenga
 天狐=Tenko
 天狗=Tengu
@@ -57776,7 +57521,6 @@
 太宰=Dazai
 太師=Uikyō
 太平=Taihei
-太康=Taikang
 太志=Futoshi/Taishi
 太整=Taisei
 太星=Tendo
@@ -57849,7 +57593,6 @@
 奈臣=Naomi
 奈良=Nara/Naraoka/Narasaka
 奈菜=Nana
-奈落=Naraku
 奈見=Namiko
 奈那=Nana
 奈都=Natsu
@@ -57996,7 +57739,6 @@
 姉畑=Anehata
 姉葉=Aneha
 姓名=Tsukito
-姗姗=Shanshan
 姚賈=Jia Yao
 姜妃=Kyōhi
 姜礼=Jiang Li
@@ -58053,7 +57795,6 @@
 娘々=Niang-Niang
 娘子=Niang
 娘藍=Lu
-娜美=Nami
 娼婦=Prostitute
 婀権=Agu
 婁宿=Tatara
@@ -58200,7 +57941,6 @@
 孫策=Hakufu/Sun Ce
 孫靜=Sonsei
 學峯=Gakuhō
-宁远=Ning Yuan
 宁雪=Ningxue
 宅司=Takushi
 宅彦=Takuhiko
@@ -58289,7 +58029,6 @@
 安元=Xiong/Yasumoto
 安原=Yasuhara
 安司=Yasuji
-安吉=Kurokawa Yasukichi
 安吾=Ango
 安國=Yasukuni
 安城=Anjō/Anjyō
@@ -58298,7 +58037,6 @@
 安夫=Yasuo
 安奈=Anna
 安好=An Hao
-安娜=Wimbledon Anna
 安子=Yasuko
 安宅=Ataka
 安宣=Yasunobu
@@ -58325,7 +58063,6 @@
 安東=Andō
 安桜=Asakura
 安條=Anjō
-安森=Yasumori
 安次=Yasuji
 安武=Yasutake
 安永=Yasunaga
@@ -58665,7 +58402,6 @@
 家入=Ieiri
 家守=Yamori
 家定=Iesada
-家康=Ieyasu/Tokugawa
 家弓=Kayumi
 家早=Iyahaya
 家村=Iemura
@@ -58724,7 +58460,6 @@
 富園=Tomizono
 富坂=Tomisaka
 富塚=Tomizuka
-富士=Fuji
 富多=Tomita
 富夫=Tomio
 富姫=Tomi-Hime
@@ -59165,7 +58900,6 @@
 尾城=Ogi/Ojiro
 尾宿=Ashitare
 尾山=Oyama
-尾崎=Osaki/Ozaki
 尾川=Ogawa
 尾平=Wei Ping
 尾張=Owari
@@ -59178,7 +58912,6 @@
 尾澤=Ozawa
 尾瀬=Maki/Oze/Takigi
 尾熊=Oguma
-尾田=Oda
 尾畑=Obata
 尾白=Ojiro
 尾石=Oishi
@@ -59199,7 +58932,6 @@
 屋久=Yaku
 屋代=Yashiro
 屋宇=Okū
-屋敷=Yashiki
 屋沖=Yaoki
 屋沢=Yazawa
 屋良=Yara
@@ -59272,7 +59004,6 @@
 山瀬=Yamase
 山猫=Yamaneko
 山猿=Yamazaru
-山田=Yamada
 山県=Yamagata
 山神=Yamagami
 山科=Yamashina
@@ -59430,7 +59161,6 @@
 岸原=Kishihara
 岸堂=Kishido
 岸川=Kishikawa
-岸本=Hayami/Inamori/Kishimoto
 岸村=Kishimura
 岸歩=Kishi Ayumu
 岸沼=Kishinuma
@@ -59540,7 +59270,6 @@
 嵩人=Takato
 嵩原=Takahara
 嵩臣=Takaomi
-嵯峨=Saga
 嶋二=Shimaji
 嶋崎=Shimasaki/Shimazaki
 嶋方=Shimakata
@@ -59585,7 +59314,6 @@
 川尻=Kawajiri
 川岸=Kawagishi/Kawashigi
 川島=Kawashima/Kawashima Sayu
-川崎=Kawasaki
 川嶋=Kawashima
 川平=Kabira/Kawahira Uncle
 川庄=Kawasho
@@ -59630,7 +59358,6 @@
 工兵=Kōhei
 工白=Kujira
 工舎=Kōsha
-工藤=Kudō
 左丘=Sakyū
 左京=Sakyō
 左介=Sasuke
@@ -59891,7 +59618,6 @@
 平海=Ping Hai
 平清=Taira Kiyoshi
 平澤=Hirasawa
-平田=Hirata
 平畠=Hirahata
 平腹=Hirahara
 平良=Hera/Taira
@@ -60089,7 +59815,6 @@
 庄司=Shoji/Shōji
 庄吾=Shogo
 庄堂=Shōdō
-庄子=Shōji/Shōko
 庄市=Shōichi
 庄平=Shōhei
 庄田=Shōda
@@ -60200,7 +59925,6 @@
 建司=Kenji
 建宏=Takehiro
 建宮=Tatemiya
-建康=JianKang
 建彦=Takehiko
 建智=Takeshi
 建部=Takebe
@@ -60216,7 +59940,6 @@
 弁財=Benzai
 弄光=Motemitsu
 弄内=Rōnai
-弄玉=Nong Yu
 式場=Shikiba
 式守=Shikimori
 式宮=Shikimiya
@@ -60314,14 +60037,12 @@
 张昱=Zhang Yu
 张晶=Zhang Jing
 张杰=Zhang Jie
-张良=Zhang Liang
 弥一=Origuchi Yaichi/Yaichi
 弥作=Yasaku
 弥優=Miyu
 弥助=Yasuke
 弥勒=Bosatsu/Mi Le/Miroku
 弥夢=Hiromu
-弥子=Yako
 弥彦=Yahiko
 弥恵=Yae
 弥春=Miharu
@@ -60450,7 +60171,6 @@
 彩風=Ayakaji
 彩香=Ayaka/Saika/Sayaka
 彩鳥=Ayato
-彪子=Hyōko
 彪馬=Hyōma
 彬人=Akito
 彬俊=Akitoshi
@@ -60507,7 +60227,6 @@
 役所=Yakusho
 彼哉=Kaya
 彼女=Girlfriend/Kanojo
-彼岸=Higan
 彼方=Kanata
 彼氏=Boyfriend
 往住=Tokosumi
@@ -60552,8 +60271,6 @@
 徐庶=Josho
 徐成=Jo Sei
 徐斌=Jo Bin
-徐晃=Jokō
-徐福=Xu Fu
 徑子=Keiko
 徒橋=Adabashi
 徒然=Tsurezure
@@ -60703,7 +60420,6 @@
 忍豚=Ninton
 忍足=Oshitari
 忍野=Ninno/Oshino/Shinobino
-志乃=Hazuki/Shino
 志保=Shiho
 志信=Shinobu
 志倉=Shikura
@@ -60891,7 +60607,6 @@
 恩映=Eun-Yōng
 恩田=Onda
 恩紗=Onsa
-恩雅=Tian
 恬恬=Ten-Ten
 恭一=Kiyochi/Kyoichi/Kyōichi
 恭也=Kyōya
@@ -60965,7 +60680,6 @@
 悟朗=Gorō
 悟桐=Gotō
 悟浄=Gojō
-悟空=Goku/Gokū
 悟美=Satomi
 悟郎=Gorō
 悟飯=Gohan
@@ -61054,7 +60768,6 @@
 惠二=Keiji
 惠介=Keisuke
 惠元=Huei-Yuan
-惠子=Keiko
 惣一=Sōichi
 惣二=Sōji
 惣介=Sōsuke
@@ -61403,7 +61116,6 @@
 打越=Uchikoshi
 托人=Takuto
 扶摇=Fu Yao
-扶桑=Fusō
 承太=Jōta
 承正=Shōsei
 承禎=Jōtei
@@ -61463,7 +61175,6 @@
 拓斗=Takuto
 拓朗=Takurō
 拓武=Takumu
-拓海=Takumi
 拓男=Takuo
 拓留=Takuru
 拓真=Takuma
@@ -61555,7 +61266,6 @@
 播磨=Harima
 撰歌=Senka
 操歯=Kuriba
-操祈=Misaki
 擬鬼=Modoki
 支倉=Hasekura
 支取=Sitri
@@ -61643,7 +61353,6 @@
 敏行=Toshiyuki
 敏郎=Toshirō
 敏雄=Toshio
-敖丙=Ao Bing/Gōhei
 敖广=Ao Guang
 敖烈=Ao Lie
 教一=Kyōichi
@@ -61764,7 +61473,6 @@
 文栄=Fumi/Fumie
 文次=Bunji
 文歌=Fumika
-文殊=Bosatsu/Monju
 文江=Fumie
 文治=Bunji
 文波=Ayanami
@@ -61871,7 +61579,6 @@
 新名=Niina
 新吾=Shingo
 新垣=Aragaki/Niigaki/Risa/Shingaki
-新城=Shinjō
 新堂=Shindō
 新多=Nitta
 新夜=Araya
@@ -61880,7 +61587,6 @@
 新妻=Niizuma
 新子=Atarashi/Shinko
 新宮=Aramiya/Shingu
-新宿=Shinjuku
 新居=Arai
 新山=Niiyama
 新岩=Araiwa
@@ -62323,7 +62029,6 @@
 春枝=Harue
 春樹=Haruki/Kazama Haruki
 春歌=Haruka/Shunka
-春水=Harumi
 春江=Harue
 春沢=Harusawa
 春河=Haruka
@@ -62338,7 +62043,6 @@
 春生=Chunsheng/Harumi/Haruo
 春田=Haruta
 春眠=Shunmin
-春秋=Haruaki/Hitotose
 春科=Harushina
 春紀=Haruki
 春美=Harumi
@@ -62387,7 +62091,6 @@
 昭助=Shōsuke
 昭司=Shōji
 昭吾=Shōgo
-昭和=Akikazu
 昭太=Shōta
 昭夫=Akio
 昭如=Nosaka
@@ -62602,7 +62305,6 @@
 晶子=Akiko
 晶平=Shohei
 晶彦=Akihiko
-晶晶=Jingjing
 晶次=Shōji
 晶葉=Akiha
 智一=Tomokazu
@@ -62761,7 +62463,6 @@
 月代=Tsukishiro
 月光=Akari/Gekko/Gekkō/Tsukimitsu
 月兔=Yue Tu
-月关=Yue Guan
 月初=Yuechu
 月原=Tsukihara
 月咲=Tsukasa
@@ -62879,7 +62580,6 @@
 有李=Yui
 有村=Arimura
 有枝=Arie
-有栖=Alice/Arisu
 有森=Arimori
 有江=Arie
 有沙=Arisa
@@ -63075,7 +62775,6 @@
 木方=Kihō
 木星=Mokusei
 木春=Koharu
-木暮=Kogure
 木曜=Mokuyō
 木更=Kisara
 木曾=Kiso
@@ -63309,7 +63008,6 @@
 李子=Rico
 李斎=Risai
 李斯=Li Si
-李牧=Li Mu
 李白=Li Bai/Rihaku
 李空=Rikū
 李緒=Rio
@@ -63431,7 +63129,6 @@
 来馬=Kuruma
 杨凝=Yang Ning
 杨宁=Yang Ning
-杨戬=Yang Jian
 杨潮=Yang Chao
 杨砚=Yang Yen
 杨鸥=Yang Ô
@@ -63530,7 +63227,6 @@
 松嶋=Matsushima
 松川=Matsukawa
 松左=Song Zuo
-松平=Matsudaira
 松戸=Matsudo
 松方=Matsukata/Matsutaka
 松星=Matsuboshi
@@ -63547,7 +63243,6 @@
 松江=Matsue
 松沢=Matsuzawa
 松沼=Matsunuma
-松浦=Matsūra
 松澤=Matsuzawa
 松瀬=Matsuse
 松狸=Matsuri
@@ -63590,7 +63285,6 @@
 林勇=Hayashi Yū
 林原=Hayashibara
 林吾=Ringo
-林家=Hayashiya
 林尽=Hayashi Jin
 林山=Hayashiyama
 林幸=Hayashi Sachi
@@ -63737,7 +63431,6 @@
 柳介=Ryūsuke
 柳原=Yanagihara/Yanahara
 柳堀=Yanagihori
-柳家=Yanagiya
 柳岡=Yanaoka
 柳川=Yanagawa/Yanagikawa
 柳平=Ryūhei
@@ -63967,7 +63660,6 @@
 桐乃=Kirino
 桐也=Kiriya/Tōya
 桐井=Kirii
-桐人=Kirihito
 桐仁=Kirihito
 桐元=Dōmoto
 桐原=Kirihara
@@ -64183,7 +63875,6 @@
 梨里=Riri/Risato
 梨雪=Risetsu
 梨香=Rica/Rika/Riko
-梵天=Banten/Bonten
 梶井=Kajii
 梶原=Kajihara/Kajiwara
 梶尾=Kajio
@@ -64298,7 +63989,6 @@
 植野=Ueno
 椎助=Shiisuke
 椎原=Shiihara
-椎名=Seena/Shiina
 椎奈=Shiina
 椎子=Maki/Shiiko
 椎崎=Shiizaki
@@ -64462,7 +64152,6 @@
 樂進=Gakushin
 樊瑞=Hanzui
 樋井=Hinoi
-樋口=Higuchi
 樋山=Hiyama
 樋本=Hinomoto
 樋柴=Hishiba
@@ -64576,7 +64265,6 @@
 橘翔=Tachibana Sho
 橘舞=Tachibana Mai
 橘花=Tachibana Hana
-橘茜=Tachibana Akane
 橘葵=Tachibana Aoi
 橘蓮=Tachibana Ren
 橘薫=Tachibana Kaoru
@@ -64836,9 +64524,7 @@
 武治=Takeharu
 武流=Buru/Takeru
 武獣=Bujū
-武王=Takenō
 武生=Takefu
-武田=Takeda
 武男=Takeo
 武直=Boichi
 武石=Takeishi
@@ -65274,7 +64960,6 @@
 池畠=Ikehata
 池端=Ikehata
 池脇=Gajirō/Ikewaki
-池袋=Ikebukuro
 池谷=Iketani
 池越=Ikegoshi
 池輝=Iketeru
@@ -65355,7 +65040,6 @@
 沙織=Saori
 沙羅=Sara
 沙羽=Sawa
-沙耶=Hirako Saya/Saya
 沙良=Sara
 沙苗=Sanae
 沙英=Sae
@@ -65407,7 +65091,6 @@
 河住=Kawasumi
 河内=Kawachi/Kawauchi/Kōchi
 河出=Kawade
-河北=Kawakita/Kawakito
 河原=Kawahara/Kawara
 河口=Kawaguchi
 河合=Kawai
@@ -65433,7 +65116,6 @@
 河端=Kawabata
 河竹=Kawatake
 河藤=Kawatō
-河西=Kasai/Kawanishi
 河辺=Kawabe
 河野=Kawano
 河音=Kanon
@@ -65445,7 +65127,6 @@
 油石=Yūseki
 治与=Chiyo
 治夫=Haruo
-治子=Haruko
 治崎=Chisaki
 治平=Jihei
 治彦=Haruhiko/Yukihiko
@@ -65535,7 +65216,6 @@
 波島=Hashima
 波平=Namihei
 波戸=Hato
-波旬=Hajun
 波柴=Hashiba
 波江=Namie
 波津=Hatsu
@@ -65574,7 +65254,6 @@
 泰孝=Yasutaka
 泰宏=Yasuhiro
 泰家=Yasuie
-泰山=Taizan
 泰年=Yasutoshi
 泰幸=Yasuyuki
 泰広=Yasuhiro
@@ -65604,7 +65283,6 @@
 泰造=Taizō
 泰道=Yasumichi
 泰陽=Taiyō
-泰隆=Tai Long/Yasutaka
 泰雅=Taiga
 泰鴻=Tai Hong
 泰麒=Taiki
@@ -65747,7 +65425,6 @@
 浅葱=Asagi
 浅見=Asami
 浅谷=Asatani
-浅野=Asano
 浅間=Asama
 浅陽=Asahi
 浅雛=Asahina
@@ -65791,7 +65468,6 @@
 浦田=Urata
 浦畑=Urahata
 浦船=Urafune
-浦西=Uranishi
 浦谷=Uratani
 浦辺=Urabe
 浦部=Urabe
@@ -65857,7 +65533,6 @@
 海原=Kaibara/Umihara/Unabara
 海司=Kaiji
 海咲=Masaki/Misaki
-海堂=Kaidō/Kaitō
 海士=Kaiji
 海夢=Marin
 海峰=Kaihō
@@ -65890,7 +65565,6 @@
 海潮=Ushio
 海燕=Haiyan/Kaien
 海牛=Umiushi
-海王=Jyaku/Kaiō/Retsu/Ryū
 海琉=Kairu
 海生=Kaiki
 海田=Kaida
@@ -65929,7 +65603,6 @@
 海鵬=Yuri
 海麗=Mirei
 涂亮=Tu Liang
-涂山=Tushan
 涅哩=Neiri
 涅帕=Niepa
 涅絽=Nerow
@@ -66038,7 +65711,6 @@
 淳七=Junshichi
 淳也=Junya
 淳二=Junji
-淳于=Chunyu
 淳児=Junji
 淳史=Atsushi
 淳司=Junji
@@ -66080,7 +65752,6 @@
 清光=Kiyomitsu
 清児=Seiji
 清八=Seihachi
-清华=Qinghua
 清原=Kiyohara/Kiyohara no
 清史=Kiyoshi
 清司=Seiji
@@ -66189,7 +65860,6 @@
 渡海=Tokai/Watarumi
 渡瀬=Watase
 渡狸=Watanuki
-渡航=Watari Wataru
 渡草=Togusa
 渡蟹=Watarigani
 渡親=Watari
@@ -66526,7 +66196,6 @@
 火弦=Hizuru
 火憐=Karen
 火掻=Hikaki
-火星=Kasei
 火本=Hinomoto
 火村=Himura
 火来=Hirai
@@ -67266,7 +66935,6 @@
 玲名=Reina
 玲士=Reiji
 玲央=Reiō/Reo
-玲奈=Reina/Rena
 玲子=Reiko
 玲実=Remi
 玲愛=Rea
@@ -67654,7 +67322,6 @@
 田島=Tajima
 田崎=Tasaki/Tazaki
 田嶋=Tajima
-田川=Tagawa
 田所=Tadokoro
 田最=Damo
 田有=Tian Yō
@@ -67933,7 +67600,6 @@
 白沢=Shirasawa/Shirosawa
 白河=Shirakawa/Shirokawa
 白波=Shiraha/Shiranami
-白泽=Bai Ze
 白洛=Bai Luo
 白津=Shiratsu
 白浜=Shirahama
@@ -68122,7 +67788,6 @@
 益田=Masuda
 益男=Masuo
 监首=Jianshō
-盖聂=Ge Nie
 盗一=Tōichi
 盗見=Nusumi
 盛夫=Morio
@@ -68138,7 +67803,6 @@
 目一=Meichi
 目方=Mekata
 目時=Medoki/Metoki
-目暮=Megure
 目深=Makuba
 目渚=Sagan Nagisa
 目白=Mejiro
@@ -68393,7 +68057,6 @@
 真清=Sanekiyo
 真滝=Mataki
 真潮=Mashio
-真澄=Masumi
 真瀬=Mase
 真狩=Makari
 真珠=Mami
@@ -68668,7 +68331,6 @@
 石澤=Ishizawa
 石濱=Ishihama
 石版=Lithograph
-石狩=Ishikari
 石王=Sekiō
 石田=Hiroshi/Ishida/Zhen Jie
 石神=Ishigami
@@ -68991,7 +68653,6 @@
 神鳳=Jinpō
 神鷹=Shinyō
 神黙=Kamimoku
-神龙=Shenlong
 祠堂=Shidō
 祥一=Syoichi
 祥乃=Yukino
@@ -69041,7 +68702,6 @@
 禎衛=Teiei
 福与=Fukuyo
 福丘=Fukuoka
-福井=Fukui
 福介=Fukusuke
 福元=Fukumoto
 福内=Fukūchi
@@ -69106,7 +68766,6 @@
 秀則=Hidenori
 秀勝=Hidekatsu
 秀史=Shūji
-秀吉=Hideyoshi/Shūkichi
 秀吾=Shūgo
 秀和=Hidekaz/Hidekazu
 秀哲=Hideaki
@@ -69141,7 +68800,6 @@
 秀樹=Hideki
 秀次=Hidetsugu/Shūji
 秀武=Hidebu
-秀水=Hidemi
 秀治=Hideji/Shuji
 秀満=Hidemitsu
 秀猿=Hidesaru
@@ -69151,10 +68809,8 @@
 秀眞=Hotsuma
 秀秀=XiuXiu
 秀秋=Hideaki
-秀策=Shūsaku
 秀継=Hidetsugu
 秀臣=Hideomi
-秀英=Shūei/Suyong
 秀虎=Hidetora
 秀行=Hideyuki
 秀豪=Shūgo
@@ -70803,7 +70459,6 @@
 羽山=Haneyama/Hayama
 羽岡=Haneoka
 羽島=Hashima
-羽川=Hagawa/Hanekawa
 羽成=Hanari
 羽月=Haduki/Hazuki/Uzuki
 羽未=Umi
@@ -70880,7 +70535,6 @@
 翠石=Suiseki
 翠翠=Cuicui
 翠色=Suishoku
-翠花=Suika
 翠苓=Suirei
 翠郎=Suirō
 翠雨=Suiu
@@ -71136,7 +70790,6 @@
 舛成=Masunari
 舛本=Masumoto
 舛田=Masuda
-舜帝=Di Shun
 舜桜=Shun'ō
 舜臣=Shunshin
 舞亜=Maia
@@ -71545,7 +71198,6 @@
 若本=Wakamoto
 若杉=Wakasugi
 若村=Wakamura
-若松=Wakamatsu
 若林=Wakabayashi
 若柱=Wakabashira
 若桜=Wakasa
@@ -71626,7 +71278,6 @@
 英知=Eichi
 英秋=Hideaki
 英策=Eisaku
-英美=Emi/Hidemi
 英臣=Hideomi
 英良=Eiryō/Hideyoshi
 英行=Hideyuki
@@ -71740,7 +71391,6 @@
 茶野=Chano/Sano
 茶雪=Sayuki
 茶髪=Chapatsu
-荀彧=Xun Yu
 荀早=Zao Xun
 草井=Kusai
 草人=Kusabito
@@ -71820,7 +71470,6 @@
 荻山=Ogiyama
 荻川=Ogikawa
 荻布=Ogino
-荻野=Hagino/Ogino
 荼毘=Dabi
 莉世=Rise
 莉乃=Rino/Sashihara
@@ -71843,7 +71492,6 @@
 莉緒=Rio
 莉花=Marika/Rika
 莉芳=Riō
-莉莉=Lili/Liu Lili
 莉華=Rika
 莉雅=Liya
 莉音=Rio/Rion
@@ -71889,7 +71537,6 @@
 菊川=Kikukawa
 菊月=Kikuzuki
 菊本=Kikumoto
-菊次=Kikuji
 菊水=Kikusui
 菊永=Kikunaga
 菊池=Kikuchi
@@ -72074,7 +71721,6 @@
 葎花=Ritsuka
 葛代=Kuzushiro
 葛原=Kuzuhara
-葛城=Katsuragi
 葛木=Katsuragi/Kuzuki
 葛葉=Kuzuha/Kuzunoha
 葛西=Kasai/Kasai Haruka
@@ -72181,7 +71827,6 @@
 蓬子=Hōko
 蓬生=Hōsei
 蓬田=Hasuda/Yomogida
-蓬莱=Hōrai
 蓮三=Renzo
 蓮二=Renji
 蓮井=Hasui
@@ -72249,7 +71894,6 @@
 薄葉=Usuba
 薄蛍=Susukihotaru
 薄谷=Hakuya
-薄野=Susukino
 薄雲=Usugumo
 薇薇=Vivi
 薔君=Shokun
@@ -72322,10 +71966,8 @@
 藍鼠=Ainezu
 藏丸=Kuramaru
 藏合=Zōgō
-藏龙=Zang Long
 藤下=Fujishita
 藤丸=Fujimaru
-藤乃=Fujino
 藤之=Fujiyuki
 藤井=Fuji/Fujii
 藤代=Fujishirō
@@ -72333,7 +71975,6 @@
 藤八=Tōhachi
 藤内=Tōnai
 藤博=Fujihiro
-藤原=Fujiwara
 藤吉=Fujiyoshi/Fujiyoshi Kōhei
 藤吾=Tōgo
 藤咲=Fujisaki/Fujisaku
@@ -72378,7 +72019,6 @@
 藤永=Fujinaga
 藤江=Fujie
 藤沢=Fujisawa/Hideki
-藤沼=Fujinuma
 藤波=Fujinami
 藤浦=Fujiura
 藤浪=Fujinami/Kokage
@@ -72399,7 +72039,6 @@
 藤邑=Fujimura
 藤那=Fujina
 藤重=Fujishige
-藤野=Fujino
 藤間=Fujima/Tōma
 藤隆=Fujitaka
 藩主=Feudal Lord
@@ -72459,7 +72098,6 @@
 虎男=Torao
 虎石=Toraishi
 虎若=Torawaka
-虎虎=Torako
 虎輔=Kosuke
 虎造=Torazō
 虎里=Torari
@@ -72745,7 +72383,6 @@
 西位=Nishii
 西修=Nishi Osamu
 西倉=Nishikura
-西元=Nishimoto
 西光=Moromitsu
 西前=Saizen
 西匠=Nishi Takumi
@@ -72756,7 +72393,6 @@
 西園=Nishizono
 西地=Nishiji
 西垣=Nishigaki
-西城=Saijō
 西墻=Nishigaki
 西守=Nishimori
 西宮=Nishimiya
@@ -72854,7 +72490,6 @@
 観波=Minami
 観音=Bosatsu/Kanon/Mine/Mion
 见一=Jian Yi/Yi Jian
-观音=Guan Yin
 角上=Kakujō
 角住=Kadozumi
 角倉=Kadokura
@@ -73348,7 +72983,6 @@
 赤土=Akado
 赤地=Akachi
 赤坂=Akasaka
-赤城=Akagi
 赤堀=Akahori
 赤堤=Akazutsumi
 赤場=Akaba
@@ -73630,7 +73264,6 @@
 近田=Chikada
 近畿=Kinki
 近石=Chikaishi
-近藤=Kondō
 近衛=Konoe
 近見=Chikami
 近貞=Chikasada
@@ -74005,7 +73638,6 @@
 部薫=Kaoru
 郭備=Bei Guo
 郭双=Guo Shuang
-郭嘉=Guo Jia/Kakuka
 郭皓=Kaku Kō
 郭盛=Guo Sheng
 郭開=Kai Guo
@@ -74194,7 +73826,6 @@
 野枝=Noeda
 野槌=Nozuchi
 野正=Shōgorō
-野比=Nobi
 野毛=Noge
 野水=Nomizu
 野江=Noe
@@ -75246,7 +74877,6 @@
 雨音=Amane/Leon
 雨鬼=Uki
 雪丸=Yukimaru
-雪乃=Shiroi/Yukino
 雪久=Sanada
 雪也=Setsuya/Yukinari
 雪人=Yukino/Yukito
@@ -75415,7 +75045,6 @@
 雷狮=Ray
 雷獣=Raijū
 雷真=Lei Zhen/Raishin
-雷神=Raijin
 雷禅=Raizen
 雷禍=Raika
 雷蔵=Raizō
@@ -75579,7 +75208,6 @@
 青雄=Qing Xiong
 青雲=Seiun
 青馬=Ôma
-青鬼=Ao Oni/Aooni
 青鹿=Aojika/Aoshika
 青龍=Seiryu/Seiryū
 靖之=Yasuyuki
@@ -75624,7 +75252,6 @@
 静夢=Shizumu
 静夫=Shizuo
 静奈=Shizuna
-静姝=Lin
 静子=Seiko/Shizuko
 静寂=Seijaku
 静寐=Shizune
@@ -75661,7 +75288,6 @@
 静野=Shizuno
 静雄=Shizuo
 静音=Shizune
-静香=Shizuka
 静馬=Shizuma
 静鬼=Shizuka
 靜枝=Shizue
@@ -75693,7 +75319,6 @@
 韋護=Igo
 韦彤=Wei Tong
 韩宇=Han Yu
-韩非=Han Fei
 韮山=Nirayama
 韮崎=Nirasaki
 韮川=Niragawa
@@ -75948,7 +75573,6 @@
 飛鷹=Hiyō
 飛龍=Hiryū
 食満=Kema
-食蜂=Shokuhō
 飯伏=Ibushi
 飯加=Iika
 飯原=Iihara
@@ -76014,7 +75638,6 @@
 香枝=Kae
 香椎=Kashii
 香橘=Kyōka
-香港=Hong Kong
 香澄=Kasumi
 香炉=Kōro
 香焼=Kōyagi Masaru
@@ -76108,7 +75731,6 @@
 骏骅=Junhua
 骑士=Demos
 骨女=Hone Onna
-骨川=Honekawa
 骨抜=Honenuki
 骸煉=Gairen
 高上=Kōgami/Takagami
@@ -76196,7 +75818,6 @@
 高浜=Takahama
 高浪=Takanami
 高海=Takami
-高清=Takakiyo
 高澄=Takasumi
 高瀬=Takase/Yuka
 高瑶=Yao Gao
@@ -76305,7 +75926,6 @@
 魅音=Mion
 魅香=Mika
 魎呼=Ryōko
-魏延=Bunchō/Gi En
 魏洲=Weizhō
 魏琛=Wei Chen
 魔乳=Manyū/Shuji
@@ -76314,7 +75934,6 @@
 魔央=Mao
 魔姫=Maki
 魔婆=Mabaa
-魔子=Mako
 魔島=Majima
 魔想=Masō
 魔毛=Mamō
@@ -76992,7 +76611,6 @@
 九=Ichijiku/Jiu/Kokono/Kyū
 也=Ye
 乱=Areus/Luan/Ran
-乾=Inui/Ken
 亀=Kame/Turtle
 了=Ryō
 于=Yu
@@ -77001,7 +76619,6 @@
 亡=Nashi
 交=Kō
 亥=Qu
-亨=Tooru/Toru
 享=Asuka/Kyō/Tooru
 京=Kei/Koto/Kyō/Miyako/Tachibana
 亮=Ryō
@@ -77015,7 +76632,6 @@
 令=Ichijō/Rei/Ryō/Sagami/Shinmiōji Rei
 仪=Yi
 仰=Aogu
-仲=Naka
 件=Kudan
 任=Ren
 伊=Ikyūgō/Itō/Kii
@@ -77047,7 +76663,6 @@
 健=Juan/Ken/Kenzō/Takeru/Takeshi/Utagawa Takeru
 偲=Shinobu
 傀=Kai
-傅=Fu
 傑=Jea/Niragi/Suguru
 傘=Amagasa
 備=Bei
@@ -77075,13 +76690,11 @@
 冥=Mei/Mei Mei
 冨=Tomi
 冬=Kaitō
-冯=Feng/Tianyun
 冰=Bing
 冲=Chong/Fu
 冴=Masano Sae/Sae
 准=Jun
 凉=Ryō
-凌=Kagami/Ling/Ryō/Shinogu
 凛=Lin/Rin
 凜=Lin/Linn/Rin
 凝=Ning
@@ -77095,7 +76708,6 @@
 出=Izuru
 刃=Jin/Ren/Renka/Yaiba
 切=Kiri
-刘=Liu/Yinuo
 刚=Tsuyoshi
 初=Hajime/Hatsu/Ui
 判=Ban
@@ -77131,11 +76743,9 @@
 半=Ban/Han
 卍=Manji
 华=De/Hua
-卓=Suguru/Taku
 南=Hao/Kotaro/Minami/Minami Koharu/Misora/Nan/Nang/Sasaki
 単=Hitoe
 博=Hiro/Hiroshi
-卢=Lu
 危=Ayame
 却=Que
 厉=Li
@@ -77160,7 +76770,6 @@
 吟=Gin
 吹=Fuki/Fuku
 吽=Un
-呂=Bu/Gonghu/Lu/Lü/Ryo/Wo
 呉=Kure
 周=Amane/Chao/Chō/Chow/Itaru/Shu/Shū/Zhō
 呪=Noroi
@@ -77185,7 +76794,6 @@
 喜=Kiichi/Yoshinobu
 喬=Takashi
 喰=Jiki
-喻=Yu
 嘉=Yomi
 嘘=Lai/Uso
 嘶=Inanaki
@@ -77246,12 +76854,10 @@
 好=Konomi/Matsuno
 妃=Kisaki
 妄=Midari
-妍=Yan
 妖=Aya/Ayakashi/Ayako/Yao
 妙=Tae
 妻=Tsuma/Wife
 始=Hajime
-姬=Bai/Ji
 威=Takeshi
 娘=Musume/Nyan
 婁=Lō
@@ -77264,15 +76870,12 @@
 孔=Kong/Taoluo
 孙=Sun
 孝=Kō/Takashi
-孟=Kai
 季=Ji/Ki
 学=Gaku/Mana/Manabu
 孫=Grandson/Son/Son Rui/Sun
-宁=Ning
 宇=Yu
 守=Mamoru/Mori/Shuki
 安=An/Yasu
-宋=Song
 完=Kan
 宏=Hiroshi/Yoshii
 宗=Sō/Zong
@@ -77280,7 +76883,6 @@
 定=Sadame
 宝=Takara
 実=Minori/Minoru
-宣=Xian/Xuan
 室=Muro
 宥=Yū
 宮=Miya/Sentarō/Shihoko
@@ -77304,8 +76906,6 @@
 尋=Hiro/Jin
 尖=Togaru
 尚=Feng/Hisashi/Nao/Shang
-尧=Yao
-尹=Yin
 尽=Jin
 局=Tsubone
 屍=Kabane/Shi
@@ -77313,7 +76913,6 @@
 屠=Tu
 山=Akira/Shan/Yama
 岐=Kunato
-岚=Lan
 岡=Oka
 岩=Gan/Iwasaki/Yan
 岬=Manabe/Misaki
@@ -77326,13 +76925,11 @@
 峻=Shun/Takashi
 崇=Sō/Su/Takashi/Yamaguchi
 崑=Kon
-崔=Choi
 崚=Ryo
 崩=Beng
 嵐=Arashi/Ran
 嵩=Takashi
 嵬=Kai
-嶋=Shima
 嶺=Mine/Rei
 嶽=Yue
 巌=Gen/Iwao
@@ -77376,7 +76973,6 @@
 弓=Yōmi/Yumi
 弔=Tomorai/Tomura
 引=Yin
-弘=Hiromu/Hiroshi
 张=Zhang
 弥=Wataru
 強=Tsuyoshi
@@ -77387,7 +76983,6 @@
 彩=Aya/Sai/Sayaka
 彪=Aya
 彬=Akira
-彭=Peng/Pon
 彰=Akira
 影=Kage
 役=Enno
@@ -77395,7 +76990,6 @@
 征=Zheng
 徉=Yō
 律=Ritsu
-徐=Jo/Omomuro/Xu
 徒=Ganto
 御=Yu
 徭=Tsukai
@@ -77443,7 +77037,6 @@
 我=Lue/Wo/Ta
 戒=Kai
 或=Aru
-戚=Qi
 戬=Jian
 戴=Dai
 戻=Modoru
@@ -77495,12 +77088,9 @@
 旦=Tan
 早=Xun
 旬=Jun/Shun
-旭=Akira/Asahi
 旺=Ô
 昂=Takashi
-昆=Kon
 昇=Mitani/Noboru/Shō
-昊=Hao/Sora
 昌=Akira/Masaya/Sho/Shō
 易=Yi
 昕=Xin
@@ -77531,10 +77121,8 @@
 曇=Kumō
 曙=Akebono/Shō
 曜=Yō
-曦=Xi
 曲=Magari
 更=Sara
-曹=Cao/Sō
 替=Kae
 月=Akari/Light/Runa/Satsuki/Tsuki/Yue
 有=Akio/Ari/Yū
@@ -77548,15 +77136,11 @@
 木=Mu
 未=Amane/Mi
 本=Moto
-朱=Aka/Akai/Akane/Akemi/Lian-Hua/Zhu
-朴=Paku/Park
-李=E/Kohran/Lee/Li/Mayfeng/Momo/Pyron/Ri/Sumomo/Yi
 杏=An/Ann/Anne/Anzu/Aoi/Kyō/Xing/Yumeno Anzu
 杜=Du/Mori/To
 杠=Yuzuriha
 条=Jō/Kujō
 来=Hui
-杨=Yang
 杰=Jie
 東=Agari/Azuma/Higashi/Matsubara
 杳=Yō
@@ -77612,7 +77196,6 @@
 楊=Fanyui/Yan/Yang/Yō
 楓=Fū/Kaede/Sekime
 楔=Kusabi
-楚=Chu/Sui
 楝=Ôchi/Ren
 楠=Azuki/Daizu/Kusunoki
 楢=Nara
@@ -77627,7 +77210,6 @@
 槇=Maki
 槐=Enju/Saikachi
 槙=Maki
-樊=Fan
 樒=Shikimi
 標=Shirube
 権=Gon
@@ -77662,7 +77244,6 @@
 段=Duan/Wenyang
 殷=Yin
 殿=Shingari/Tono
-毅=Justin/Kowashi/Takeshi/Tsuyoshi/Yi
 毒=Doku
 比=Bi
 毕=Bi
@@ -77677,7 +77258,6 @@
 汞=Kō
 江=E/Gō/Jiang
 池=Chi/Ike
-沈=Lei/Shen
 沖=Oki
 沙=Sha
 沢=Sawa
@@ -77692,7 +77272,6 @@
 泰=Hiroshi/Moroyasu/Tai/Yasushi/Yutaka
 泽=Ze
 洋=Hiroshi/Yang/Yo/Yō
-洛=Luo
 津=Akutsu
 洪=Hong/Hong Gu/Kō
 洲=Shima
@@ -77751,13 +77330,11 @@
 漫=Suzu
 漸=Zen
 潔=Isagi/Kiyoshi
-潘=Han/Jing/Pan
 潜=Kuguri/Sen
 潤=Jun/Nomura Jun/Uru/Urumi
 潮=Chao/Ushio
 澄=Cheng/Sumi
 澤=Sawa
-澪=Mio/Rei
 激=Geki
 濤=Tō
 濱=Hama
@@ -77828,7 +77405,6 @@
 玉=Yu
 玖=Kyū
 玥=Yue
-玲=Akira/Ling/Rei/Rie/Ryō
 珀=Haku
 珊=San
 珍=Ching
@@ -77840,11 +77416,8 @@
 理=Aya/Kotoha/Makoto/Michi/Osamu/Riho/Satoru
 琛=Chen
 琢=Taku
-琦=Qi
-琳=Lin/Rin
 琴=Kin/Koto/Makoto/Qin
 瑛=Akira/Ei
-瑜=Yu
 瑞=Shiu
 瑟=Se
 瑠=Ruito/Yi
@@ -77870,7 +77443,6 @@
 畑=Hata/Hatake
 畔=Hotori
 留=Liu/Tome
-畠=Hatake
 畳=Tatami
 療=Ryō
 癒=Iya
@@ -77909,7 +77481,6 @@
 碇=Ikari
 碗=Wan
 碧=Ao/Aoi/Heki/Hekiru/Midori/Qī
-磊=Lei
 磐=Ban
 磨=Takuma/Osamu
 磯=Iso
@@ -77917,7 +77488,6 @@
 礼=Li/Rai/Rei
 社=Yashiro
 祀=Matsuri
-祁=Fang/Hong
 祈=Inori/inory
 祐=Hiro/Hiroshi/Tasuku/Yu/Yū
 祝=Hajime/Hoori/Iwai/Zhu
@@ -77934,7 +77504,6 @@
 科=Musume
 秘=Himeru
 秤=Hakari
-秦=Hata/Mo/Qin/Zhao
 程=Cheng
 稔=Minori/Minoru
 稜=Ryō
@@ -77942,14 +77511,12 @@
 稲=Ine
 穀=Gu
 穂=Minori
-穆=Mu
 穣=Jō/Minoru/Yutaka
 究=Kyu/Kyū
 穹=Sora
 空=Kara/Kong/Kū/Sora/Utsuho
 窈=Yō
 窓=Sō
-窦=Dō
 窪=Kubo/Suō
 窯=Yo
 立=Han/Li/Ritz/Ryū
@@ -78036,7 +77603,6 @@
 绫=Ling
 绯=Fei
 绿=Lü
-罗=Luo
 罡=Gang
 羅=La/Lo/Sara
 羊=Yoh/Yō
@@ -78053,7 +77619,6 @@
 考=Takashi
 耕=Kōta/Yasushi
 耳=Ear/Ears/Mimi
-聂=Nie
 聖=Hijiri/Kiyora/Kiyoshi/Kōki/Mizuki/Satoshi/Sei
 聡=Misato/Satoru/Satoshi/Soh/Sō
 聰=Sō
@@ -78097,7 +77662,6 @@
 苻=Fu
 茂=Komada/Shigeru
 范=Fan
-茅=Kaya
 茈=Shi
 茉=Jasmine
 茜=Akane/Qian/Takahashi Akane
@@ -78132,20 +77696,16 @@
 落=Luo
 葉=Ye/Yō
 葎=Ritsu
-葛=Kazura/Tsuzura
 董=Dong
 葵=Aoi/Hinata
 蒂=Verde
-蒋=Jiang
 蒙=Meng
-蒲=He/Pu
 蒼=Ao/Aoi/Soten/Sō/Tsang
 蓉=Rong
 蓝=Lan
 蓬=Yomogi
 蓮=Hachisu/Hasu/Ren
 蔚=Wei
-蔡=Choi
 蔦=Tsuta
 蔵=Kura
 蔼=Ai
@@ -78154,7 +77714,6 @@
 蕾=Tsubomi
 薊=Azami
 薙=Nagi
-薛=Setsu/Xue
 薪=Maki
 薫=Kaori/Kaoru/Sumire
 薬=Yaku
@@ -78185,19 +77744,15 @@
 行=Iku
 衛=Ei/Mamoru
 衝=Shō
-衡=Heng/Kō
 衢=Yotsutsuji
 衣=Erii/Ishiha/Koromo/Liu
 表=Omote
-袁=Xia
 袖=Osode
 袴=Hakama
 袿=Uchiki
 裁=Tachi
 裕=Hiroshi/Yu/Yutaka/Yū
 裘=Qiu
-裴=Pei
-褚=Chu
 襄=Jō
 西=Nishi/Sai/Xi
 要=Kaname/Yō
@@ -78254,9 +77809,7 @@
 赤=Aka/Red
 赫=Terashi
 走=Hashiru/Kakeru/Soichi/Sō
-赵=Zhao
 超=Chao/Chō/Masaru
-趙=Zhao
 路=Ichirō/Lu/Michi
 踊=Odoru
 躍=Yū
@@ -78271,7 +77824,6 @@
 轩=Xuan
 轶=Yi
 辑=Ji
-辛=Xin
 辰=Chen/Shin/Tatsu
 農=Minori
 边=Bian
@@ -78291,7 +77843,6 @@
 逢=Ai
 連=Len/Muraji/Ren/Tsurane/Yū
 進=Akira/Shin/Susumu/Suzumu
-遊=Yū
 運=Sadame
 遍=Amane
 道=Michi/Tao
@@ -78302,13 +77853,9 @@
 遵=Jun
 遼=Liao/Ryo/Ryō/Yatōji
 邓=Deng
-邢=Xing
-邱=Qiu
 郁=Iku/Ikumi/Kaoru/Yu
 郎=Hyotarō
-郝=Hao
 郡=Koori
-郭=Guo/Kaiō/Kaku/Kuo/Yun
 郷=Gō
 都=Miyako
 鄧=Tō
@@ -78344,7 +77891,6 @@
 鐵=Kurogane
 鑑=Kagami
 鑢=Yasuri
-鑫=Xin
 钱=Qian
 铃=Rin
 铜=Tong
@@ -78361,14 +77907,11 @@
 関=Guan/Kan/Seki/Tian Hai
 閨=Neya
 闇=Kuraki
-闫=Yan
-阎=Yan
 阐=Chan
 阪=Saka
 阳=Yang
 阿=A/Ah
 陆=Lu
-陈=Chen/Cheng
 陣=Jin/Zin
 陵=Ryo/Ryō
 陶=Tao
@@ -78386,7 +77929,6 @@
 雨=Ame/Ururu
 雪=Setsu/Susugi/Xue/Yuki
 雫=Shizuku
-雲=Guo/Kumo/Kumosuke/Un/Wan/Yun
 零=Lin/Ray/Rei/Ren/Zero
 雷=Azuma/Ika/Ikazuchi/Lei/Lightning/Rai
 雹=Hyō
@@ -78408,9 +77950,6 @@
 鞘=Saya
 鞠=Mari
 鞭=Muchi
-韓=Han
-韦=Wei
-韩=Han/Li
 音=Oto
 響=Hibiki/Hibiku/Kyo/Kyō/Tokisaka
 頂=Itadaki
@@ -78449,7 +77988,6 @@
 魁=Kai
 魂=Hun
 魅=Mami/Mei
-魏=Gi/Wei
 魔=Mo
 魚=Uo
 魯=Wutang
