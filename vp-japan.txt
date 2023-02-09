@@ -51401,10 +51401,6 @@
 黄鶯鶯=Ô Inin
 黄龍院=Kiryūin
 黎一郎=Reiichirō
-黎星刻=Li Xingke
-黎朝陽=Li Chaoyang
-黎沈華=Li Shenhua
-黎沈雲=Li Shenyun
 黒井佑=Kuroi Tasuku
 黒井勤=Kuroi Tsutomu
 黒井原=Kuroihara
@@ -63008,19 +63004,10 @@
 李子=Rico
 李斎=Risai
 李斯=Li Si
-李白=Li Bai/Rihaku
 李空=Rikū
 李緒=Rio
-李罡=Li Gang
-李耀=Li Yao
 李花=Rika
 李英=Rie
-李萼=E Li
-李轩=Li Xuan
-李长=Li Chang
-李雪=Li Xue
-李靖=Li Sei
-李馨=Li Xin
 杏吾=Kyōgo
 杏夏=Kyōka
 杏奈=Anna
@@ -63298,7 +63285,6 @@
 林藤=Rindō
 林道=Rindō
 林野=Rinno
-林零=Ling Lin
 林音=Rinne
 枚方=Hirakata
 果凛=Karin
@@ -66272,11 +66258,6 @@
 灰谷=Haitani
 灰賀=Haiga
 灰閻=Kaien
-灵文=Ling Wen
-灵淑=Ling Shu
-灵渊=Lingyuan
-灵灵=Lingling
-灵韵=Lingyun
 灼姫=Yaki
 炉六=Roroku
 炎丸=Honoomaru
@@ -66416,7 +66397,6 @@
 熊八=Kumahachi
 熊切=Kumagiri/Kumakiri
 熊取=Kumadori
-熊可=Xiong Ke
 熊堂=Kumadō
 熊塚=Kumatsuka
 熊如=Yuyu
@@ -66827,12 +66807,10 @@
 玄沢=Kurosawa
 玄治=Genji
 玄海=Genkai
-玄清=Xuanqing
 玄狼=Genrō
 玄瑞=Genzui
 玄田=Genda
 玄白=Genpaku
-玄离=Xuanli
 玄米=Genmai
 玄純=Shizusumi
 玄葉=Genba
@@ -68803,11 +68781,9 @@
 秀治=Hideji/Shuji
 秀満=Hidemitsu
 秀猿=Hidesaru
-秀瑛=Xiuying
 秀生=Shūsei
 秀男=Hideo
 秀眞=Hotsuma
-秀秀=XiuXiu
 秀秋=Hideaki
 秀継=Hidetsugu
 秀臣=Hideomi
@@ -68913,7 +68889,6 @@
 秦真=Hata Shin
 秦羽=Qin Yu
 秦野=Hatano
-秦雄=Xiong Qin
 秦默=Mo Qin
 秩父=Chichibu
 稀代=Kishiro
@@ -70586,7 +70561,6 @@
 耳男=Mimio
 耳郎=Jirō
 耶雲=Yakumo
-聂离=Li Nie
 聊爾=Ryōji
 聖一=Seiichi
 聖丸=Hijirimaru
@@ -71905,8 +71879,6 @@
 薙刀=Naginata/Shizukagata
 薙切=Nakiri
 薙沢=Nagisawa
-薛成=Xue Cheng
-薛洋=Xue Yang
 薩摩=Satsuma
 薪岡=Makioka
 薫子=Kaoruko/Mamiya
@@ -72107,11 +72079,9 @@
 虎馬=Toraba
 虎魚=Okoze
 虚宮=Utsuromiya
-虚淮=Xuhuai
 虚淵=Urobuchi
 虚西=Konishi
 虞淵=Guen
-虞軒=Xuan Yu
 虫味=Mushimi
 虫部=Mushi-bu
 虹一=Kōichi
@@ -72241,7 +72211,6 @@
 蠟花=Rōka
 血塗=Kechizu
 血染=Chizome
-血猫=Xue Mao
 血祭=Chimatsuri
 行人=Ikuto/Yukito
 行冥=Gyōmei
@@ -72259,7 +72228,6 @@
 行生=Kōsei
 行男=Yukio
 行盛=Yukimori
-行秋=Xingqiu
 行美=Ikumi/Xingmei
 行者=Gyōja
 行舟=Yukifune
@@ -72295,7 +72263,6 @@
 衣里=Eri
 表田=Omota
 表西=Omotenishi
-袁夏=Xia Yuan
 袁方=Yuan Fang
 袁紹=Yuan Shao
 袁術=Enjutsu
@@ -72400,7 +72367,6 @@
 西尾=NISIO/Nishio
 西屋=Nishiya
 西山=Nishiyama
-西岚=Xilan
 西岡=Nishioka
 西島=Nishijima
 西崎=Irizaki/Nishizaki
@@ -72444,7 +72410,6 @@
 西野=Nanase/Nishino
 西門=Nishikado/Saimon
 西風=Nishikaze
-西龍=Xi-Long
 西﨑=Nishizaki
 要一=Yōichi
 要介=Kaname Tasuku/Yōsuke
@@ -72538,9 +72503,7 @@
 設子=Setsuko
 設楽=Shitara
 許子=Motoko
-許宣=Xu Xian
 許斐=Konomi
-許褚=Xu Chu
 詔太=Shōta
 詠二=Eiji
 詠司=Eiji
@@ -72677,17 +72640,12 @@
 護郎=Gorō
 護龍=Goryū
 讓二=Jōji
-许丁=Xu Ding
-许琴=Xu Qin
 诗片=Utakata
 诗瑶=Shiyao
 诗萌=Shimeng
 诗语=Shiyu
 诸葛=Zhuge
 谛听=Diting
-谢怜=Xie Lian
-谢灵=Xie Ling
-谢邂=Xie Xie
 谭云=Tan Yun
 谷中=Taninaka/Yanaka
 谷側=Tanigawa
@@ -73180,7 +73138,6 @@
 轻扬=Qingyang
 辛子=Sachiko
 辛島=Karashima
-辛炎=Xinyan
 辞令=Jirei
 辰之=Tatsuyuki
 辰也=Tatsuya
@@ -73247,10 +73204,8 @@
 达威=Dawei
 迅子=Jinko
 迅火=Jinka
-迅羽=Xunyu
 迅鉄=Jintetsu
 迅雷=Jinrai
-迅鬼=Xunquai
 迎勉=Mukae Tsutomu
 迎桐=Mukae Kiri
 近堂=Kondō
@@ -74150,7 +74105,6 @@
 錫也=Suzuya
 錫切=Suzukiri
 錫木=Suzuki
-錫林=Xilin
 錫石=Suzuishi
 錬介=Rensuke
 錬次=Renji
@@ -74896,10 +74850,8 @@
 雪子=Yukiko
 雪室=Yukimuro
 雪宮=Yukimiya
-雪岑=Xuecen
 雪岡=Yukioka
 雪峯=Yukimine
-雪崩=Xue Beng
 雪希=Yuki
 雪平=Yukihira
 雪広=Yukihiro
@@ -74915,11 +74867,8 @@
 雪未=Yukimi
 雪本=Yukimoto
 雪村=Yukimura
-雪杨=Xueyang
 雪枝=Yukie
 雪染=Yukizome
-雪梅=Xiu Mei/Xuemei
-雪梨=Xueli
 雪森=Yukimori
 雪歩=Yukiho
 雪母=Yukihaha
@@ -74943,9 +74892,7 @@
 雪菜=Himuro/Setsuna/Yukina
 雪葉=Yukiha
 雪蓮=Setsuren
-雪蘭=Xuelan
 雪見=Yukimi
-雪言=Xue Yan
 雪貞=Yukisada
 雪路=Asaoka/Yukiji
 雪輝=Yukiteru
@@ -74958,9 +74905,7 @@
 雪音=Yukine
 雪風=Yukikaze
 雪鬼=Sekki
-雪鴉=Xue Ya
 雪鷹=Yukitaka
-雪鹰=Xue Ying
 雪麗=Oikawa Setsura
 雫梨=Shizuri Castiella
 雫石=Shizukuishi
@@ -75459,7 +75404,6 @@
 顕郎=Akio
 願司=Ganji
 願子=Ganko
-须妍=Xu Yan
 顾飞=Gu Fei
 颗粒=Ke Li
 風丸=Kazemaru
@@ -76272,7 +76216,6 @@
 麗華=Reika
 麗蕾=Lilei
 麗蘭=Lai Lan
-麗貝=Li Bei
 麗雄=Leo
 麗香=Reika
 麗々=Reirei
@@ -76847,7 +76790,6 @@
 奈=Seina
 奏=Himuro/Kana/Kanade/Kanata/Miyako Kanade/Sō
 契=Kei
-奚=Xi
 奠=Sadame
 奥=Oku
 奨=Shō/Show
@@ -76891,7 +76833,6 @@
 宴=Utage
 容=Rong/Yun
 宽=Kuan
-宿=Xiu
 寂=Kaiō
 密=Hisoka
 寛=Hiroshi/Kan/Takano/Yutaka
@@ -77086,14 +77027,12 @@
 无=Nai
 既=Sumi/Sunde
 旦=Tan
-早=Xun
 旬=Jun/Shun
 旺=Ô
 昂=Takashi
 昇=Mitani/Noboru/Shō
 昌=Akira/Masaya/Sho/Shō
 易=Yi
-昕=Xin
 星=Akari/Hoshi/Kiara/Sei/Shō/Star/Stella/Xing
 映=Akira/Ei
 春=Haru/Hoshino Haru/Kiyoharu/Shun/Yan
@@ -77113,7 +77052,6 @@
 晶=Aki/Akira/Jing/Shimizu/Shō
 智=Aono Tomo/Mie/Satori/Satoru/Satoshi/Tomo/Zhi
 暁=Akatsuki/Aki/Akira/Izumo/Kyō/Satoru
-暇=Xia
 暉=Akira/Hikaru
 暦=Koyomi/Reki
 暮=Kure
@@ -77316,7 +77254,6 @@
 源=Gen/Minamoto/Minamoto no/Minato
 準=Jun
 溜=Ryū
-溪=Xi
 滉=Akira/Kō
 滋=Shigeru
 滕=Teng
@@ -77365,8 +77302,6 @@
 煙=En/Kemuri
 照=Teru
 煽=Aogi
-熊=Xiong
-熙=Xi
 熾=Chi
 燃=Moyuru
 燈=Akari/Tomo/Tomoru
@@ -77783,8 +77718,6 @@
 譲=Joe/Jō/Yuzuru
 護=Go/Mamoru
 譽=Homare
-许=Xu
-谢=Xie
 谭=Tan
 谷=Gu/Iketani/Tani/Yahara
 豆=Tō
@@ -77821,7 +77754,6 @@
 輪=Rin
 轟=Gō/Todoroki
 轡=Kutsuwa
-轩=Xuan
 轶=Yi
 辑=Ji
 辰=Chen/Shin/Tatsu
