@@ -71343,7 +71343,6 @@ R国=Nhật Bản
 霍氏=Hoắc thị
 霍邑=Hoắc Ấp
 霍金=Hawking
-霓虹=Nhật Bản
 霜华=Sương Hoa
 露丝=Ruth
 露娜=Luna
