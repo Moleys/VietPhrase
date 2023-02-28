@@ -68638,7 +68638,6 @@ R国=Nhật Bản
 本尼=Benny
 本族=bổn tộc
 本笃=Benedict
-本精=Bản Tinh
 本茨=Benz
 札幌=Sapporo
 朱丹=Chu Đan
