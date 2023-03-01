@@ -292,7 +292,7 @@ sakisaki=Saki Saki
 泰山压顶而不惊=Thái Sơn áp đỉnh mà không kinh
 源九郎判官義経=Yoshitsune Minamoto no
 滚滚长江东逝水=Trường Giang cuồn cuồn chảy về đông
-煮付二世　先生=Nitsuke Nisei
+
 爱丽丝梦游仙境=Alice in Wonderland
 爱德华·赫里欧=Édouard Herriot
 爱德华·达拉第=Édouard Daladier
@@ -1005,7 +1005,7 @@ EX-咖喱棒=Ex-cà-ri-bơ
 東小路千代子=Higashikōji Chiyoko
 東方天乙統女=Tohoten Otome
 東海寺阿修羅=Tōkaiji Ashura
-松方園長先生=Principal Matsukata
+
 柚子川久留莉=Yuzukawa Kururi
 查克·诺里斯=Chuck Norris
 查拉图斯特拉=Zarathustra
@@ -1436,7 +1436,7 @@ EX-咖喱棒=Ex-cà-ri-bơ
 首藤総務長官=Minister of General Affairs Shuto
 馬場丹後之介=Baba Tangonosuke
 騨御影真希奈=Mikage Makina
-马不爱钱先生=Mã Bất Ái Tiền tiên sinh
+
 马克.安东尼=Mark Anthony
 马克·布洛赫=Marc Bloch
 马克思·佩恩=Max Payne
@@ -2285,7 +2285,7 @@ Yahoo=Yahoo
 仁乃樹里加=Jinno Jurika
 仁地村沙希=Nijimura Saki
 仁後真耶子=Nigo Mayako
-仁志奈先生=Nishina-sensei
+
 仁藤加奈未=Nitō Kanami
 仁部山健司=Nibeyama Kenji
 今井和香子=Imai Wakako
@@ -2301,7 +2301,7 @@ Yahoo=Yahoo
 仙童不二子=Sendō Fujiko
 仙都木優麻=Tokoyogi Yūma
 仙都木阿夜=Tokoyogi Aya
-代田橋先生=Daitabashi-sensei
+
 仲上眞一郎=Nakagami Shinichirō
 仲丸由紀彦=Nakamaru Yukihiko
 仲井戸尋祐=Hirosuke Nakaido
@@ -3481,7 +3481,7 @@ Yahoo=Yahoo
 喜々津嬉々=Kikitsu Kiki
 喜喜美々子=Kiki Mimiko
 喜多丘千陽=Kitaoka Chiharu
-喜多嶋先生=Kitajima-sensei
+
 喜多川拓郎=Kitagawa Takurō
 喜多川海夢=Kitagawa Marin
 喜多川海梦=Kitagawa Marin
@@ -3941,7 +3941,7 @@ Yahoo=Yahoo
 大比叡太一=Ohie Taichi
 大江利恵子=Ooe Rieko
 大江千鶴子=Ooe Chizuko
-大江戸博士=Dr. Oedo
+
 大江錦太郎=Ooe Kintarō
 大沢俊太郎=Oosawa Shuntarō
 大沢可夏子=Oosawa Kanako
@@ -5046,7 +5046,7 @@ Yahoo=Yahoo
 岩見進之介=Iwami Shinnosuke
 岬越寺秋雨=Koetsuji Akisame
 岳羽詠一郎=Takeba Eiichiro
-岸和田博士=Dr. Kishiwada
+
 岸川啓一郎=Kishikawa Keiichiro
 岸田今日子=Kishida Kyōko
 岸田志保子=Kishida Shihoko
@@ -5232,7 +5232,7 @@ Yahoo=Yahoo
 平原陽桜莉=Hirahara Hiori
 平和島静雄=Heiwajima Shizuo
 平城重太郎=Hiragi Jūtarō
-平安山先生=Henzan-sensei
+
 平川美由紀=Hirakawa Miyuki
 平沼登志之=Hiranuma Toshiyuki
 平滝夜叉丸=Tairano Takiyashamaru
@@ -5489,7 +5489,7 @@ Yahoo=Yahoo
 恩里克二世=Enrique II
 恵庭　杜若=Eniwa Kakitsubata
 恵庭熊雅秀=Eniguma Masahide
-恵比寿先生=Ebisu-sensei
+
 恵比寿花夫=Ebisu Hanao
 悉达·凯隐=Shieda Kayn
 悠久山安慈=Yūkyūzan Anji
@@ -6168,7 +6168,7 @@ Yahoo=Yahoo
 木戸亜沙斗=Kido Asato
 木戸絵里奈=Kido Erina
 木戸裕次郎=Kido Yūjirō
-木戸間先生=Kidoma-sensei
+
 木手永四郎=Kite Eishirō
 木春惣一郎=Koharu Sōichirō
 木暮由紀奈=Kogure Yukina
@@ -6186,7 +6186,7 @@ Yahoo=Yahoo
 木村美虎都=Kimura Mikoto
 木村香央里=Kimura Kaori
 木根竜太朗=Kine Ryūtaro
-木江田博士=Dr. Kieda
+
 木津池神奈=Kizuchi Kanna
 木皿儀二奈=Kisaragi Nina
 木皿儀千佳=Kisaragi Chika
@@ -7686,7 +7686,7 @@ Yahoo=Yahoo
 百城千世子=Momoshiro Chiyoko
 百夜優一郎=Hyakuya Yūichirō
 百町破魔矢=Hyakuchō Hamaya
-百目鬼先生=Domeki
+
 百舌菜津美=Mozu Natsumi
 百貴船太郎=Momoki Funetarō
 百足孝太郎=Momotari Kōtarō
@@ -7778,7 +7778,7 @@ Yahoo=Yahoo
 真田美菜子=Sanada Minako
 真田莉々奈=Sanada Ririna
 真田銃兵衛=Sanada Jubee
-真由美先生=Mayumi
+
 真白健太朗=Mashiro Kentarō
 真白藤吉郎=Mashira Tōkichirō
 真紀村朱実=Makimura Akemi
@@ -8028,7 +8028,7 @@ Yahoo=Yahoo
 秋田藤四郎=Tōshirō Akita
 秋田谷典昭=Akitaya Noriaki
 秋目日司馬=Akime Hishiba
-秋葉原博士=Dr. Akihabara
+
 秋葉留美穂=Akiha Rumiho
 秋野沙友理=Akino Sayuri
 科克罗比恩=Kyklobion
@@ -8399,7 +8399,7 @@ Yahoo=Yahoo
 美国織莉子=Mikuni Oriko
 美園岳郎太=Hanazono Gakurōta
 美多村知秋=Mitamura Moaki
-美奈子先生=Minako-sensei
+
 美少女战士=Thủy thủ mặt trăng
 美属萨摩亚=American Samoa
 美斉津恵友=Misaizu Keisuke
@@ -8407,7 +8407,7 @@ Yahoo=Yahoo
 美樹坂春華=Mikisaka Haruka
 美樹本晴彦=Mikimoto Haruhiko
 美樹本晴美=Mikimoto Harumi
-美沙子先生=Misako-sensei
+
 美濃部鬼道=Minobe Kidō
 美炭貴一郎=Misumi Kiichirō
 美特斯威邦=Meters-bonwe
@@ -8456,7 +8456,7 @@ Yahoo=Yahoo
 羽田健太郎=Haneda Kentarō
 羽田清死郎=Haneda Kiyoshirō
 羽田紗綾子=Hata Sayako
-羽田貫先生=Hanedanuki-sensei
+
 羽田野秋彦=Hadano Akihiko
 羽々斬直愛=Habakiri Naoe
 羽馬令依菜=Haba Reina
@@ -8966,7 +8966,7 @@ Yahoo=Yahoo
 西園寺世界=Saionji Sekai
 西園寺乙女=Saionji Otome
 西園寺修造=Saionji Shūzō
-西園寺先生=Saionji
+
 西園寺光輝=Saionji Kōki
 西園寺公宗=Saionji Kinmune
 西園寺君江=Saionji Kimie
@@ -9039,7 +9039,7 @@ Yahoo=Yahoo
 西長洲本通=Nishinagasuhondoori
 西門総二郎=Nishikado Sōjirō
 西门大官人=Tây Môn đại quan nhân
-西音寺博士=Dr. Saionji
+
 西风骑士团=Kỵ sĩ đoàn Gió Tây
 見守良太郎=Mimori Ryōtarō
 見瀬内花南=Misenai Kanan
@@ -9754,7 +9754,7 @@ Yahoo=Yahoo
 阿罗伊茜娅=Aloysia
 阿羅耶識西=West Arayashiki
 阿耳忒弥斯=Artemis
-阿良句博士=Dr. Arach
+
 阿良川一剣=Arakawa Ikken
 阿良川一生=Arakawa Isshō
 阿良川亨二=Arakawa Kyōji
@@ -10757,7 +10757,7 @@ YG娱乐=YG Entertainment
 三宮紫穂=Sannomiya Shiho
 三家本礼=Mikamoto Rei
 三尋木咏=Mihirogi Uta
-三屋先生=Mitsuya Miss
+
 三山五岳=Tam Sơn Ngũ Nhạc
 三峰白夜=Mitsumine Hakuya
 三峰白雪=Mitsumine Shirayuki
@@ -11365,7 +11365,7 @@ YG娱乐=YG Entertainment
 东伯青石=Dong Bo Qing Shi
 东医宝鉴=Đông Y Bảo Giám
 东地中海=Đông Địa Trung Hải
-东坡先生=Đông Pha tiên sinh
+
 东山再起=Đông Sơn tái khởi
 东德西德=Đông Đức Tây Đức
 东方不败=Đông Phương Bất Bại
@@ -11384,7 +11384,7 @@ YG娱乐=YG Entertainment
 东胜神洲=Đông Thắng Thần Châu
 东进学塾=trường luyện thi Tōshin
 东邪西毒=Đông Tà Tây Độc
-东郭先生=Đông Quách tiên sinh
+
 东野圭吾=Higashino Keigo
 东高止山=Eastern Ghats
 丝内基娜=Snejina
@@ -11766,7 +11766,7 @@ YG娱乐=YG Entertainment
 中野二乃=Nakano Nino
 中野五月=Nakano Itsuki
 中野健治=Nakano Kenji
-中野先生=Nakano-sensei
+
 中野光輝=Nakano Kōki
 中野公子=Nakano Kimiko
 中野千雨=Nakano Chisame
@@ -12446,7 +12446,7 @@ YG娱乐=YG Entertainment
 井上利香=Inōe Rika
 井上勇希=Inōe Yūki
 井上千里=Inōe Chisato
-井上博士=Dr. Inōe
+
 井上博明=Inōe Hiroaki
 井上和彦=Inōe Kazuhiko
 井上和郎=Inōe Kazurō
@@ -13039,7 +13039,7 @@ YG娱乐=YG Entertainment
 伊瓦尼孙=Ivanilson
 伊田一三=Ida Kazumi
 伊田二葉=Ida Futaba
-伊田先生=Ida-sensei
+
 伊知川累=Ijigawa Rui
 伊知衛門=Ichiemon
 伊禮瑞榎=Irei Mizuka
@@ -13069,7 +13069,7 @@ YG娱乐=YG Entertainment
 伊藤依人=Itō Yorito
 伊藤俊輔=Itō Shunsuke
 伊藤倭人=Itō Yamato
-伊藤先生=Itō-sensei/Itō-dono
+
 伊藤公正=Itō Kimimasa
 伊藤初江=Itō Hatsue
 伊藤初芽=Itō Hatsume
@@ -13727,7 +13727,7 @@ YG娱乐=YG Entertainment
 保住有哉=Hozumi Yuya
 保利舞子=Hori Maiko
 保加利亚=Bulgaria
-保坂先生=Hosaka
+
 保坂光流=Hosaka Mitsuru
 保坂実里=Hosaka Minori
 保外就医=tại ngoại chữa bệnh
@@ -13784,7 +13784,7 @@ YG娱乐=YG Entertainment
 倉持若菜=Kuramochi Wakana
 倉持雄大=Kuramochi Yūdai
 倉敷世羅=Kurashiki Sera
-倉敷先生=Kurashiki-sensei
+
 倉敷牡丹=Kurashiki Botan
 倉敷玲奈=Kurashiki Reina
 倉敷舞子=Kurashiki Maiko
@@ -13883,7 +13883,7 @@ YG娱乐=YG Entertainment
 優莉結衣=Yūri Yui
 優藤聖代=Yūtō Seiyo
 元井隼人=Motoi Hayato
-元内先生=Motōchi-sensei
+
 元始天尊=Nguyên Thuỷ Thiên Tôn/Genshi Tenson
 元婴后期=Nguyên Anh hậu kỳ
 元宮祭莉=Motomiya Matsuri
@@ -13913,7 +13913,7 @@ YG娱乐=YG Entertainment
 光津真澄=Kōtsu Masumi
 光浦靖子=Mitsūra Yasuko
 光田康典=Mitsuda Yasunori
-光石先生=Mitsuishi
+
 光石織姫=Mitsuishi Orihime
 光祐一朗=Hikari Yūichirō
 光良夜桜=Mitsuyoshi Yozakura
@@ -14931,9 +14931,9 @@ YG娱乐=YG Entertainment
 加藤亮夫=Katō Akio
 加藤伸吉=Katō Shinkichi
 加藤保憲=Katō Yasunori
-加藤先生=Kato-sensei
+
 加藤勝郎=Katō Kachirō
-加藤博士=Dr. Katō
+
 加藤和恵=Katō Kazue
 加藤和樹=Kato Kazuki
 加藤善人=Katō Yoshito
@@ -15067,7 +15067,7 @@ YG娱乐=YG Entertainment
 勝呂竜士=Suguro Ryūji
 勝呂虎子=Suguro Torako
 勝呂達磨=Suguro Tatsuma
-勝子先生=Sensei Katsuko
+
 勝山伝心=Katsuyama Denshin
 勝本大作=Katsumoto Daisaku
 勝沼紀義=Katsunuma Kiyoshi
@@ -15187,7 +15187,7 @@ YG娱乐=YG Entertainment
 北方棲姫=Hoppō Seiki
 北本篤史=Kitamoto Atsushi
 北村元康=Kitamura Motoyasu
-北村先生=Kitamura
+
 北村加代=Kitamura Kayo
 北村匠海=Kitamura Takumi
 北村大悟=Kitamura Daigo
@@ -15288,7 +15288,7 @@ YG娱乐=YG Entertainment
 北郷章香=Kitagō Fumika
 北里史郎=Kitasato Shirō
 北野三郎=Kitano Saburō
-北野先生=Kitano
+
 北野博之=Kitano Hiroyuki
 北野古子=Kitano Furuko
 北野右京=Kitano Ukyo
@@ -15479,7 +15479,7 @@ YG娱乐=YG Entertainment
 千野言葉=Chino Kotoha
 千鋃千艸=Senrō Chigusa
 千鳥悠真=Chidori Yūma
-千鶴先生=Chizuru-sensei
+
 午緒陽子=Ushio Yōko
 半井恵仁=Nakarai Keijin
 半井摩子=Nakarai Mako
@@ -15977,7 +15977,7 @@ YG娱乐=YG Entertainment
 古宮花織=Komiya Kaori
 古宮陽子=Furumiya Yōko
 古寺章平=Kodera Shōhei
-古屋先生=Furuya Coach
+
 古屋兎丸=Furuya Usamaru
 古屋敷芹=Furuyashiki Seri
 古屋道秋=Furuya Michiaki
@@ -16270,7 +16270,7 @@ YG娱乐=YG Entertainment
 吉崎麻理=Yoshizaki Mari
 吉川優子=Yoshikawa Yūko
 吉川元春=Kikkawa Motoharu
-吉川先生=Yoshikawa
+
 吉川和美=Yoshikawa Kazumi
 吉川寛治=Yoshikawa Kanji
 吉川恭一=Yoshikawa Kyōichi
@@ -16639,7 +16639,7 @@ YG娱乐=YG Entertainment
 和倉杏子=Wakura Anzu
 和倉結名=Wakura Yuina
 和倉青羽=Wakura Aoba
-和子先生=Ms. Kazuko
+
 和宮梨旺=Kazumiya Rio
 和希沙也=Kazuki Saya
 和平慈父=Hoà Bình Từ Phụ
@@ -16652,7 +16652,7 @@ YG娱乐=YG Entertainment
 和泉三月=Izumi Mitsuki
 和泉亜子=Izumi Ako
 和泉健司=Izumi Kenji
-和泉先生=Izumi-sensei/Izumi-san
+
 和泉公平=Izumi Kōhei
 和泉千晶=Izumi Chiaki
 和泉千隼=Izumi Chihaya
@@ -16713,7 +16713,7 @@ YG娱乐=YG Entertainment
 咲坂芽亜=Sakisaka Mea
 咲夜此花=Konohana Sakuya
 咲山修二=Sakiyama Shūji
-咲山先生=Sakiyama Coach
+
 咲山小梅=Sakiyama Kōme
 咲木音穂=Saki Otoh
 咲村千穂=Sakimura Chiho
@@ -17066,7 +17066,7 @@ YG娱乐=YG Entertainment
 園村麻希=Sonomura Maki
 園田不兆=Sonoda Fuchō
 園田健一=Sonoda Kenichi
-園田先生=Sonoda
+
 園田大勢=Sonoda Taisei
 園田奈子=Sonoda Nako
 園田小波=Sonoda Konami
@@ -17092,7 +17092,7 @@ YG娱乐=YG Entertainment
 園部清美=Sonobe Kiyomi
 園部音也=Sonobe Otoya
 園野寧々=Sonono Nene
-園長先生=Enchō-sensei/Kindergarten Director/Principal
+
 圓城陽大=Enjō Haruto
 土上恭哉=Tsuchigami Kyoya
 土井亜紀=Doi Aki
@@ -17122,7 +17122,7 @@ YG娱乐=YG Entertainment
 土居裕子=Doi Yuko
 土屋亜子=Tsuchiya Ako
 土屋剛基=Tsuchiya Takeki
-土屋博士=Dr. Tsuchiya
+
 土屋和樹=Tsuchiya Kazuhiro
 土屋圭市=Tsuchiya Keiichi
 土屋太鳳=Tsuchiya Tao
@@ -17247,7 +17247,7 @@ YG娱乐=YG Entertainment
 地藏菩萨=Địa Tạng Bồ Tát
 地行甲乙=Chigyō Kōitsu
 地错世界=thế giới DanMachi
-坂上先生=Sakagami
+
 坂上加奈=Sakagami Kana
 坂上央介=Sakagami Yōsuke
 坂上拓也=Sakagami Takuya
@@ -17393,7 +17393,7 @@ YG娱乐=YG Entertainment
 坂水麻希=Sakamizu Maki
 坂沢史郎=Sakazawa Shiro
 坂熊孝彦=Sakaguma Takahiko
-坂田先生=Sakata
+
 坂田千明=Sakata Chiaki
 坂田将吾=Sakata Shōgo
 坂田弘明=Sakata Hiroaki
@@ -17625,7 +17625,7 @@ YG娱乐=YG Entertainment
 堀川謙弥=Horikawa Kenya
 堀川麗美=Horikawa Reimi
 堀木正雄=Horiki Masao
-堀毛先生=Horike-sensei
+
 堀江一眞=Horie Kazuma
 堀江晶太=Horie Shōta
 堀江由衣=Horie Yui
@@ -18022,7 +18022,7 @@ YG娱乐=YG Entertainment
 多特蒙德=Dortmund
 多田万里=Tada Banri
 多田俊介=Tada Shunsuke
-多田先生=Tada
+
 多田光良=Tada Mitsuyoshi
 多田吉蔵=Tada Yoshizō
 多田啓太=Tada Keita
@@ -18326,7 +18326,7 @@ YG娱乐=YG Entertainment
 大島裕樹=Oojima Yūki
 大島雄也=Ooshima Takeya
 大島麗一=Oshima Reiichi
-大崎先生=Oosaki
+
 大崎甘奈=Osaki Amana
 大崎甜花=Osaki Tenka
 大崎秋子=Oozaki Akiko
@@ -18376,7 +18376,7 @@ YG娱乐=YG Entertainment
 大暮維人=Oh! Great
 大暮维人=Oh!Great
 大曲竜次=Oomagari Ryūji
-大月先生=Ootsuki-sensei
+
 大月若葉=Ootsuki Wakaba
 大月雪弥=Ootsuki Yukiya
 大木健悟=Ooki Kengo
@@ -18681,7 +18681,7 @@ YG娱乐=YG Entertainment
 大鈴功起=Oosuzu Kōki
 大門五郎=Daimon Goro
 大門優作=Daimon Yūsaku
-大門先生=Daimon-sensei
+
 大門夕子=Daimon Yūko
 大門大吾=Daimon Daigo
 大門愛海=Daimon Manami
@@ -18810,7 +18810,7 @@ YG娱乐=YG Entertainment
 天城達也=Amagi Tatsuya
 天城雪子=Amagi Yukiko
 天城高雅=Amagi Kōga
-天堂先生=Tendō-sensei
+
 天堂初音=Tendō Hatsune
 天堂千鶴=Tendō Chizuru
 天堂哲治=Tendō Tetsuharu
@@ -19503,7 +19503,7 @@ YG娱乐=YG Entertainment
 孫策伯符=Sonsaku Hakufu
 宁姆格福=Limgrave
 宁文柳顏=Ning Wen Liu Yan
-宅和先生=Takuwa-sensei
+
 宅見七海=Takumi Nanami
 宅見将典=Takumi Masanori
 宅野誠起=Takuno Seiki
@@ -19576,7 +19576,7 @@ YG娱乐=YG Entertainment
 守家知行=Moriya Tomoyuki
 守屋亨香=Moriya Kyōka
 守屋倉市=Moriya Kuraichi
-守屋先生=Moriya
+
 守屋光晴=Moriya Mitsuharu
 守屋琴律=Moriya Kotori
 守屋美紀=Moriya Miki
@@ -19770,7 +19770,7 @@ YG娱乐=YG Entertainment
 安联球场=Allianz Arena
 安艺伦也=Aki Tomoya
 安芸倫也=Aki Tomoya
-安芸先生=Aki
+
 安芸情二=Aki Jōji
 安芸真鈴=Aki Masuzu
 安芸祥子=Aki Shōko
@@ -19952,7 +19952,7 @@ YG娱乐=YG Entertainment
 実原氷里=Sanehara Hikari
 実園遥香=Misono Haruka
 実渕玲央=Mibuchi Reo
-実篤先生=Saneatsu
+
 审美疲劳=thẩm mỹ mệt nhọc
 客人考助=Marodo Kosuke
 室井伸一=Muroi Shinichi
@@ -20109,7 +20109,7 @@ YG娱乐=YG Entertainment
 宮川菜波=Miyakawa Nanami
 宮市和希=Miyaichi Kazuki
 宮市莉央=Miyaichi Rio
-宮平先生=Miyahira-sensei
+
 宮本佳野=Miyamoto Kano
 宮本侑芽=Miyamoto Yume
 宮本信一=Miyamoto Shinichi
@@ -20278,7 +20278,7 @@ YG娱乐=YG Entertainment
 富坚义博=Togashi Yoshihiro
 富塚元繁=Tomizuka Motoshige
 富士一子=Fuji Ichiko
-富士先生=Fuji-sensei
+
 富士峰子=Fuji Mineko
 富士沢博=Fujisawa Hiroshi
 富士浪翔=Fujinami Shō
@@ -20319,13 +20319,13 @@ YG娱乐=YG Entertainment
 富蔵彩花=Tomikura Ayaka
 富蔵愛美=Tomikura Manami
 富貴晴美=Fūki Harumi
-富野博士=Dr. Tomino
+
 寒咲通司=Kanzaki Tooji
 寒川航平=Kangawa Kōhei
 寒川谷尋=Samukawa Yahiro
 寒月一凍=Kangetsu Ittō
 寝屋琢也=Neya Takuya
-寮長先生=Dorm Mistress
+
 寶月夜宵=Hōzuki Yayoi
 寶月詠子=Hōzuki Eiko
 寸断殺人=Sundan Ayahito
@@ -20465,7 +20465,7 @@ YG娱乐=YG Entertainment
 小南桐絵=Konami Kirie
 小南泰葉=Kominami Yasuha
 小南静歌=Kominami Shizuka
-小原先生=Ohara-sensei
+
 小原和大=Ohara Kazuhiro
 小原好美=Kohara Konomi
 小原教諭=Teacher Ohara
@@ -20515,7 +20515,7 @@ YG娱乐=YG Entertainment
 小尾哲郎=Obi Tetsurō
 小山三郎=Koyama Saburō
 小山佐智=Koyama Sachi
-小山先生=Koyama Yukio
+
 小山内治=Osanai Osamu
 小山内馨=Osanai Kaoru
 小山剛志=Koyama Tsuyoshi
@@ -20606,7 +20606,7 @@ YG娱乐=YG Entertainment
 小幡洋子=Obata Yōko
 小幡真裕=Obata Mayu
 小幡記子=Obata Noriko
-小平先生=Kodaira
+
 小平有希=Kodaira Yūki
 小形尚弘=Ogata Naohiro
 小恶魔兽=Pico Devimon
@@ -20691,7 +20691,7 @@ YG娱乐=YG Entertainment
 小林優奈=Kobayashi Yūna
 小林優子=Kobayashi Yuko
 小林元子=Kobayashi Motoko
-小林先生=Kobayashi-sensei
+
 小林刑事=Kobayashi Monzō
 小林利夫=Kobayashi Toshio
 小林勝彦=Kobayashi Katsuhiko
@@ -20839,7 +20839,7 @@ YG娱乐=YG Entertainment
 小池菜摘=Koike Natsumi
 小池謙一=Koike Kenichi
 小沢優子=Ozawa Yūko
-小沢先生=Ozawa-sensei
+
 小沢恵子=Ozawa Keiko
 小沢晴香=Ozawa Haruka
 小沢真理=Ozawa Mari
@@ -21258,7 +21258,7 @@ YG娱乐=YG Entertainment
 山中井野=Yamanaka Ino
 山中亥一=Yamanaka Inoichi
 山中依里=Yamanaka Eri
-山中先生=Yamanaka-sensei/Yamanaka-san
+
 山中大輔=Yamanaka Daisuke
 山中寛太=Yamanaka Kanta
 山中幸典=Yamanaka Kōsuke
@@ -21300,7 +21300,7 @@ YG娱乐=YG Entertainment
 山口一希=Yamaguchi Kazuki
 山口伊代=Yamaguchi Iyo
 山口侑斗=Yamaguchi Yūto
-山口先生=Yamaguchi
+
 山口凛子=Yamaguchi Rinko
 山口勝平=Yamaguchi Kappei
 山口協佳=Yamaguchi Kyōka
@@ -21360,7 +21360,7 @@ YG娱乐=YG Entertainment
 山咲美由=Yamazaki Miyu
 山城上総=Yamashiro Kazusa
 山城優一=Yamashiro Yūichi
-山城先生=Yamashiro-sensei
+
 山城和樹=Yamashiro Kazuki
 山城新二=Yamashiro Shinji
 山城新伍=Yamashiro Shingo
@@ -21392,7 +21392,7 @@ YG娱乐=YG Entertainment
 山崎一志=Yamazaki Kazushi
 山崎健二=Yamazaki Kenji
 山崎健太=Yamazaki Kenta
-山崎先生=Yamazaki-sensei
+
 山崎公平=Yamazaki Kōhei
 山崎刑事=Yamazaki
 山崎千鶴=Yamazaki Chizuru
@@ -21531,7 +21531,7 @@ YG娱乐=YG Entertainment
 山本鬼兵=Yamamoto Onihei
 山本麗華=Yamamoto Reika
 山本龍二=Yamamoto Ryuji
-山村先生=Yamamura-sensei
+
 山村和也=Yamamura Kazuya
 山村日向=Yamamura Hinata
 山村浩二=Yamamura Koji
@@ -21578,7 +21578,7 @@ YG娱乐=YG Entertainment
 山田信夫=Yamada Nobuo
 山田健太=Yamada Kenta
 山田優子=Yamada Yu
-山田先生=Yamada/Yamada-sensei
+
 山田光司=Yamada Kōji
 山田光子=Yamada Mitsuko
 山田八郎=Yamada Hachiro
@@ -21685,7 +21685,7 @@ YG娱乐=YG Entertainment
 山路和弘=Qi Lian/Yamaji Kazuhiro
 山路輝彦=Yamaji Teruhiko
 山辺　咲=Yamanobe Saki
-山辺先生=Professor Yamanobe
+
 山辺手梓=Yamanobe Tazusa
 山辺美希=Yamanobe Miki
 山道健介=Yamamichi Kensuke
@@ -21885,7 +21885,7 @@ YG娱乐=YG Entertainment
 岩峰一愛=Iwamine Chinari
 岩崎亜衣=Iwasaki Ai
 岩崎元是=Iwasaki Motoyoshi
-岩崎先生=Iwasaki
+
 岩崎刑事=Detective Iwasaki
 岩崎千紘=Iwasaki Chihiro
 岩崎可苗=Iwasaki Kanae
@@ -22002,7 +22002,7 @@ YG娱乐=YG Entertainment
 岸田修治=Kishida Shūji
 岸田克己=Kishida Katsumi
 岸田劉生=Kishida Ryūsei
-岸田博士=Dr. Kishida/Kishida Hiroshi
+
 岸田和美=Kishida Kazumi
 岸田憲一=Kishida Kenichi
 岸田智一=Kishida Tomokazu
@@ -22069,7 +22069,7 @@ YG娱乐=YG Entertainment
 島本美優=Shimamoto Miyu
 島本美和=Shimamoto Miwa
 島本須美=Shimamoto Sumi
-島村先生=Shimamura-sensei
+
 島村卯月=Shimamura Uzuki
 島村抱月=Shimamura Hōgetsu
 島村葉子=Shimamura Yōko
@@ -22091,7 +22091,7 @@ YG娱乐=YG Entertainment
 島津里沙=Shimazu Risa
 島津麗子=Shimazu Reiko
 島田一旗=Shimada Kazuki
-島田先生=Shimada
+
 島田典道=Shimada Norimichi
 島田千代=Shimada Chiyo
 島田奈美=Shimada Nami
@@ -22131,7 +22131,7 @@ YG娱乐=YG Entertainment
 崎山健三=Sakiyama Kenzō
 崎山蒼志=Sakiyama Sōshi
 崎山蓉司=Sakiyama Yōji
-崎山香織=Sakiyama/Sakiyama Kaori
+崎山香織=Sakiyama Kaori
 崎本大海=Sakimoto Hiromi
 崎本水枝=Sakimoto Mizue
 崎谷浩介=Sakiya Kōsuke
@@ -22198,7 +22198,6 @@ YG娱乐=YG Entertainment
 川井静香=Kawai Shizuka
 川元利浩=Kawamoto Toshihiro
 川内美緒=Kawauchi Mio
-川剧变脸=Xuyên kịch trở mặt
 川勝徳重=Kawakatsu Tokushige
 川勝未来=Kawakatsu Mira
 川原元幸=Kawahara Motoyuki
@@ -22248,7 +22247,7 @@ YG娱乐=YG Entertainment
 川岸殴魚=Kawashigi Ôgyo
 川岸理沙=Kawagishi Risa
 川島乃枝=Kawashima Noe
-川島先生=Kawashima-sensei
+
 川島千尋=Kawashima Chihiro
 川島和子=Kawashima Kazuko
 川島得愛=Kawashima Tokuyoshi
@@ -22264,7 +22263,6 @@ YG娱乐=YG Entertainment
 川島零士=Kawashima Reiji
 川崎京華=Kawasaki Keika
 川崎健司=Kawasaki Kenji
-川崎先生=Ms. Kawasaki
 川崎博嗣=Kawasaki Hirotsugu
 川崎史貴=Kawasaki Fumitaka
 川崎哲也=Kawasaki Tetsuya
@@ -22997,7 +22995,6 @@ YG娱乐=YG Entertainment
 広畑七恵=Hirohata Nanae
 広西作大=Hironishi Sakudai
 広野健太=Hirono Kenta
-広野先生=Hirono
 広野昌子=Hirono Shōko
 庄公梦蝶=Trang Công mộng điệp
 庄司将之=Shōji Masayuki
@@ -23256,7 +23253,6 @@ YG娱乐=YG Entertainment
 後堂理花=Ushirodō Rika
 後本萌葉=Nochimoto Moeha
 後藤京香=Gotō Kyōka
-後藤先生=Gotō
 後藤光祐=Gotō Kōsuke
 後藤劾以=Gotō Gai
 後藤十三=Gotō Jūzō
@@ -23299,7 +23295,7 @@ YG娱乐=YG Entertainment
 後藤香織=Goto Kaori
 後藤麻衣=Gotō Mai
 後藤龍善=Gotō Ryūzen
-後輩先生=Kōhai-sensei
+
 徐大司空=Từ Đại Tư Không
 徐庶元直=Josho Genchoku
 徐晃公明=Jokō Kōmei
@@ -23541,7 +23537,7 @@ YG娱乐=YG Entertainment
 志勇草薙=Shiyu Kusanagi
 志垣太郎=Shigaki Taro
 志堂理沙=Shidō Risa
-志岐博士=Dr. Shiki
+
 志峰真人=Shinjin Shihō
 志島一心=Shijima Isshin
 志島北斗=Shijima Hokuto
@@ -23731,7 +23727,7 @@ YG娱乐=YG Entertainment
 愛田優弥=Aida Yūya
 愛田浩司=Aida Kōji
 愛甲時恵=Aikō Tokie
-愛知先生=Vice Principal
+
 愛童星夜=Aidō Seiya
 愛良綱屋=Arazunaya
 慈航道人=Jikō Dōjin
@@ -23871,7 +23867,7 @@ YG娱乐=YG Entertainment
 戸叶優香=Tokano Yūka
 戸叶庄三=Togano Shozo
 戸坂玉悟=Tosaka Tamago
-戸塚先生=Totsuka-sensei
+
 戸塚利絵=Tozuka Rie
 戸塚弥彦=Totsuka Yahiko
 戸塚彩加=Totsuka Saika
@@ -24042,7 +24038,7 @@ YG娱乐=YG Entertainment
 押切桃香=Oshikiri Momoka
 押切蓮介=Oshikiri Rensuke
 押守優伍=Ôkami Yūgo
-押尾先生=Oshio-sensei
+
 押尾坪八=Oshio Tsubohachi
 押山清高=Oshiyama Kiyotaka
 押本陽太=Oshimoto Yōta
@@ -24202,7 +24198,7 @@ YG娱乐=YG Entertainment
 敕使河原=Teshigawara
 教育方针=phương châm giáo dục
 教育部长=Bộ trưởng bộ giáo dục
-教頭先生=Kometsuki Vice Principal/Kyōtō-sensei/Sensei/Vice Principal/Vice-Principal
+
 散华礼弥=Sankarea
 散華礼弥=Sanka Rea
 散财童子=Tán Tài Đồng Tử
@@ -24257,7 +24253,7 @@ YG娱乐=YG Entertainment
 斉藤佑圭=Saitō Yuka
 斉藤健一=Saitō Kenichi
 斉藤健吾=Saitō Kengo
-斉藤先生=Saitō
+
 斉藤八雲=Saitō Yakumo
 斉藤壮馬=Saitō Sōma
 斉藤壱護=Saitō Ichigo
@@ -25022,7 +25018,7 @@ YG娱乐=YG Entertainment
 明石香織=Akashi Kaori
 明神亜貴=Myōjin Aki
 明神凛音=Myōjin Rinne
-明神博士=Dr. Myōjin
+
 明神太郎=Myōjin Tarō
 明神弥彦=Myōjin Yahiko
 明神紅緒=Myōjin Benio
@@ -25424,7 +25420,7 @@ YG娱乐=YG Entertainment
 曽根璃莉=Sone Ruri
 曽田正人=Soda Masahito
 曽野由大=Sono Yoshihiro
-曾老先生=Tăng lão tiên sinh
+
 最上享二=Mogami Kyōji
 最上冴菜=Mogami Saena
 最上君影=Mogami Kimikage
@@ -25510,7 +25506,7 @@ YG娱乐=YG Entertainment
 月成彦六=Tsukinari Hikoroku
 月斗浅葱=Gettō Asagi
 月暈杏子=Tsukigasa Kyōka
-月本先生=Tsukimoto-sensei
+
 月本光信=Tsukimoto Mitsunobu
 月本光政=Tsukimoto Mitsumasa
 月本光法=Tsukimoto Mitsunori
@@ -25867,7 +25863,7 @@ YG娱乐=YG Entertainment
 木下亜衣=Kinoshita Ai
 木下京子=Kinoshita Kyōko
 木下優子=Kinoshita Yūko
-木下先生=Kinoshita
+
 木下半太=Kinoshita Hanta
 木下友夫=Kinoshita Tomoo
 木下君子=Kinoshita Kimiko
@@ -25964,7 +25960,7 @@ YG娱乐=YG Entertainment
 木嶋拓海=Kijima Takumi
 木嶋翔子=Kijima Shōko
 木嶋耕太=Kijima Kōta
-木幡先生=Kibata
+
 木幡真琴=Kowata Makoto
 木府亜子=Kifu Ako
 木戸三郎=Kido Saburô
@@ -26001,7 +25997,7 @@ YG娱乐=YG Entertainment
 木村俊幸=Toshiyuki Kimura
 木村信介=Kimura Shinsuke
 木村健生=Kimura Takeo
-木村先生=Kimura
+
 木村克也=Kimura Katsuya
 木村匡也=Kimura Kyōya
 木村千咲=Kimura Chisa
@@ -26820,7 +26816,7 @@ YG娱乐=YG Entertainment
 松尾伊織=Matsuo Iori
 松尾伝助=Matsuo Densuke
 松尾佳子=Matsuo Yoshiko
-松尾先生=Matsuo-sensei
+
 松尾大亮=Matsuo Daisuke
 松尾大佑=Matsuo Daisuke
 松尾大助=Matsuo Daisuke
@@ -26848,7 +26844,7 @@ YG娱乐=YG Entertainment
 松岡侑李=Matsuoka Yūri
 松岡修治=Matsuoka Shūji
 松岡優紀=Matsuoka Yūki
-松岡先生=Matsuoka-sensei
+
 松岡冬樹=Matsuoka Fuyuki
 松岡史明=Matsuoka Fumiaki
 松岡咲子=Matsuoka Sakiko
@@ -26878,7 +26874,7 @@ YG娱乐=YG Entertainment
 松島田学=Matsushimada Manabu
 松崎亜美=Matsuzaki Ami
 松崎健一=Matsuzaki Kenichi
-松崎先生=Matsuzaki
+
 松崎克俊=Matsuzaki Katsutoshi
 松崎幸司=Matsuzaki Kōji
 松崎春海=Matsuzaki Shunkai
@@ -26924,7 +26920,7 @@ YG娱乐=YG Entertainment
 松本千恵=Matsumoto Chie
 松本千早=Matsumoto Chihaya
 松本南吉=Matsumoto Nankichi
-松本博士=Dr. Matsumoto
+
 松本友奈=Matsumoto Yūna
 松本夏美=Matsumoto Natsumi
 松本夕紀=Matsumoto Yūki
@@ -27060,7 +27056,7 @@ YG娱乐=YG Entertainment
 松葉伊織=Matsuba Iori
 松藤愛奈=Matsufuji Mana
 松見真一=Matsumi Shinichi
-松谷先生=Matsutani Tsubasa
+
 松谷彼哉=Matsutani Kaya
 松谷祐子=Matsutani Yūko
 松赞干布=Songzain Gambo
@@ -27136,7 +27132,7 @@ YG娱乐=YG Entertainment
 林村直人=Hayashimura Naoto
 林水敦信=Hayashimizu Atsunobu
 林田一馬=Hayashida Kazuma
-林田先生=Hayashida-sensei
+
 林田太郎=Hayashida Tarō
 林田奈々=Hayashida Nana
 林田尚子=Hayashida Naoko
@@ -27146,7 +27142,7 @@ YG娱乐=YG Entertainment
 林田藍里=Hayashida Airi
 林田高志=Hayashida Takashi
 林真里花=Hayashi Marika
-林老先生=Lâm lão tiên sinh
+
 林老神仙=Lâm lão thần tiên
 林裕一郎=Hayashi Yūichirō
 林路两家=hai nhà Lâm Lộ
@@ -27372,7 +27368,7 @@ YG娱乐=YG Entertainment
 柳谷乙女=Yanagiya Otome
 柳迫碧美=Yanagisako Aomi
 柴刈殿治=Shibakaru Denji
-柴咲先生=Shibasaki-sensei
+
 柴垣謙介=Shibagaki Kensuke
 柴山平和=Shibayama Hirakazu
 柴山智隆=Shibayama Tomotaka
@@ -27399,7 +27395,7 @@ YG娱乐=YG Entertainment
 柴田亜美=Shibata Ami
 柴田健一=Shibata Kenichi
 柴田優一=Shibata Yūichi
-柴田先生=Shibata
+
 柴田克巳=Shibata Katsumi
 柴田剣人=Shibata Kento
 柴田勝家=Shibata Katsuie
@@ -27641,7 +27637,7 @@ YG娱乐=YG Entertainment
 桂小太郎=Katsura Kotarō
 桂川平蔵=Katsuragawa Heizō
 桂木伝馬=Katsuragi Denma
-桂木先生=Katsuragi
+
 桂木千鍵=Katsuragi Chikagi
 桂木幸子=Katsuragi Yukiko
 桂木弥子=Katsuragi Yako
@@ -27670,7 +27666,7 @@ YG娱乐=YG Entertainment
 桃井琴音=Momoi Kotone
 桃井葉子=Momoi Yōko
 桃人華蓮=Momoto Karen
-桃原先生=Tōbaru-sensei
+
 桃原奈月=Momohara Natsuki
 桃原桃子=Momohara Momoko
 桃园丽华=Momozono Reika
@@ -27699,7 +27695,7 @@ YG娱乐=YG Entertainment
 桃田十蔵=Momota Juzo
 桃田早希=Momota Saki
 桃田紗世=Sayo Momota
-桃谷先生=Momoya
+
 桃谷総司=Momoya Sōshi
 桐井双葉=Kirii Futaba
 桐井大介=Kirii Daisuke
@@ -27834,7 +27830,7 @@ YG娱乐=YG Entertainment
 桐須真冬=Kirisu Mafuyu
 桐須美春=Kirisu Miharu
 桐须真冬=Kirisu Mafuyu
-桑原先生=Kuwahara
+
 桑原和男=Kuwabara Kazuo
 桑原和真=Kuwabara Kazuma
 桑原和貴=Kuwahara Kazuki
@@ -28235,7 +28231,7 @@ YG娱乐=YG Entertainment
 森屋秀一=Moriya Shūichi
 森山久美=Moriyama Kumi
 森山佑樹=Moriyama Yuki
-森山先生=Moriyama-sensei
+
 森山光蔵=Moriyama Mitsuzō
 森山叶花=Moriyama Kanoka
 森山夏紀=Moriyama Natsuki
@@ -28294,7 +28290,7 @@ YG娱乐=YG Entertainment
 森木深雪=Moriki Miyuki
 森木靖泰=Moriki Yasuhiro
 森末健次=Morisue Kenji
-森本先生=Morimoto-sensei
+
 森本成美=Morimoto Narumi
 森本晃司=Morimoto Kōji
 森本桃子=Morimoto Momoko
@@ -28379,7 +28375,7 @@ YG娱乐=YG Entertainment
 森里歩夢=Morisato Ayumu
 森野亮士=Morino Ryōshi
 森野健一=Morino Kenichi
-森野先生=Morino
+
 森野君枝=Morino Kimie
 森野和義=Morino Kazuyoshi
 森野恵子=Morino Keiko
@@ -28497,8 +28493,7 @@ YG娱乐=YG Entertainment
 楠木一哉=Kusumoto Kazuya
 楠木世良=Kusunoki Sera
 楠木亮造=Kusunoki Ryūzo
-楠木先生=Kusunoki-sensei
-楠木助手=Kusunoki's Assistant
+
 楠木右京=Kusunoki Ukyo
 楠木和葉=Kusunoki Kazuha
 楠木文哉=Kusunoki Fumiya
@@ -28633,7 +28628,7 @@ YG娱乐=YG Entertainment
 槙村涼子=Makimura Ryōko
 槙枝早苗=Makieda Sanae
 槙田悠里=Makita Yūri
-槙野先生=Makino-sensei
+
 槙野智章=Makino Tomoaki
 槻司鳶丸=Tsukiji Tobimaru
 樂進文謙=Gakushin Bunken
@@ -28673,7 +28668,7 @@ YG娱乐=YG Entertainment
 権堂大子=Gondō Daiko
 権左衛門=Gonzaemon
 権現坂昇=Gongenzaka Noboru
-権藤先生=Gondō
+
 権藤徹男=Gondō Tetsuo
 権藤武敏=Kondō Taketoshi
 権藤金吉=Gondō Kanekichi
@@ -28863,7 +28858,7 @@ YG娱乐=YG Entertainment
 櫻井了子=Sakurai Ryōko
 櫻井亮介=Sakurai Ryosuke
 櫻井優輝=Sakurai Yūki
-櫻井先生=Sakurai
+
 櫻井叶子=Sakurai Kanako
 櫻井圭記=Sakurai Yoshiki
 櫻井孝宏=Sakurai Takahiro
@@ -28888,7 +28883,7 @@ YG娱乐=YG Entertainment
 次原隆二=Tsugihara Ryūji
 次郎三郎=Jirōsaburō
 次郎太刀=Jirōtachi
-次野先生=Tsugino-sensei
+
 欢乐书客=HBooker
 欢喜冤家=hoan hỉ oan gia
 欢牛里斯=Juannyolis
@@ -29122,7 +29117,7 @@ YG娱乐=YG Entertainment
 死灵王国=vương quốc tử linh
 死眯吗赛=Sumimasen
 死神三番=Shinigami III
-死神博士=Dr. Shinigami
+
 死神長老=Shinigami Chōrō
 残波琉人=Zanba Ryūjin
 殴内斯特=Ernest
@@ -29198,7 +29193,7 @@ YG娱乐=YG Entertainment
 毛利輝元=Mōri Terumoto
 毛利霧仁=Mōri Kirihito
 毛原長昌=Mōra Nagamasa
-毛塚先生=Kezuka
+
 毛戈雅塔=Małgorzata
 毛遂自荐=Mao Toại tự tiến
 毛里求斯=Mauritius
@@ -29435,7 +29430,7 @@ YG娱乐=YG Entertainment
 水野　薫=Mizuno Kaoru
 水野亜美=Mizuno Ami
 水野佐彩=Mizuno Saaya
-水野先生=Mizuno
+
 水野光一=Mizuno Kōichi
 水野千尋=Mizuno Chihiro
 水野弥生=Mizuno Yayoi
@@ -29757,7 +29752,7 @@ YG娱乐=YG Entertainment
 池波栄一=Ikenami Eiichi
 池添朋文=Ikezoe Tomofumi
 池添隆博=Ikezoe Takahiro
-池澤先生=Ikezawa-sensei
+
 池澤春菜=Ikezawa Haruna
 池澤雅臣=Ikezawa Masaomi
 池田一真=Ikeda Kazuma
@@ -29841,7 +29836,7 @@ YG娱乐=YG Entertainment
 沖浦清花=Okiura Sayaka
 沖田×華=Okita Bakka
 沖田佳吾=Okita Keigo
-沖田先生=Okita-sensei
+
 沖田光夫=Okita Mitsuo
 沖田十三=Okita Jūzō
 沖田志保=Okita Shiho
@@ -29977,7 +29972,7 @@ YG娱乐=YG Entertainment
 河井洋介=Kawai Yōsuke
 河井英里=Kawai Eri
 河井貴子=Kawai Takako
-河内先生=Kawauchi
+
 河内和泉=Kawachi Izumi
 河内孝博=Kawachi Takahiro
 河内恭介=Kawachi Kyōsuke
@@ -30088,7 +30083,7 @@ YG娱乐=YG Entertainment
 沼影彩湖=Numakage Saiko
 沼津満弘=Numadzu Mitsuhiro
 沼田健作=Numata Kensaku
-沼田先生=Numata
+
 沼田恵子=Numata Keiko
 沼田春哉=Numata Haruya
 沼田春奈=Numata Haruna
@@ -30357,7 +30352,7 @@ YG娱乐=YG Entertainment
 浅沼達也=Asanuma Tatsuya
 浅津正樹=Asazu Masaki
 浅海莉子=Asami Riko
-浅瀬先生=Asase-sensei
+
 浅田二郎=Asada Jirō
 浅田公彦=Asada Kimihiko
 浅田実篤=Asada Saneatsu
@@ -30438,7 +30433,7 @@ YG娱乐=YG Entertainment
 浜崎憲孝=Hamazaki Noritaka
 浜崎純也=Hamasaki Junya
 浜木八重=Hamaki Yae
-浜本先生=Professor Hamamoto
+
 浜本晶子=Hamamoto Akiko
 浜沙耶花=Hama Sayaka
 浜添伸也=Hamazoe Shinya
@@ -30817,7 +30812,7 @@ YG娱乐=YG Entertainment
 清野千春=Seino Chiharu
 清野慶太=Seino Keita
 清野静流=Seino Shizuru
-済南先生=Sainan-sensei
+
 渊盖苏文=Uyên Cái Tô Văn
 渋井健太=Shibui Kenta
 渋垣源三=Shibugaki Genzō
@@ -30826,7 +30821,7 @@ YG娱乐=YG Entertainment
 渋川清彦=Shibukawa Kiyohiko
 渋川義季=Shibukawa Yoshisue
 渋木優希=Shibuki Yūki
-渋沢先生=Shibusawa-sensei
+
 渋沢栄一=Shibusawa Eiichi
 渋沢泉水=Shibusawa Izumi
 渋沢詩子=Shibusawa Utako
@@ -30876,7 +30871,7 @@ YG娱乐=YG Entertainment
 渡草三郎=Togusa Saburō
 渡蟹哲也=Watarigani Tetsuya
 渡谷美帆=Wataya Miho
-渡边先生=Watanabe tiên sinh
+
 渡边淳一=Watanabe Junichi
 渡辺 洋=Watanabe Yō
 渡辺一郎=Watanabe Ichirō
@@ -30885,7 +30880,7 @@ YG娱乐=YG Entertainment
 渡辺俊幸=Watanabe Toshiyuki
 渡辺俊雄=Watanabe Toshio
 渡辺優奈=Watanabe Yūna
-渡辺先生=Watanabe
+
 渡辺先輩=Watanabe-senpai
 渡辺克己=Watanabe Katsumi
 渡辺典子=Watanabe Noriko
@@ -31469,7 +31464,7 @@ YG娱乐=YG Entertainment
 熊沢鯖吉=Kumasawa Sabakichi
 熊澤祐嗣=Kumazawa Yūji
 熊田一葉=Kumada Kazuha
-熊田先生=Kumada-sensei
+
 熊田善美=Kumada Yoshimi
 熊田流星=Kumada Ryūsei
 熊田紋吉=Kumada Monkichi
@@ -31480,7 +31475,7 @@ YG娱乐=YG Entertainment
 熊谷一哉=Kumagai Ichiya
 熊谷之雄=Kumagai Yukio
 熊谷俊輝=Kumagai Toshiki
-熊谷先生=Kumagaya/Kumagaya-sensei
+
 熊谷千草=Kumagai Chigusa
 熊谷友子=Kumagai Yūko
 熊谷安次=Kumagaya Yasuji
@@ -31507,7 +31502,7 @@ YG娱乐=YG Entertainment
 燐賀紗雪=Ringa Sayuki
 燕太子丹=Yến Thái Tử Đan
 燕野太郎=Tsubameno Tarō
-爆散先生=Bakuzan
+
 爆豪光己=Bakugō Mitsuki
 爆豪勝己=Bakugō Katsuki
 爱丽丝莲=Elislaine
@@ -31662,7 +31657,7 @@ YG娱乐=YG Entertainment
 牧場春彦=Makiba Haruhiko
 牧宮麻子=Makimiya Asako
 牧島有希=Makishima Yuki
-牧村先生=Makimura-sensei
+
 牧村志織=Makimura Shiori
 牧村未有=Makimura Miyu
 牧村珠子=Makimura Tamako
@@ -31751,7 +31746,7 @@ YG娱乐=YG Entertainment
 犬坂毛野=Inuzaka Keno
 犬塚一左=Colonel Inuzuka
 犬塚信乃=Inuzuka Shino
-犬塚先生=Inuzuka
+
 犬塚公平=Inuzuka Kōhei
 犬塚千和=Inuzuka Chiwa
 犬塚多江=Inuzuka Tae
@@ -31819,7 +31814,7 @@ YG娱乐=YG Entertainment
 犬飼隆文=Inukai Takafumi
 犬飼高志=Inukai Takashi
 犬飼麗香=Inukai Reika
-犬養先生=Inukai
+
 犬養志郎=Inukai Shirō
 犬養智子=Inukai Tomoko
 犬養未散=Inukai Michiru
@@ -32519,7 +32514,7 @@ YG娱乐=YG Entertainment
 田所陽向=Tadokoro Hinata
 田村　誠=Tamura Makoto
 田村健亮=Tamura Kensuke
-田村先生=Tamura-sensei
+
 田村勝彦=Tamura Katsuhiko
 田村史也=Tamura Fumiya
 田村哲夫=Tamura Tetsuo
@@ -32580,7 +32575,7 @@ YG娱乐=YG Entertainment
 田西敏行=Tanishi Toshiyuki
 田貫虎吉=Tanuki Torakichi
 田辺優香=Tanabe Yūka
-田辺先生=Tanabe-sensei
+
 田辺幸雄=Tanabe Yukio
 田辺桃子=Tanabe Momoko
 田辺満男=Tanabe Mitsuo
@@ -32627,7 +32622,7 @@ YG娱乐=YG Entertainment
 甲山鉄次=Kabutoyama Tetsuji
 甲州翠怜=Kōshū Suiren
 甲斐刹那=Kai Setsuna
-甲斐博士=Dr. Kai
+
 甲斐和彦=Kai Kazuhiko
 甲斐哲彦=Kai Tetsuhiko
 甲斐孝子=Kai Takako
@@ -32676,7 +32671,7 @@ YG娱乐=YG Entertainment
 町崎健一=Machizaki Kenichi
 町田佳優=Machida Kayū
 町田修造=Machida Shūzō
-町田先生=Machida-sensei
+
 町田初佳=Machida Ayaka
 町田則子=Machida Noriko
 町田大和=Machida Yamato
@@ -32709,7 +32704,7 @@ YG娱乐=YG Entertainment
 留冬藍名=Rutō Aina
 留萌五花=Rumoi Itsuka
 畠 敏子=Hata Toshiko
-畠山先生=Hatakeyama-sensei
+
 畠山則安=Hatakeyama Noriyasu
 畠山有紗=Hatakeyama Arisa
 畠山省吾=Hatakeyama Shōgo
@@ -32731,7 +32726,7 @@ YG娱乐=YG Entertainment
 疾风剑豪=Tật Phong Kiếm Hào
 疾风迅雷=Tật Phong Tấn Lôi
 痣城宗谷=Azashiro Sōya
-癫癫博士=Dr. Epilepsy
+
 発山珍平=Hatsuyama Chinpei
 発祥検体=Beginning Child
 登世康平=Tose Kōhei
@@ -32805,7 +32800,7 @@ YG娱乐=YG Entertainment
 白崎香織=Shirasaki Kaori
 白嶺雪子=Shirane Yukiko
 白川义则=Yoshinori Shirakawa
-白川先生=Shirakawa-sensei
+
 白川周作=Shirakawa Shūsaku
 白川奈々=Shirakawa Nana
 白川恭子=Shirakawa Kyōko
@@ -33127,7 +33122,7 @@ YG娱乐=YG Entertainment
 百黄半蔵=Hyakki Hanzō
 的井草太=Matoi Sōta
 的井香織=Matoi Kaori
-的場先生=Matoba
+
 的場周介=Matoba Shūsuke
 的場数馬=Matoba Kazuma
 的場梨沙=Matoba Risa
@@ -33194,7 +33189,7 @@ YG娱乐=YG Entertainment
 皮萨列夫=Pisarev
 皿場工舎=Saraba Kōsha
 皿斑海琉=Saramadara Kairu
-益子先生=Mashiko
+
 益子美々=Masuko Mimi
 益子貞司=Masuko Teishi
 益富信孝=Masutomi Nobutaka
@@ -33354,7 +33349,7 @@ YG娱乐=YG Entertainment
 相沢順一=Aizawa Junichi
 相沢香苗=Aizawa Kanae
 相泉恭介=Aizumi Kyōsuke
-相澤先生=Aizawa-sensei
+
 相澤千鶴=Aizawa Chizuru
 相澤昌弘=Aizawa Masahiro
 相澤消太=Aizawa Shōta
@@ -33378,7 +33373,7 @@ YG娱乐=YG Entertainment
 相羽剛平=Aiba Gōhei
 相羽英男=Aiba Hideo
 相良京香=Sagara Kyōka
-相良先生=Miss Sagara
+
 相良兵太=Sagura Hyōta
 相良宗介=Sagara Sōsuke
 相良百華=Sagara Momoka
@@ -33733,7 +33728,7 @@ YG娱乐=YG Entertainment
 矢部雅史=Yabe Masahito
 矢野俊策=Yano Shunsaku
 矢野元晴=Yano Motoharu
-矢野先生=Yano-sensei
+
 矢野四郎=Yano Shiro
 矢野奨吾=Yano Shōgo
 矢野宗一=Yano Sōichi
@@ -33876,7 +33871,7 @@ YG娱乐=YG Entertainment
 石嶺泰三=Ishimine Taizō
 石川五恵=Ishikawa Goe
 石川伶奈=Ishikawa Rena
-石川先生=Ishikawa-sensei
+
 石川光久=Ishikawa Mitsuhisa
 石川則道=Ishikawa Norimichi
 石川卓也=Ishikawa Takuya
@@ -33935,7 +33930,7 @@ YG娱乐=YG Entertainment
 石森里奈=Ishimori Rina
 石槌晃重=Ishizuchi Akishige
 石橋優人=Ishibashi Yūto
-石橋先生=Ishibashi-sensei
+
 石橋美佳=Ishibashi Mika
 石橋英子=Ishibashi Eiko
 石橋茶子=Ishibashi Chako
@@ -34211,7 +34206,7 @@ YG娱乐=YG Entertainment
 神奇女郎=Wonder Woman
 神奈備衢=Kannabi Yotsutsuji
 神奈延年=Canna Nobutoshi
-神威先生=Kamui-sensei/Kamui-san
+
 神子田瑛=Kamikoda Akira
 神宗一郎=Jin Soichiro
 神室真司=Kamuro Shinji
@@ -34502,11 +34497,11 @@ YG娱乐=YG Entertainment
 福山陽平=Fukuyama Yōhei
 福山雅治=Fukuyama Masaharu
 福山雅秋=Fukuyama Masaaki
-福岡先生=Fukuoka-sensei
+
 福岡大生=Fukuoka Daiki
 福岡美月=Hukuoka Mizuki
 福島亜美=Fukushima Ami
-福島先生=Fukushima-sensei
+
 福島敦子=Fukushima Atsuko
 福島桂子=Fukushima Keiko
 福島正則=Fukushima Masanori
@@ -35041,7 +35036,7 @@ YG娱乐=YG Entertainment
 端木寺明=Duanmu Siming
 端木寺芸=Duanmu Siyun
 端木落月=Duanmu Luoyue
-竹下先生=Takeshita-sensei
+
 竹下景子=Takeshita Keiko
 竹下礼奈=Takeshita Reina
 竹下美春=Takeshita Miharu
@@ -35135,7 +35130,7 @@ YG娱乐=YG Entertainment
 竹道凛子=Takemichi Rinko
 竹達彩奈=Taketatsu Ayana
 笑傲江湖=Tiếu Ngạo Giang Hồ
-笑原先生=Emihara-sensei
+
 笑師春樹=Emishi Haruki
 笑澤慎吾=Emisawa Shingo
 笙人律夫=Shōjin Ritsuo
@@ -35150,7 +35145,7 @@ YG娱乐=YG Entertainment
 笛川唯子=Fuekawa Tadako
 笛本隆策=Fuemoto Ryūsaku
 笠井京子=Kasai Kyōko
-笠井先生=Kasai
+
 笠井千秋=Kasai Chiaki
 笠井律子=Kasai Ritsuko
 笠井良子=Kasai Yoshiko
@@ -35348,7 +35343,7 @@ YG娱乐=YG Entertainment
 篠岡早希=Shino'oka Saki
 篠崎一夜=Shinozaki Hitoyo
 篠崎俊夫=Shinozaki Toshio
-篠崎先生=Shinozaki-sensei
+
 篠崎啓介=Shinozaki Keisuke
 篠崎奏多=Shinozaki Kanata
 篠崎彩夏=Shinozaki Ayaka
@@ -35489,7 +35484,7 @@ YG娱乐=YG Entertainment
 紅本明里=Kōmoto Akari
 紅村右京=Benimura Ukyo
 紅松弥知=Kurematsu Misato
-紅林先生=Kurebayashi-sensei
+
 紅林拓真=Kurebayashi Takuma
 紅林珠璃=Kurebayashi Juri
 紅林礼生=Kurebayashi Reo
@@ -35508,7 +35503,7 @@ YG娱乐=YG Entertainment
 紅野栗栖=Kōno Kurisu
 紅露火垂=Kōro Hotaru
 紅頬権斗=Crimson Riot
-紋者博士=Dr. Monjya
+
 納村不道=Nomura Fudō
 納沙幸子=Nosa Kōko
 納見佳容=Nōmi Kayo
@@ -36142,7 +36137,7 @@ YG娱乐=YG Entertainment
 美座優慈=Miza Yūji
 美影桔梗=Mikage Kikyō
 美影紗月=Mikage Satsuki
-美星先生=Mihoshi
+
 美月真子=Mitsuki Mako
 美木圭一=Miki Keiichi
 美杉彩佳=Misugi Ayaka
@@ -36175,7 +36170,7 @@ YG娱乐=YG Entertainment
 美谷玲実=Mitani Remi
 美輪明宏=Miwa Akihiro
 美里良夜=Misato Ryōya
-美鈴先生=Misuzu
+
 美鈴雪子=Misuzu Yukiko
 美隅陽平=Misumi Yōhei
 美鞍数馬=Mikura Kazuma
@@ -36568,7 +36563,7 @@ YG娱乐=YG Entertainment
 芦川良彦=Ashikawa Yoshihiko
 芦川麻美=Ashikawa Asami
 芦戸三奈=Ashido Mina
-芦森博士=Dr. Ashimori
+
 芦森詩音=Ashimori Shion
 芦沢純人=Ashizawa Sumito
 芦田伊織=Ashida Iori
@@ -36577,7 +36572,7 @@ YG娱乐=YG Entertainment
 芦田美緒=Ashida Mio
 芦田豊雄=Ashida Toyoo
 芦田麗子=Ashida Reiko
-芦野博士=Dr. Ashino
+
 芦野捺芽=Ashino Natsume
 芦野芳晴=Ashino Yoshiharu
 芬雷尔加=Vundrji
@@ -36596,7 +36591,7 @@ YG娱乐=YG Entertainment
 花倉洸幸=Kagura Hiroyuki
 花倉芳美=Hanakura Yoshimi
 花内律子=Hanauchi Ritsuko
-花和先生=Hanawa-sensei
+
 花咲芳子=Hanasaki Yoshiko
 花咲薫子=Hanasaki Kaoruko
 花園一郎=Hanazono Ichirō
@@ -36664,7 +36659,7 @@ YG娱乐=YG Entertainment
 花木貴子=Hanaki Atsuko
 花本修司=Hanamoto Shūji
 花本瑠璃=Hanamoto Ruri
-花村先生=Hanamura-sensei
+
 花村典子=Hanamura Noriko
 花村千種=Hanamura Chigusa
 花村吹雪=Hanamura Fubuki
@@ -36840,7 +36835,7 @@ YG娱乐=YG Entertainment
 若島津健=Wakashimazu Ken
 若日尼奥=Jorginho
 若月修輔=Wakatsuki Shūsuke
-若月先生=Wakatsuki-sensei
+
 若月朱里=Wakatsuki Shuri
 若月美鈴=Wakatsuki Mirei/Wakatsuki Misuzu
 若月胤樹=Wakatsuki Wakana
@@ -37073,7 +37068,7 @@ YG娱乐=YG Entertainment
 荒井一市=Arai Kazuichi
 荒井伴太=Arai Banta
 荒井優佑=Arai Yūsuke
-荒井先生=Teacher Arai
+
 荒井冬青=Arai Tōsei
 荒井勇樹=Arai Yūki
 荒井友美=Arai Tomomi
@@ -37329,7 +37324,7 @@ YG娱乐=YG Entertainment
 菊池久志=Kikuchi Hisashi
 菊池俊明=Kikuchi Toshiaki
 菊池俊輔=Kikuchi Shunsuke
-菊池先生=Kikuchi-sensei
+
 菊池冬馬=Kikuchi Tōma
 菊池勇成=Kikuchi Takeru
 菊池勝也=Kikuchi Katsuya
@@ -38064,7 +38059,7 @@ YG娱乐=YG Entertainment
 藤本三豪=Fujimoto Sangō
 藤本二剛=Fujimoto Nigō
 藤本五鋼=Fujimoto Gogō
-藤本先生=Fujimoto-sensei
+
 藤本公作=Fujimoto Kōsaku
 藤本六轟=Fujimoto Rokugō
 藤本千秋=Fujimoto Chiaki
@@ -38128,7 +38123,7 @@ YG娱乐=YG Entertainment
 藤江宇海=Fujie Umi
 藤江梅芽=Fujie Ume
 藤沢亜子=Fujisawa Ako
-藤沢先生=Fujizawa
+
 藤沢凉子=Arare
 藤沢和希=Fujisawa Kazuki
 藤沢彩菜=Fujisawa Ayana
@@ -38473,7 +38468,7 @@ YG娱乐=YG Entertainment
 西島秀俊=Nishijima Hidetoshi
 西島秀男=Nishijima Hideo
 西島茂夫=Nishijima Shigeo
-西崎先生=Nishizaki
+
 西崎栄子=Nishizaki Eiko
 西崎桃音=Nishizaki Momone
 西崎百合=Nishizaki Yuri
@@ -38657,7 +38652,7 @@ YG娱乐=YG Entertainment
 西门吹雪=Tây Môn Xuy Tuyết
 西门塔尔=Simmental
 西门达尔=Simendal
-西風先生=Nishikaze-sensei
+
 西﨑彰司=Nishizaki Shōji
 要三九郎=Kaname Sankurō
 要誠一郎=Kaname Seiichirō
@@ -38691,7 +38686,7 @@ YG娱乐=YG Entertainment
 观音菩萨=Quan Âm Bồ Tát
 角上陽光=Kakujō Yōkō
 角丸美佐=Kadomaru Misa
-角人先生=Kakuto-sensei
+
 角住賢一=Kadozumi Kenichi
 角倉真人=Kadokura Masato
 角又万作=Tsunomata Mansaku
@@ -38703,7 +38698,7 @@ YG娱乐=YG Entertainment
 角松洋介=Kadomatsu Yosuke
 角沢長官=Kakuzawa
 角田信朗=Kakuda Nobuaki
-角田先生=Kakuta
+
 角田弘樹=Kadota Hiroki
 角田未亜=Tsunoda Mia
 角研一郎=Sumi Kenichirō
@@ -38722,7 +38717,7 @@ YG娱乐=YG Entertainment
 言蔵美鶴=Kotokura Mitsuru
 記憶細胞=Kioku Saibō
 設楽伸子=Nobuko Shitara
-設楽先生=Shitara Sagara
+
 設楽宗介=Shitara Sōsuke
 設楽晴秀=Shitara Haruhide
 設楽重吉=Shitara Jūkichi
@@ -38833,7 +38828,7 @@ YG娱乐=YG Entertainment
 谷原章介=Tanihara Shosuke
 谷原雅人=Yahara Masato
 谷口佳子=Taniguchi Keiko
-谷口先生=Taniguchi-sensei
+
 谷口夢奈=Taniguchi Yuna
 谷口守泰=Taniguchi Moriyasu
 谷口恭一=Taniguchi Kyōichi
@@ -39123,7 +39118,7 @@ YG娱乐=YG Entertainment
 赤坂粧子=Akasaka Shōko
 赤坂美聡=Akasaka Misato
 赤坂雪絵=Akasaka Yukie
-赤城先生=Akagi
+
 赤城博昭=Akagi Hiroaki
 赤城圭一=Akagi Keiichi
 赤城奏丈=Akagi Kanata
@@ -39199,7 +39194,7 @@ YG娱乐=YG Entertainment
 赤沢泉美=Akazawa Izumi
 赤沢清美=Akazawa Kiyomi
 赤澤涼太=Akazawa Ryōta
-赤玉先生=Akadama
+
 赤目二世=Akame Nisei
 赤石剛次=Akashi Gōji
 赤石広樹=Akaishi Kōki
@@ -39314,7 +39309,7 @@ YG娱乐=YG Entertainment
 足立了全=Adachi Ryōzen
 足立佳奈=Adachi Kana
 足立優樹=Adachi Yūki
-足立先生=Adachi/Adachi-sensei
+
 足立公造=Adachi Kōzō
 足立実康=Adachi Saneyasu
 足立慎吾=Adachi Shingo
@@ -39799,7 +39794,7 @@ YG娱乐=YG Entertainment
 遠野一樹=Toono Kazuki
 遠野京子=Toono Kyōko
 遠野優作=Toono Yūsaku
-遠野先生=Toono
+
 遠野冬子=Toono Tooko
 遠野四季=Toono Shiki
 遠野志貴=Toono Shiki
@@ -40125,7 +40120,7 @@ YG娱乐=YG Entertainment
 野沢鈴子=Nozawa Suzuko
 野沢雅子=Nozawa Masako
 野浪理一=Nonami Riichi
-野澤先生=Nozawa-sensei
+
 野瀬碧里=Nose Midori
 野瀬育二=Nose Ikuji
 野牛金鉄=Yagyū Kintetsu
@@ -40183,7 +40178,7 @@ YG娱乐=YG Entertainment
 金内吉男=Kaneuchi Yoshio
 金刚不坏=Kim Cương Bất Hoại
 金刚芭比=King Kong Baby
-金剛先生=Kongō-sensei
+
 金剛地充=Kongōchi Mitsuru
 金剛寺鎧=Kongōji Gai
 金剛番長=Kongō Akira
@@ -40631,7 +40626,7 @@ YG娱乐=YG Entertainment
 镰池和马=Kamachi Kazuma
 長久友紀=Nagaku Yuki
 長井伍長=Nagai
-長井先生=Nagai-sensei
+
 長井和輝=Nagai Kazuki
 長井龍雪=Nagai Tatsuyuki
 長倉拓哉=Nakagura Takuya
@@ -41297,7 +41292,7 @@ YG娱乐=YG Entertainment
 陕西梆子=Tần xoang
 院内総務=Innai Sōmu
 院田唐音=Inda Karane
-院長先生=Inchō-sensei
+
 陣内　栄=Jinnōchi Sakae
 陣内万作=Jinnōchi Mansaku
 陣内万助=Jinnōchi Mansuke
@@ -41446,7 +41441,7 @@ YG娱乐=YG Entertainment
 雨園大輔=Amazono Daisuke
 雨城瑠璃=Ujō Ruri
 雨夜瑠美=Amaya Rumi
-雨女先生=Ameonna-sensei
+
 雨宮一彦=Amamiya Kazuhiko
 雨宮七海=Amamiya Nanami
 雨宮侑布=Amamiya Yū
@@ -41570,7 +41565,7 @@ YG娱乐=YG Entertainment
 雪饮狂刀=Tuyết Ẩm Cuồng Đao
 雲井尭覚=Kumoi Gyōkaku
 雲井聖司=Kumoi Seiji
-雲仙先生=Unzen-sensei
+
 雲仙冥利=Unzen Myōri
 雲仙冥加=Unzen Myōga
 雲出華陰=Kumoide Cain
@@ -41797,7 +41792,7 @@ YG娱乐=YG Entertainment
 青木一行=Aoki Ikkō
 青木久恵=Aoki Hisae
 青木優太=Aoki Yūta
-青木先生=Aoki
+
 青木光子=Aoki Mitsuko
 青木光恵=Aoki Mitsue
 青木十子=Aoki Tooko
@@ -42169,7 +42164,7 @@ YG娱乐=YG Entertainment
 风姿物语=Phong Tư Vật Ngữ
 风月无边=Phong Nguyệt Vô Biên
 风林火山=Fūrinkazan
-风水先生=thầy phong thuỷ
+
 风虎云龙=Phong Hổ Vân Long
 风见幽香=Kazami Yuuka
 飘飘果实=Fuwa Fuwa no Mi
@@ -42410,7 +42405,7 @@ YG娱乐=YG Entertainment
 馬頭観音=Batōkannon
 馬騰寿成=Jusei Batō
 駆動電次=Kudō Denji
-駆動騎士=Drive Knight
+
 駆羽時女=Karuhane Tokime
 駒城大作=Komaki Daisaku
 駒場一郎=Komaba Ichirō
@@ -42829,7 +42824,7 @@ YG娱乐=YG Entertainment
 高橋優也=Takahashi Yuya
 高橋優愛=Takahashi Yua
 高橋優衣=Takahashi Yui
-高橋先生=Takahashi-sensei
+
 高橋克実=Takahashi Katsumi
 高橋克己=Takahashi Katsumi
 高橋克彦=Takahashi Katsuhiko
@@ -43146,7 +43141,7 @@ YG娱乐=YG Entertainment
 魔人布欧=Majin Buu
 魔兽世界=World of Warcraft
 魔夜峰央=Maya Mineo
-魔女先生=Majo-sensei
+
 魔女先輩=Majo-senpai/Witch-senpai
 魔島忌々=Majima Kiki
 魔族豪商=Mazoku Gōshō
@@ -43245,7 +43240,7 @@ YG娱乐=YG Entertainment
 鳥井萌亜=Torii Moa
 鳥口守彦=Toriguchi Morihiko
 鳥居元忠=Torii Mototada
-鳥居博士=Dr. Torii
+
 鳥居夏実=Torii Natsumi
 鳥居彩香=Torii Ayaka
 鳥居純吾=Torii Jungo
@@ -43281,7 +43276,7 @@ YG娱乐=YG Entertainment
 鳥谷真琴=Toritani Makoto
 鳥越陽佳=Torigoe Haruka
 鳥辺野章=Toribeno Akira
-鳥野博士=Dr. Torino
+
 鳥飼修一=Torigai Shūichi
 鳥飼宏美=Torigai Hiromi
 鳥飼葉月=Torikai Hazuki
@@ -43596,7 +43591,7 @@ YG娱乐=YG Entertainment
 麻生蘇鉄=Asō Sotetsu
 麻生裕也=Asō Yuya
 麻生鈴音=Asō Suzune
-麻田先生=Asada
+
 麻田歩実=Asada Ayumi
 麻田直子=Asada Naoko
 麻田真夕=Asada Mayu
@@ -43763,7 +43758,7 @@ YG娱乐=YG Entertainment
 黒星紅白=Kuroboshi Kōhaku
 黒月雪路=Kurotsuki Yukiji
 黒木亜美=Kuroki Ami
-黒木先生=Kuroki-sensei
+
 黒木光星=Kuroki Kōsei
 黒木善三=Kuroki Zenzō
 黒木大剛=Kuroki Daigo
@@ -44814,7 +44809,7 @@ Y大利=Italia
 久保晶=Kubo Akira
 久保栞=Kubo Shiori
 久保田=Haruhiko/Kubota
-久先生=Cửu tiên sinh
+
 久南白=Kuna Mashiro
 久司朗=Kyūshirō
 久坂優=Kusaka Yū
@@ -45405,7 +45400,7 @@ Y大利=Italia
 仁科透=Nishina Tooru
 仁藤楓=Nitō Kaede
 仁部山=Nibeyama
-仇先生=Cừu tiên sinh
+
 今井剛=Imai Tsuyoshi
 今井敦=Imai Atsushi
 今井旬=Imai Shun
@@ -47163,7 +47158,7 @@ Y大利=Italia
 十二牧=Thập Nhị Mục
 十五夜=Jūgoya
 十五流=Sogoru
-十先生=Tsunashi
+
 十六夜=Izayoi
 十兵衛=Jūbei
 十兵衞=Jūbei
@@ -47345,7 +47340,6 @@ Y大利=Italia
 南令子=Minami Reiko
 南佳織=Minami Kaori
 南佳高=Minami Yoshitaka
-南先生=Minami/Minami-sensei
 南光坊=Nankōbō
 南冬馬=Minami Tōma
 南北朝=Nam Bắc triều
@@ -51348,7 +51342,7 @@ Y大利=Italia
 岩田舞=Iwata Mai
 岩野渉=Iwano Wataru
 岬亜美=Misaki Ami
-岬先生=Misaki
+
 岬千皓=Misaki Chihiro
 岬大介=Misaki Daisuke
 岬太郎=Misaki Tarō
@@ -53658,11 +53652,11 @@ Y大利=Italia
 星之宫=Hoshinomiya
 星之宮=Hoshinomiya
 星二郎=Seijirō
-星先生=Hoshi-sensei
+
 星光明=Hoshi Mitsuaki
 星出純=Hoshide Jun
 星加正=Hoshika Tadashi
-星博士=Dr. Hoshi/Hoshi Hakase
+
 星史郎=Seishirō
 星名透=Hoshina Tooru
 星咲姫=Hoshizaki Hime
@@ -55041,8 +55035,8 @@ Y大利=Italia
 柳主任=Liễu chủ nhiệm
 柳之洲=Liễu Chi Châu
 柳二龙=Liễu Nhị Long/Liu Erlong
-柳先生=Liễu tiên sinh/Yanagi Naoko
-柳公子=Liễu công tử/Gonzi Liu
+柳先生=Liễu tiên sinh
+柳公子=Liễu công tử
 柳冬実=Yanagi Fuyumi
 柳劉生=Yanagi Ryūsei
 柳千幻=Qianyan Liu
@@ -55701,7 +55695,7 @@ Y大利=Italia
 椿陽平=Tsubaki Yōhei
 椿陽造=Tsubaki Yōzō
 椿雪絵=Tsubaki Yukie
-楊先生=Yō-sensei
+
 楊方玉=Fanyui Yan
 楊海王=Yō Kaiō
 楊端和=Duanhe Yang
@@ -57536,7 +57530,7 @@ Y大利=Italia
 澄野花=Sumino Hana
 澜沧江=Lan thương giang
 澤乃井=Sawanoi
-澤先生=Sawa-sensei
+
 澤崎敦=Sawazaki Atsushi
 澤村雪=Sawamura Setsu
 澤田姫=Sawada Hime
@@ -64481,7 +64475,7 @@ Y大利=Italia
 関俊彦=Seki Toshihiko
 関俊成=Seki Toshinari
 関修一=Seki Shūichi
-関先生=Seki
+
 関兼定=Seki Kanesada
 関原冴=Sekihara Sae
 関原妙=Sekihara Tae
