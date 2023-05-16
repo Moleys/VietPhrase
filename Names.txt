@@ -33944,7 +33944,6 @@ R国=Nhật Bản
 鹿丸=Shikamaru
 鹿台=Lộc Đài
 麟儿=Lân nhi
-麦克=Mike
 麦加=Mecca
 麦格=McGonagall
 麦霸=mạch phách
