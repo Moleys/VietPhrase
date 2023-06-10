@@ -744,7 +744,7 @@
 入职=nhập chức/vào làm việc
 入道=nhập đạo/Nyudō
 入魔=nhập ma/mê muội/si mê/mê mẩn
-全天=toàn bộ ngày/cả ngày
+全天=cả ngày/toàn bộ ngày
 全知=toàn tri
 八强=bát cường/top 8
 公了=giải quyết chung
@@ -1340,7 +1340,7 @@
 回车=về xe/quay lại xe
 回道=hồi đáp/trả lời
 因此=do đó/bởi vậy/bởi vì/vì vậy
-团团=bao quanh/vây quanh/tròn/hình tròn/đoàn đoàn/trung đoàn
+团团=đoàn đoàn/bao quanh/vây quanh/tròn/hình tròn/trung đoàn
 团灭=đoàn diệt
 团粉=bột lọc/bột đoàn
 团长=đoàn trưởng/trung đoàn trưởng/trưởng đoàn
@@ -2596,7 +2596,7 @@
 接龙=solitaire/chơi đô-mi-nô/chơi domino/đón rồng
 控土=khống đất
 控场=khống trường
-控方=khống phương/công tố viên
+控方=bên truy tố/khống phương/công tố viên
 推书=đẩy sách
 推女=đẩy nữ
 掩嘴=che miệng
@@ -2620,7 +2620,7 @@
 搭窝=xây tổ
 摆动=đong đưa/lắc lư/lay động/nhún nhảy/swing
 摊叶=trải lá
-摸头=tìm ra manh mối/sờ đầu/lần ra manh mối/chạm vào đầu
+摸头=mò đầu/tìm ra manh mối/sờ đầu/lần ra manh mối/chạm vào đầu
 摸黑=sờ soạng/bôi đen/chạm vào màu đen
 撇嘴=bĩu môi/mếu/mếu máo
 撑起=khởi động/chống lên/chèo chống/đẩy lên/nâng lên/chống đỡ lên
@@ -3175,7 +3175,7 @@
 湖水=nước hồ/hồ nước
 湖涂=hồ đồ
 源氏=tộc Minamoto/nguyên thị
-滋润=dễ chịu/tưới nhuần/thoải mái/tư nhuận/làm dịu/thấm vào/ẩm ướt/tưới đều/giữ ẩm
+滋润=làm dịu/dễ chịu/tưới nhuần/thoải mái/tư nhuận/thấm vào/ẩm ướt/tưới đều/giữ ẩm
 滑手=tay trượt
 滚回=cút về/chạy trở về
 滞空=dừng lại trên không/độ trễ
