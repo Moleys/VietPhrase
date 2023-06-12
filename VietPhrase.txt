@@ -15747,3 +15747,8 @@
 䯄=oa
 䲠=xuân
 䴕=liệt
+中吉=trung cát
+与一=cùng một/Yoichi
+与人=cùng người
+好冷=lạnh quá
+又小=lại nhỏ/vừa nhỏ
