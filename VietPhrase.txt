@@ -508,7 +508,6 @@
 人妖=nhân yêu/gay
 人子=nhân tử/con người
 人家=người ta/nhân gia
-人影=bóng người
 人心=nhân tâm/lòng người/thấu tình đạt lý/trái tim
 人性=nhân tính/tính người/bản chất con người
 人情=nhân tình/ân tình/tình người/tình cảm riêng/ân huệ/tình nghĩa/việc lễ nghĩa/lễ vật
@@ -8343,7 +8342,7 @@
 會=sẽ
 朅=khiết/kiệt/Sương/Được
 朆=phân
-月=tháng/nguyệt/Akari/Light/Runa/Satsuki/Tsuki/Yue
+月=nguyệt/tháng/Akari/Light/Runa/Satsuki/Tsuki/Yue
 有=có/Akio/Ari/Yū
 朊=nguyễn/sóc/sóc triều
 朋=bạn/bằng hữu/bằng/Tomo/pun
@@ -15752,3 +15751,11 @@
 与人=cùng người
 好冷=lạnh quá
 又小=lại nhỏ/vừa nhỏ
+想杀=muốn giết
+见人=gặp người
+再演=tái diễn
+追还=tìm lại được/đòi lại được
+等人=đám người/đợi nhân/chờ ai đó/chờ người/bọn người/và những người khác
+有让=có để
+由我=do ta
+原先=ban đầu/trước kia/thoạt tiên
