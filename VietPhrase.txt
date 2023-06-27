@@ -624,7 +624,7 @@
 伪王=nguỵ vương
 伯国=bá quốc/Bá Quốc
 似的=tựa như/giống như/giống như vậy
-但是=nhưng là/nhưng mà/nhưng
+但是=nhưng mà/nhưng là/nhưng
 位子=vị trí/chỗ/chỗ ngồi/chỗ ở
 位居=đứng hàng/vị trí
 位数=chữ số
@@ -5770,7 +5770,7 @@
 商=thương/Thương/Thương nhân
 啈=hanh/hành/nhiếp
 啉=lâm/phải
-啊=ah/a/hả/à
+啊=a/hả/à
 啋=thái/để ý tới
 啌=koong/yo
 啍=đôn/yo
@@ -15759,3 +15759,5 @@
 有让=có để
 由我=do ta
 原先=ban đầu/trước kia/thoạt tiên
+低唱=khẽ hát
+之时=thời điểm
