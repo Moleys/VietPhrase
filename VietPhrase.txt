@@ -1535,7 +1535,6 @@
 大恶=đại ác
 大惊=kinh hãi
 大意=chủ quan/đại ý/sơ suất/khinh thường/không chú ý/sơ ý/lơ là/qua quýt/bất cẩn
-大战=đại chiến/giải thi đấu/cuộc chiến lớn/cuộc chiến ác liệt/cuộc chiến quy mô lớn
 大房=phòng lớn/đại phòng
 大手=bàn tay lớn/bàn tay to/đại thủ
 大才=đại tài
@@ -3728,7 +3727,6 @@
 船娘=thuyền nương/người phụ nữ thuyền
 船灵=thuyền linh
 船速=tốc độ tàu
-船长=thuyền trưởng/hạm trưởng/phi trưởng/đại úy
 艇长=thuyền trưởng
 良妾=lương thiếp
 良籍=lương tịch
@@ -15762,3 +15760,7 @@
 低唱=khẽ hát
 之时=thời điểm
 可人家=có thể người ta
+要大=phải lớn/lớn hơn/phải đại
+覆盖面=diện tích che phủ/liên quan đến chung quanh/ảnh hưởng chung quanh/lớp phủ
+些人=những người này/một số người
+上线=online/thượng tuyến/login/đăng nhập/lên đài/trực tuyến
