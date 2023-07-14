@@ -4089,7 +4089,6 @@
 还恩=trả ân
 还手=hoàn thủ/đánh trả/đánh lại/giáng trả/trả đòn/trả lại
 还报=báo đáp/đền ơn/đền đáp/báo ứng/quả báo/báo thù/trả lại
-还有=còn có/vẫn còn/và cũng có/và/Còn/vẫn còn, còn có.
 还清=trả xong/trả hết/trả nợ/trả sạch/trả hết nợ
 还账=trả nợ/trả nợ các khoản
 这下=lần này/cái này/bây giờ/thời gian này
@@ -15769,3 +15768,5 @@
 叫人=gọi người
 说好=nói tốt/Đã đồng ý/hẹn
 过人=hơn người/trội/vượt trội/xuất sắc
+还不=còn không
+还=còn/trả
