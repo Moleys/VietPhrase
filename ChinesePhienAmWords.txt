@@ -209,12 +209,6 @@
 𬹼=giới
 𬺈=nghĩ
 𬺓=sở
- =thể
-,=giản
-a=a
-ô=ô
-ố=ố
-y=y
 ト=bốc
 ㄦ=nhân
 一=nhất
