@@ -1578,7 +1578,7 @@
 大灾=tai nạn lớn/thảm họa lớn/thiên tai
 大热=nóng bức/nóng/nhiệt lớn
 大父=ông/tổ phụ/ông nội/cha
-大片=phim bom tấn/mảng lớn/một bộ phim bom tấn/kéo ra/căng ra
+大片=mảng lớn/phim bom tấn/một bộ phim bom tấn/kéo ra/căng ra
 大牌=hàng hiệu/tên tuổi lớn/Lá bài cao, lá bài danh dự
 大牛=đại ngưu/Big Ox/lớn/mô hình giá cao hơn của Lamborghini
 大王=đại vương/vua/chúa/thủ lĩnh/Đại vương/Great Emperor/Wizard of Oz
