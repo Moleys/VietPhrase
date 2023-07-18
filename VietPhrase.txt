@@ -15770,3 +15770,8 @@
 过人=hơn người/trội/vượt trội/xuất sắc
 还不=còn không
 还=còn/trả
+家电=điện gia dụng/đồ điện gia dụng/thiết bị gia dụng
+公布栏=bảng thông báo
+监控系统=hệ thống giám sát/hệ thống theo dõi
+逆反期=kỳ phản nghịch
+小侦探=thám tử nhỏ
