@@ -15601,7 +15601,7 @@
 麑=nghê/Liêu/Liều liêu/con hươu con/hươu con
 麒=kỳ/Tsuru/chim cạc/kỳ lân
 麓=lộc/lận/liêu/chân núi
-麕=quân/liêu/biến thể của 麇 [jun1]
+麕=quân/liêu
 麖=kinh/thuỷ lộc
 麝=xạ/ung thư/con cầy
 麞=chương
@@ -15630,12 +15630,12 @@
 黏=dính/sánh
 黐=li/ly/cò/birdlime
 黑=đen/Hei/Kuro/màu đen
-黒=hắc/Kuro/Kuro-mujo/Seimei/cò/Biến thể tiếng Nhật của 黑
+黒=hắc/Kuro/Kuro-mujo/Seimei/cò
 黓=dặc/màu đen
 黔=kiềm/Kiềm/màu đen/đen
 黕=đảm/ghét bẩn/vết bẩn/chỗ bẩn
 默=mặc/lặng yên/Qin/im lặng/lặng lẽ/không lên tiếng/âm thầm
-黙=mặc/cò/Biến thể tiếng Nhật của 默
+黙=mặc/cò
 黛=lông mày/Mayuzumi/Đại/than vẽ lông mày/phẩm xanh đen
 黜=truất/kiều/bãi miễn/cách chức/thải hồi/giải tán/phá huỷ/tháo rời/thủ tiêu/bãi bỏ/huỷ bỏ
 黝=đen thui/xanh đen/kiều/đen
@@ -15706,7 +15706,7 @@
 齇=tra/cha/mụn/mụt/nhọt/mụn đỏ
 齈=nông/lạnh ở mũi
 齉=nãng/chồn/nghẹt mũi/ngạt mũi/tịt mũi
-齌=tễ/xem 齌 怒 [ji4 nu4]
+齌=tễ
 齎=tê
 齐=đủ/Tề/chỉnh tề/ngay ngắn
 齑=tê/sặc/nhỏ/vụn/mịn
@@ -15734,7 +15734,7 @@
 龇=thử/ti/xỉ vả/mắng nhiếc/quở trách/trách móc/la rầy
 龈=ngân/nướu/lợi
 龉=ngữ/s xiêu/s xạm/khấp khểnh/lủng củng/lục đục/hàm răng trên dưới không khớp nhau
-龊=bẩn thỉu/sương mù/见〖龌龊〗
+龊=bẩn thỉu/sương mù
 龋=củ/khũ/khủ/sạm siêu/răng rụng
 龌=ác/bưu chính/Văn ban
 龍=long/mòng bây
@@ -15750,7 +15750,7 @@
 龞=ba ba
 龟=rùa/con rùa
 龠=dược/thược/ký tĩ
-龡=xuý/xúy/phiên bản cổ xưa của 吹
+龡=xuý/xúy
 龢=hòa/thưa
 郎=lang
 㖊=tầm/fathom
@@ -15775,3 +15775,4 @@
 监控系统=hệ thống giám sát/hệ thống theo dõi
 逆反期=kỳ phản nghịch
 小侦探=thám tử nhỏ
+取关=unfollow/để hủy theo dõi
