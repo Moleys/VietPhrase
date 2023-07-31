@@ -15774,8 +15774,5 @@
 监控系统=hệ thống giám sát/hệ thống theo dõi
 逆反期=kỳ phản nghịch
 小侦探=thám tử nhỏ
-<<<<<<< HEAD
 和人=cùng người/Kazuto
-=======
 取关=unfollow/để hủy theo dõi
->>>>>>> 67cf42d7e122d0f3c477e12f81ad3952e242f196
