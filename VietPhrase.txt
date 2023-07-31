@@ -3913,7 +3913,6 @@
 说笑=nói giỡn/vừa nói vừa cười/nói cười/nói đùa/nói đùa đi
 说起=nói lên/lên tiếng/nói đến/nói tới/nói về/nói đi cũng phải nói lại/như cho
 说辞=thuyết từ/lí do thoái thác/lí do từ chối/giải thích/lời giải thích/hùng biện
-说道=nói ra/nói/nói rằng/nói là/thương lượng/bàn bạc
 说问=muốn hỏi/nói hỏi
 请安=thỉnh an/vấn an/thăm hỏi/hành lễ thời xưa/xin vui lòng ann
 请起=mời dậy/xin đứng lên
@@ -15775,3 +15774,4 @@
 监控系统=hệ thống giám sát/hệ thống theo dõi
 逆反期=kỳ phản nghịch
 小侦探=thám tử nhỏ
+和人=cùng người/Kazuto
