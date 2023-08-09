@@ -4166,7 +4166,6 @@
 道藏=đạo tạng/Đạo Tàng/kho tàng kinh điển đạo giáo/kho kinh
 道路=con đường/đường/đường xá/đường phố/đường sá/phố xá/đường giao thông
 道里=lộ trình/chặng đường/đạo lý/Trong Lời
-道长=đạo trưởng/Linh mục đạo giáo
 道题=đạo đề/đề bài/Câu hỏi
 遗作=tác phẩm để lại/di sản/công việc di cảo
 遗珠=di châu/tài năng không được công nhận
@@ -15777,3 +15776,5 @@
 和人=cùng người/Kazuto
 取关=unfollow/để hủy theo dõi
 一人=một người/Hitori/Kazuhito/Kazuto/Ngày xưa gọi thiên tử là nhất nhân 一人.Một người/một cá nhân. ◇Luận Ngữ 論語: Cố cựu vô đại cố/tắc bất khí dã/vô cầu bị ư nhất nhân 故舊無大故/則不棄也/無求備於一人
+隐忍=ẩn nhẫn/ngấm ngầm chịu đựng
+公知=công tri
