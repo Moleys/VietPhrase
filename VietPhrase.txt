@@ -15763,7 +15763,6 @@
 䴕=liệt/chim gõ kiến
 人事=nhân sự/phải trái/việc đời/việc người/việc làm nằm trong khả năng người/cảm giác/tri giác/lễ vật
 长有=chiều dài/mọc ra
-叫人=gọi người
 说好=nói tốt/Đã đồng ý/hẹn
 过人=hơn người/trội/vượt trội/xuất sắc
 还不=còn không
