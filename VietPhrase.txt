@@ -639,7 +639,7 @@
 伪王=nguỵ vương
 伯国=bá quốc/Bá Quốc
 似的=tựa như/giống như/giống như vậy/dường như
-但是=nhưng là/nhưng mà/nhưng/mà
+但是=nhưng mà/nhưng là
 位子=vị trí/chỗ/chỗ ngồi/chỗ ở
 位居=đứng hàng/chiếm giữ/vị trí/được đặt tại
 位数=chữ số/số chữ số trong một số tự nhiên.
@@ -10440,7 +10440,7 @@
 百=trăm/Bai/Momo/một trăm/bách/100/mười lần mười
 皁=tạo/bến
 皂=tạo/xà phòng/đen/màu đen
-的=của/đích/được/Ghi chú:
+的=/của/đích/được/Ghi chú:
 皆=đều/Mina/tất cả/đều là/toàn là/cũng
 皇=hoàng/Hoàng/Huang/Kō/Sumeragi/hoàng đế/to/to lớn
 皈=quy/cải/quy y/đi tu
