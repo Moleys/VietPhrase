@@ -1,9 +1,14 @@
-﻿可人家=có thể người ta
+﻿监控系统=hệ thống giám sát/hệ thống theo dõi
+公布栏=bảng thông báo
+可人家=có thể người ta
+小侦探=thám tử nhỏ
 覆盖面=diện tích che phủ/liên quan đến chung quanh/ảnh hưởng chung quanh/lớp phủ
+逆反期=kỳ phản nghịch
 一下=một phát/một lát/một chút/một tý/một cái/vừa hạ/thoáng cái/một lần/thoáng một phát/thử xem/bỗng chốc/một thoáng
 一世=một đời/một thế/Issei/cả đời
 一乐=vui một phát
 一亮=sáng lên/sáng ngời
+一人=một người/Hitori/Kazuhito/Kazuto/Ngày xưa gọi thiên tử là nhất nhân 一人.Một người/một cá nhân. ◇Luận Ngữ 論語: Cố cựu vô đại cố/tắc bất khí dã/vô cầu bị ư nhất nhân 故舊無大故/則不棄也/無求備於一人
 一众=một chúng
 一倒=ngã xuống
 一入=vừa vào
@@ -62,7 +67,7 @@
 三代=ba đời/tam đại/đời thứ ba/đệ tam/Mishiro/ba thế hệ
 三公=tam công/ba công
 三军=tam quân/ba quân/quân đội/quân đoàn 3
-三国=tam quốc/Tam Quốc
+三国=Tam Quốc/tam quốc
 三师=tam sư/sư đoàn 3
 三才=tam tài/Tam Tài
 三极=tam cực/ba cấp/cấp ba
@@ -125,7 +130,7 @@
 上行=đi lên/thượng hành/ngược lên/chạy về thủ đô/lên/ngược dòng/chuyển lên cấp trên/lên trên
 上衣=áo/mặc áo/áo cánh/áo khoác
 上表=thượng biểu/dâng tấu chương/dâng biểu/thướng biểu
-上装=thượng trang/hoá trang/áo/cài đặt trên
+上装=hoá trang/thượng trang/áo/cài đặt trên
 上贡=thượng cống/cống hiến
 上身=thân trên/trên thân/lên thân/mặc lần đầu/mới mặc/phần trên của cơ thể/áo/trên người/trên người
 上铺=giường trên/trên giường/Giường trên
@@ -287,11 +292,11 @@
 世父=thế phụ/bá phụ/bác cả/bác ruột
 丛花=khóm hoa
 东东=ý tứ/Đông Đông/điều
-东京=Đông Kinh/Tokyo/Tô-ki-ô
+东京=Tōkyō/Đông Kinh/Tokyo/Tô-ki-ô
 东华=Đông Hoa
 东去=về hướng đông
 东哥=Đông ca/anh Đông
-东流=chảy về hướng đông/nước chảy về hướng đông/Dòng chảy phía đông
+东流=Đông Lưu/chảy về hướng đông/nước chảy về hướng đông/Dòng chảy phía đông
 丝袜=quần tất/tất chân/vớ/tất sợi tơ tằm/Tất sợi tơ tằm
 丝质=chất tơ/lụa
 丢光=mất hết
@@ -409,14 +414,14 @@
 之于=đối với/đuổi
 之别=có khác/chi biệt/khác biệt
 之前=về trước/phía trước/trước đó/trước đây/trước/trước khi
-之后=sau này/sau đó/sau khi/sau
+之后=về sau/sau này/sau đó/sau khi/sau
 之时=thời điểm
 之至=vô cùng/cực kì
 乌纱=mũ ô sa/Ô Sa
 乐了=mừng rồi/vui vẻ
 乐会=nhạc hội/buổi hòa nhạc
 乐呵=vui vẻ
-乐和=vui sướng/thoải mái/dễ chịu/Vui Vẻ Hòa
+乐和=vui sướng/Nhạc Hoà/thoải mái/dễ chịu/Vui Vẻ Hòa
 乐娘=nhạc nương
 乐段=đoạn nhạc
 乐迷=mê ca nhạc/người hâm mộ âm nhạc
@@ -503,6 +508,7 @@
 亲点=thân điểm
 亲见=tự mình thấy/nhìn thấy
 亲过=hôn qua
+人事=nhân sự/phải trái/việc đời/việc người/việc làm nằm trong khả năng người/cảm giác/tri giác/lễ vật
 人人=người người/mọi người/mỗi người/người người/t mọi người
 人们=mọi người/người ta/các du khách/nhân dân
 人儿=bộ dáng/thiên hạ/hình người/hình nhân/bộ dạng/dáng mạo/thái độ/cử chỉ/người/hình dáng/con người
@@ -529,7 +535,7 @@
 人流=dòng người
 人父=cha người/cha/cha của con người
 人犯=phạm nhân/tội phạm/nhân phạm/người phạm tội
-人生=nhân sinh/đời người/Jinsei/cuộc sống
+人生=đời người/nhân sinh/Jinsei/cuộc sống
 人神=nhân thần
 人种=nhân chủng/giống người/người dân
 人称=nhân xưng/xưng hô/người ta gọi là/được gọi là/ngôi/ngôi xưng hô
@@ -543,6 +549,7 @@
 人选=nhân tuyển/chọn người/người chọn lựa/người được chọn/thí sinh/ứng cử viên
 人造=nhân tạo
 人间=nhân gian/thế gian/xã hội loài người/trần gian
+人面=mặt người/khuôn mặt con người/Mặt người
 仁君=vua hiền/Nhân Quân
 仇富=thù giàu/Cừu Phú/ghét người giàu
 今个=bây giờ/hôm nay
@@ -632,9 +639,9 @@
 伪王=nguỵ vương
 伯国=bá quốc/Bá Quốc
 似的=tựa như/giống như/giống như vậy/dường như
-但是=nhưng mà/nhưng là/nhưng/mà
+但是=nhưng là/nhưng mà/nhưng/mà
 位子=vị trí/chỗ/chỗ ngồi/chỗ ở
-位居=đứng hàng/vị trí/được đặt tại
+位居=đứng hàng/chiếm giữ/vị trí/được đặt tại
 位数=chữ số/số chữ số trong một số tự nhiên.
 位能=thế năng
 低下=thấp kém/thấp/cúi xuống/kém/thấp hèn/dung tục/hèn hạ/đê tiện/thấp xuống/hạ thấp
@@ -740,7 +747,7 @@
 入职=nhập chức/vào làm việc/Nhận việc/nhận chức
 入道=nhập đạo/Nyudō/để trở thành một người theo Đạo
 入魔=nhập ma/mê muội/si mê/mê mẩn
-全天=toàn bộ ngày/cả ngày
+全天=cả ngày/toàn bộ ngày
 全知=toàn tri/toàn trí
 八强=bát cường/top 8/top tám
 公了=giải quyết chung/đưa ra giải quyết chung
@@ -748,6 +755,7 @@
 公家=nhà nước/công gia/cơ quan/xí nghiệp/đoàn thể/tập thể/nhà chồng
 公有=công hữu/công khai
 公用=công cộng/dùng chung/sử dụng chung/công khai
+公知=công tri
 公请=cùng mời/chiêu đãi/tiếp đãi
 公道=công đạo/lẽ phải/công lý/công bằng/đạo lý công bằng/hợp lý/phải chăng/đúng mức
 公里=kilômét/km/cây số/Kilomet
@@ -891,7 +899,7 @@
 切来=cắt tới
 划给=chia cho
 刘叔=chú Lưu/Chú Lưu
-刘某=người họ Lưu/Lưu mỗ
+刘某=Lưu mỗ/người họ Lưu
 则已=thì thôi
 刚健=tráng kiện/khoẻ mạnh/cường tráng/mạnh mẽ
 刚想=vừa nghĩ/vừa định
@@ -935,7 +943,7 @@
 前作=tiền tác
 前军=tiền quân
 前去=tiến đến/đi vào/đi trước/đi trước đi
-前台=tiền đài/quầy lễ tân/lễ tân/tiếp tân/sân khấu/trước sân khấu/sàn diễn/chỗ công khai/trước đài
+前台=lễ tân/tiền đài/quầy lễ tân/tiếp tân/sân khấu/trước sân khấu/sàn diễn/chỗ công khai/trước đài
 前因=tiền căn/nguyên nhân
 前天=hôm kia/hôm trước/ngày hôm trước
 前头=đằng trước/trước mặt/phía trước
@@ -950,7 +958,7 @@
 前菜=món khai vị
 剑上=trên thân kiếm
 剑灵=kiếm linh/Kiếm Linh
-剑神=kiếm thần/Kiếm Thần
+剑神=Kiếm Thần/kiếm thần
 剑魂=kiếm hồn/Kiếm Hồn
 副使=phó sứ/Phó Sứ giả/Chức quan ngoại giao, thay mặt triều đình nói chuyện với nước ngoài. Thời xưa là chức vụ đặc biệt do một vị quan kiêm nhiệm, sẽ chấm dứt khi xong việc.
 副厅=phó sảnh/Phó Phòng
@@ -1020,7 +1028,7 @@
 卡里=trong thẻ/Cary
 卧姿=thế nằm/tư thế nằm
 卧病=ốm đau/đau bệnh/đau ốm/bị bệnh/nằm bệnh
-卫国=vệ quốc/Vệ Quốc/nước Ngụy
+卫国=vệ quốc/nước Vệ/Vệ Quốc/nước Ngụy
 卫尉=vệ uý/Đại úy Vệ/Chỉ huy đội Cận vệ
 即道=nói ngay
 却说=lại nói/lại nói về../nhưng nói/lại nói về...
@@ -1029,7 +1037,7 @@
 厂公=xưởng công
 厉喝=quát chói tai/uống rượu
 压断=áp đứt
-原先=ban đầu/trước kia/thoạt tiên
+原先=trước kia/ban đầu/thoạt tiên
 原文=nguyên văn/văn bản gốc
 原有=vốn có/nguyên hữu/bản gốc/trước
 原生=nguyên sinh/bản địa
@@ -1058,7 +1066,7 @@
 及其=đạt đến/cập kì/cùng với/cực kỳ/cập kỳ/và của nó/Cực kỳ/vô cùng...
 双手=đôi tay/hai tay/bàn tay/cả hai tay
 双眼=đôi mắt/hai mắt/cặp mắt/hai con mắt
-反杀=lật kèo/chống lại
+反杀=lật kèo/phản sát/giết ngược lại/chống lại
 反派=phản diện/nhân vật phản diện
 发信=gửi tin/gởi thư tín/gửi thư
 发兵=phát binh/dấy binh/đem binh
@@ -1077,6 +1085,7 @@
 发贴=gửi thư/đăng bài/đăng
 发问=đặt câu hỏi/chất vấn/hỏi/nêu câu hỏi
 发青=phát xanh/màu xanh lá cây
+取关=unfollow/để hủy theo dõi
 取名=đặt tên/lấy tên/gọi là/được đặt tên
 取道=chọn tuyến/chọn đường đi/chọn tuyến đường đi/lấy/lấy đạo
 受弱=yếu đuối
@@ -1189,7 +1198,7 @@
 名山=danh sơn/núi nổi tiếng/Núi Nổi Tiếng
 名帅=danh soái/nổi tiếng đẹp trai
 名师=danh sư/bậc thầy nổi tiếng
-名录=danh sách/danh mục
+名录=danh sách/danh sách/tên ghi/danh mục
 名手=danh thủ/người nổi tiếng
 名捕=danh bổ/danh bộ/bắt giữ
 名教=danh giáo
@@ -1207,8 +1216,8 @@
 名都=danh đô/Natsu/tên đô thị/Thành thị có tiếng.
 后人=hậu nhân/người đời sau/người sau/hậu sinh/hậu duệ/con cháu/thế hệ sau/hậu thế
 后传=hậu truyện/hậu truyền
-后周=hậu Chu/tuần sau/Hậu Chu
-后土=hậu thổ/đất sau/mặt đất/trái đất
+后周=Hậu Chu/hậu Chu/tuần sau
+后土=Hậu Thổ/hậu thổ/đất sau/mặt đất/trái đất
 后坐=ngồi sau/giật/sức giật
 后天=ngày kia/sau khi lớn lên/ngày mốt/sau này/lớn lên/thời kỳ lớn lên/ngày mai/ngày sau
 后学=kẻ học sau/hậu học/kẻ hậu học/kẻ đàn em/học sau
@@ -1231,7 +1240,7 @@
 向南=hướng nam
 向后=về phía sau/hướng (về) sau/lùi lại/phía sau
 向来=từ trước đến nay/luôn luôn
-向西=hướng tây/về phía tây
+向西=hướng tây/Hướng Tây/về phía tây
 向道=hướng đạo/Dẫn đường.Người dẫn đường.
 向阳=hướng dương/hướng mặt trời/Hướng Dương
 吕姓=họ Lã/họ Lữ
@@ -1258,6 +1267,7 @@
 命定=định mệnh/được nhân duyên
 命宫=mệnh cung
 和亲=hoà thân/hòa thân/hoà hiếu kết giao
+和人=cùng người/Kazuto
 和合=hoà hợp/hòa hợp
 和善=hiền lành/vui tính/ôn hoà/hoà nhã/nhã nhặn/vui vẻ/tốt bụng/hiền hòa
 和声=hoà thanh/ôn tồn/ôn hoà/nhã nhặn/hoà âm/phối thanh/hòa thanh/hòa âm
@@ -1282,7 +1292,7 @@
 哈达=khata/Hada/khăn ha-đa
 哨卫=tiêu vệ/lính gác
 哪位=vị nào/vị ấy/vị kia/vị nào/ai
-哪天=ngày nào đó/ngày nào/một ngày nào đó
+哪天=ngày nào/ngày nào đó/một ngày nào đó
 哪家=nhà ai/nhà nào
 哪年=năm nào
 哪怕=cho dù/chẳng sợ/dù là/dù cho/ngay cả khi
@@ -1333,7 +1343,7 @@
 回车=về xe/quay lại xe/enter
 回道=hồi đáp/trả lời
 因此=do đó/bởi vậy/bởi vì/vì vậy
-团团=bao quanh/vây quanh/tròn/hình tròn/đoàn đoàn/trung đoàn
+团团=đoàn đoàn/bao quanh/vây quanh/tròn/hình tròn/trung đoàn
 团灭=đoàn diệt
 团粉=bột lọc/bột đoàn
 团长=đoàn trưởng/trung đoàn trưởng/trưởng đoàn/Trung đoàn trưởng
@@ -1487,7 +1497,7 @@
 大为=rất là/rất nhiều/rất/rất đỗi/vô cùng/hết sức
 大乐=mừng rỡ/mừng lớn/Đại Nhạc/Đà Lạt
 大书=đại thư/kể chuyện/sách lớn/cuốn sách lớn
-大事=việc lớn/đại sự/việc hệ trọng/cố sức/ra sức/cật lực/những điều lớn lao
+大事=đại sự/việc lớn/việc hệ trọng/cố sức/ra sức/cật lực/những điều lớn lao
 大二=đại nhị/năm thứ Hai đại học/đại nhị( ĐH năm 2)/Daiji/năm thứ hai/sinh viên năm thứ hai đại học
 大仇=đại thù/đại cừu
 大仙=đại tiên/thần tiên/tiên/phù thuỷ/Daisen/Đại Tiên
@@ -1570,7 +1580,7 @@
 大汗=đại hãn/mồ hôi/Đại Hãn/đổ mồ hôi/mồ hôi đầm đìa
 大江=sông lớn/đại giang/Trường Giang/Ooe/Sông Đà
 大法=đại pháp/Đại Pháp/hiến pháp/pháp luật
-大波=làn sóng lớn/sóng lớn
+大波=sóng lớn/làn sóng lớn
 大派=đại phái/Đại Phái
 大海=biển cả/biển cả/Hiromi/Oomi/biển/biển khơi/ngoài khơi
 大港=cảng lớn/Đà Nẵng
@@ -1595,7 +1605,7 @@
 大类=loại lớn/danh Mục chính
 大红=đỏ thẫm/đỏ chót/đại hồng/đỏ ths đực
 大统=đại thống/sự nghiệp thống nhất đất nước/thống nhất đất nước/đế vị/ngôi vua/Đại Thống Nhất
-大罗=đại la/Dalot
+大罗=Đại La/đại la/Dalot
 大老=đại lão/ông già
 大胜=đại thắng/thắng lớn/chiến thắng lớn/chiến thắng vĩ đại
 大胸=ngực lớn
@@ -1641,7 +1651,7 @@
 天皇=thiên hoàng/thiên tử/vua
 天真=khờ dại/thiên chân/ngây thơ/Temma/Tenma/hồn nhiên
 天马=thiên mã/Thiên Mã/Pegasus
-天龙=thiên long/Thiên Long/Thiên long
+天龙=Thiên Long/thiên long/Thiên long
 太上=thái thượng/quá cao/danh hiệu của sự tôn trọng dành cho những người theo đạo giáo
 太保=thái bảo/Quá bảo hiểm/Thái Bảo
 太公=thái công/cụ ông/Thái Công
@@ -1813,7 +1823,7 @@
 字义=tự nghĩa/nghĩa của chữ/nghĩa là
 存疑=còn nghi vấn/chưa quyết định/chưa quyết được/chưa định được/hoài nghi/nghi ngờ
 孙姓=họ Tôn
-学会=học được/hội học thuật/học hội/học cách
+学会=học hội/học được/hội học thuật/học cách
 学养=học vấn và tu dưỡng/học vấn tu dưỡng/học vấn và thái độ đối nhân xử thế/học cách nuôi dưỡng
 学分=học phân/tín chỉ/Điểm số
 学历=bằng cấp/trình độ/quá trình học/trình độ học vấn/học lực/quá trình học, học vấn
@@ -1838,7 +1848,7 @@
 守车=toa trưởng tàu/thủ xa/giữ xe
 安人=an nhân/Yasuhito/bà chủ
 安全=an toàn
-安国=an quốc/An Quốc/thành phố cấp quận Anguo ở Bảo Định 保定 [Bao3 ding4], Hà Bắc
+安国=an quốc/nước An/An Quốc/thành phố cấp quận Anguo ở Bảo Định 保定 [Bao3 ding4], Hà Bắc
 安富=an phú
 安敢=sao dám/ann dám
 宗祖=tổ tông/tông tổ
@@ -1850,7 +1860,7 @@
 官微=weibo chính thức/Quan Vi
 官至=quan chí
 官道=quan đạo/vận làm quan/số làm quan
-官配=quan phối
+官配=cp quan phương khâm định/quan phối
 定亲=đính hôn/hứa hôn
 定好=định tốt
 定有=ắt có/chắc chắn/nhất định có/nhất định/ắt - có/nhất định sẽ có
@@ -1892,6 +1902,7 @@
 家教=gia giáo/dạy kèm/dạy kèm tại nhà/gia sư
 家父=gia phụ/phụ thân/cha tôi/cha
 家用=gia dụng/dùng ở nhà/đồ dùng gia đình/chi phí trong nhà/gia đình
+家电=điện gia dụng/đồ điện gia dụng/thiết bị gia dụng
 家种=nhà trồng/gia chủng/trồng trọt nhân tạo/nhân tạo/do chính nhà trồng/cây nhà lá vườn
 家老=gia lão/Karō/một người lớn tuổi trong gia đình của một người
 家道=gia đạo/gia cảnh/cảnh nhà
@@ -1934,7 +1945,7 @@
 对比=đối lập/so sánh
 对流=đối lưu/sự đối lưu
 对生=đối nhau/mọc đối/đối sinh
-对白=đối bạch/đúng trắng/đối thoại
+对白=đối thoại/đối bạch/đúng trắng
 对着=đối với/đối/quay/đối về/hướng về phía/quay về
 对空=đối không
 对练=đối luyện/đúng thực hành
@@ -1951,7 +1962,7 @@
 对齐=đối tề/xếp hợp lý/sắp xếp đồ/xếp ngay ngắn/xếp thẳng hàng/căn chỉnh
 寺里=trong chùa
 寻机=tìm cơ hội/tìm kiếm máy
-导轨=đường trượt/đường ray/đường ray trượt
+导轨=ray trượt/đường trượt/đường ray/đường ray trượt
 封信=bức thư/phong thư/một lá thư
 封君=phong quân
 封圣=phong thánh
@@ -1964,7 +1975,7 @@
 将才=tướng tài/vừa mới/vừa
 将来=tương lai/sau này/mai sau/trong tương lai
 将校=tướng hiệu/tướng tá/sẽ là trường học
-将棋=cờ tướng/sẽ cờ vua/Cờ vua Nhật Bản
+将棋=Shōgi/cờ tướng/sẽ cờ vua/Cờ vua Nhật Bản
 将相=khanh tướng/sẽ pha
 将领=tướng lĩnh/cấp tướng
 将黑=sắp đen
@@ -2065,7 +2076,7 @@
 小门=cửa nhỏ/tiểu môn/cánh cửa nhỏ
 小陈=tiểu Trần/Xiao Chen
 小雀=tiểu tước/chim sẻ nhỏ
-小雅=tiểu Nhã/tiểu nhã/Tiểu Nhã
+小雅=tiểu nhã/tiểu Nhã/Tiểu Nhã
 小雨=mưa nhỏ
 小马=ngựa nhỏ/tiểu mã/tiểu Mã/ngựa con/Tiểu Mã/con ngựa nhỏ
 小鱼=cá nhỏ/cá con/tiểu Ngư/cá bé/ròng ròng/cá bột
@@ -2109,7 +2120,7 @@
 帝尊=đế tôn/Đế Tôn
 帝师=đế sư
 帝道=đế đạo
-帝都=đế đô
+帝都=Đế đô/đế đô
 帝陵=đế lăng/Đế Lăng
 带到=đưa tới/đưa/đưa đến/mang/dẫn dắt/dẫn - đến/tới/mang tới/mang tới/mang đến
 带子=dây lưng/đai/thắt lưng/dây nịt/băng từ/băng/băng (tape)/dây đeo
@@ -2176,7 +2187,7 @@
 府内=trong phủ/bên trong phủ
 府尹=phủ doãn/Phủ Doãn
 府曹=phủ tào
-度娘=độ nương/Baidu/Độ Nương/tên thay thế cho Baidu 百度 [Bai3 du4]
+度娘=Bai Đu/độ nương/Baidu/Độ Nương/tên thay thế cho Baidu 百度 [Bai3 du4]
 座城=toà thành/thành phố
 座山=ngọn núi/tòa sơn
 庸将=tướng xoàng
@@ -2339,11 +2350,11 @@
 总管=tổng quản/quản lý chung/quản lý toàn bộ/người quản lý/người quản lý chung/tổng giám đốc
 总编=tổng biên tập/Tổng biên tập
 总舵=tổng đà/bánh tắp
-总行=ok/tổng số dòng
+总行=trụ sở chính/ok/tổng số dòng
 总裁=tổng tài/Chủ tịch/chủ tịch/quan tổng tài
 总角=tóc để chỏm/góc chung
 总长=tổng trưởng/bộ trưởng/tham mưu trưởng/tổng tham mưu trưởng/chiều dài/tổng chiều dài
-恋综=gameshow tình yêu
+恋综=game show tình yêu/gameshow tình yêu
 恐女=sợ con gái
 恨人=đáng giận/đáng hận/ghét người
 恨恨=oán hận/căm hận/hận hận
@@ -2473,7 +2484,7 @@
 打活=làm công/làm thuê/làm mướn/sống
 打炮=bắn pháo/bắn/bắn đại bác/ra mắt
 打牢=làm chắc
-打狗=đả cẩu/đánh chó/Đả Cẩu
+打狗=đánh chó/đả cẩu/Đả Cẩu
 打眼=đục lỗ/khoét lỗ/khoan lỗ/mắc lừa/bị lừa/gây chú ý/khiến mọi người chú ý/đưa mắt/đục lỗ (*)/gây sự chú ý/đánh mắt
 打谷=tuốt lúa/đập mạnh
 打野=đi rừng/chơi hoang dã
@@ -2493,7 +2504,7 @@
 找钱=thối tiền lẻ/hoa tiền/thối tiền/trả lại tiền thừa/tìm kiếm tiền
 找零=tiền thừa/thối lại/trả tiền thừa/tìm số không/đổi tiền
 找齐=làm cho đều/tìm đủ/làm cho bằng nhau/bù/bù thêm/bù vào/bù cho đủ/tìm đủ
-承天=thừa thiên/Thừa Thiên/tỉnh Thừa Thiên
+承天=Thừa Thiên/thừa thiên/tỉnh Thừa Thiên
 抄家=xét nhà/tịch biên/tịch thu tài sản/tịch biên gia sản/sao chép
 抄近=đi tắt/đi đường tắt
 把关=giữ cửa ải/trấn/đem nhốt/kiểm định/nắm chặt/đóng cửa/đóng cửa đi
@@ -2540,7 +2551,7 @@
 挺秀=trội hơn/xinh đẹp/duyên dáng/rất đẹp
 挺胸=ưỡn ngực/Ưỡn ngực
 捅死=đâm chết
-捕手=cầu thủ bắt bóng/bắt giữ/Cầu thủ đuổi bắt
+捕手=cầu thủ bắt bóng/người bắt tóm/bắt giữ/Cầu thủ đuổi bắt
 换主=đổi chủ
 换命=đổi mạng
 换站=đổi trạm
@@ -2567,7 +2578,7 @@
 接龙=solitaire/chơi đô-mi-nô/chơi domino/đón rồng
 控土=khống đất
 控场=khống trường
-控方=khống phương/công tố viên
+控方=bên truy tố/khống phương/công tố viên
 推书=đẩy sách
 推女=đẩy nữ
 掩嘴=che miệng
@@ -2591,7 +2602,7 @@
 搭窝=xây tổ
 摆动=đong đưa/lắc lư/lay động/nhún nhảy/swing/lay động. 来回摇动;摇摆
 摊叶=trải lá
-摸头=tìm ra manh mối/sờ đầu/lần ra manh mối/chạm vào đầu
+摸头=mò đầu/tìm ra manh mối/sờ đầu/lần ra manh mối/chạm vào đầu
 摸黑=sờ soạng/bôi đen/chạm vào màu đen/dò dẫm trong bóng tối
 撇嘴=bĩu môi/mếu/mếu máo
 撑起=khởi động/chống lên/chèo chống/đẩy lên/nâng lên/chống đỡ lên
@@ -2631,7 +2642,7 @@
 教团=giáo đoàn
 教士=giáo sĩ/tu sĩ/người truyền giáo/người truyền đạo/linh mục
 教子=dạy con/con đỡ đầu/con trai đỡ đầu/Kyōko/Noriko
-教宗=giáo hoàng/Giáo hoàng/giáo tông
+教宗=giáo hoàng/Giáo Tông/Giáo hoàng/giáo tông
 教徒=giáo đồ/tín đồ/người theo đạo/con chiên/các tín đồ
 教本=sách giáo khoa/dạy ben
 教法=cách dạy/giáo pháp/Phương pháp giảng dạy
@@ -2708,7 +2719,7 @@
 无心=vô tâm/không lòng dạ nào/không quan tâm/không muốn/vô tình/vô ý/không phải cố ý/Wuxin
 无忧=vô ưu/không lo/không lo lắng
 无怪=chẳng trách/thảo nào/hèn gì/hèn chi/chả trách/không có gì đáng ngạc nhiên
-无情=vô tình/bạc tình/lạnh lẽo/tuyệt tình/không thương tiếc gì/không nể tình/nhẫn tâm/tàn nhẫn
+无情=vô tình/Vô Tình/bạc tình/lạnh lẽo/tuyệt tình/không thương tiếc gì/không nể tình/nhẫn tâm/tàn nhẫn
 无感=vô cảm/khi vỡ hoang, tình cờ ông ấy phát hiện được một đồng tiền cổ.
 无望=vô vọng/hết hi vọng
 无机=vô cơ
@@ -2828,7 +2839,7 @@
 有缘=hữu duyên/có duyên phận
 有胆=có gan
 有让=có để
-有道=có câu/có đạo/có lời/được khai sáng
+有道=hữu đạo/có câu/có đạo/có lời/được khai sáng
 有钱=có tiền/có của/có tài sản
 有限=có hạn/hữu hạn/không nhiều/không cao/giới hạn
 有颜=có nhan sắc
@@ -2928,7 +2939,7 @@
 校对=đối chiếu/so với/hiệu đính/đọ với/so đúng/sửa mo-rát/sửa lỗi chính tả/hiệu chỉnh/người làm công tác đối chiếu/người hiệu đính/hiệu đính viên/giáo đối
 校董=chủ tịch trường/hội đồng trường
 校长=hiệu trưởng
-样机=nguyên mẫu
+样机=nguyên mẫu/nguyên mẫu
 根系=bộ rễ/hệ rễ/căn hệ/hệ thống gốc
 根音=âm nền/gốc của hợp âm
 根骨=căn cốt
@@ -2944,7 +2955,7 @@
 椅上=trên mặt ghế/ghế/trên ghế
 植桑=trồng dâu/trồng dâu tằm
 楚地=đất Sở/Sở Địa
-楼上=tầng trên/trên lầu/lầu trên
+楼上=trên lầu/tầng trên/lầu trên
 楼中=trong lầu
 概数=số xấp xỉ/số ước lượng/số lượng khái niệm
 榨血=ép máu
@@ -2986,7 +2997,7 @@
 武修=võ tu
 武具=võ trang
 武勋=võ huân/Vũ Huân
-武威=võ uy/Bui/Vũ Uy/thành phố cấp tỉnh Wuwei ở Cam Túc
+武威=võ uy/Vũ Uy/Bui/thành phố cấp tỉnh Wuwei ở Cam Túc
 武打=đánh võ/võ đánh
 死令=tử lệnh
 死光=chết sạch/chết hết/ánh sáng chết
@@ -3054,12 +3065,12 @@
 求死=muốn chết
 求色=cầu sắc
 求道=cầu đạo
-汉服=hán phục/Hán phục
+汉服=Hán phục/Hán phục/hán phục
 汗号=hãn hiệu
 江上=trên sông/Egami/Enōe
 汤盅=nồi canh/súp
 沉道=trầm giọng nói
-沙俄=Sa hoàng/Sa Hoàng/Nga Hoàng
+沙俄=Sa quốc Nga/Sa hoàng/Sa Hoàng/Nga Hoàng
 沟里=trong khe/trong mương
 没事=không có việc/không có việc gì/không sao/không có gì/không vấn đề gì/không sao cả/không sao đâu/điều đó không quan trọng
 没人=không có người/không ai
@@ -3081,7 +3092,7 @@
 治世=trị thế
 治好=chữa khỏi/chữa cho tốt/để chữa
 沾血=dính máu
-泄洪=thoát lũ/xả lũ
+泄洪=thoát lũ/vỡ đê/thoát lũ/xả lũ
 法令=pháp lệnh/đạo luật/luật lệ/nghị định
 法会=pháp hội/Pháp Hội/Hội đồng tôn giáo
 法制=pháp chế/phép chế/pháp quyền
@@ -3091,8 +3102,8 @@
 法系=pháp hệ/hệ thống pháp luật
 泛红=ửng đỏ/đỏ bừng
 泡女=tán gái
-波音=ba âm/Boeing/Hanon/Naon
-泰坦=titan/Titan
+波音=Boeing/ba âm/Hanon/Naon
+泰坦=titan/titan/Titan
 洁癖=khiết phích/hội chứng sợ bẩn/sạch sẽ/Mắc bệnh sạch sẽ quá mức
 洋帽=mũ rộng vành
 洞主=động chủ
@@ -3115,7 +3126,7 @@
 海角=góc biển/cape/mũi biển/áo choàng
 海贸=hải mậu/thương mại biển
 海里=hải lý/trong biển/Kairi/biển
-消音=cách âm/giảm thanh/giữ im lặng
+消音=giảm thanh/cách âm/giữ im lặng
 淡地=đạm địa
 淫僧=dâm tăng
 淫夫=dâm phu
@@ -3124,7 +3135,7 @@
 清修=thanh tu
 清吧=pub/làm sạch nó
 清和=thanh hoà/Kiyokazu/Seiwa
-清场=dọn bãi/thanh lý/để xóa
+清场=dọn bãi/thanh tràng/dọn bãi/thanh lý/để xóa
 清梦=mộng đẹp/thanh mộng/giấc mơ trong sáng
 清流=thanh lưu/Seiryūu/Thanh Lưu/Quận Qingliu ở Sanming 三明 [San1 ming2], Phúc Kiến
 清空=quét sạch/trống không/trống rỗng/xóa
@@ -3141,7 +3152,7 @@
 湖水=nước hồ/hồ nước
 湖涂=hồ đồ
 源氏=tộc Minamoto/nguyên thị
-滋润=dễ chịu/tưới nhuần/thoải mái/tư nhuận/làm dịu/thấm vào/ẩm ướt/tưới đều/giữ ẩm
+滋润=làm dịu/dễ chịu/tưới nhuần/thoải mái/tư nhuận/thấm vào/ẩm ướt/tưới đều/giữ ẩm
 滑手=tay trượt
 滚回=cút về/chạy trở về
 滞空=dừng lại trên không/độ trễ
@@ -3179,7 +3190,7 @@
 点水=chút nước/một ít nước/lướt/hớt/đá nước
 点火=châm lửa/đốt lửa/châm ngòi/nhóm lửa/kích lửa/kích nổ/kích hoạt/phát động/gây chuyện/gây sự/đánh lửa
 点球=penalty/phạt đền/Đá phạt đền
-点苍=điểm thương
+点苍=Điểm Thương/điểm thương
 点补=ăn lót dạ/ăn lót lòng
 点赞=ấn like/lượt thích/Like/yêu thích
 点进=điểm tiến
@@ -3388,7 +3399,7 @@
 看出=nhìn ra/có thể thấy điều đó/để làm ra
 看到=nhìn thấy/thấy/và nhìn thấy
 看头=đáng xem/nhìn đầu lên/nhìn đầu kìa/những phẩm chất khiến cái gì đó đáng xem
-看好=xem trọng/nhìn kỹ/coi được/thấy được/khả quan/có lợi thế/coi trọng/nhìn kìa/coi chừng
+看好=xem kỹ/xem trọng/nhìn kỹ/coi được/thấy được/khả quan/có lợi thế/coi trọng/nhìn kìa/coi chừng
 看官=khán quan/xem quan/thính giả thân mến
 看来=xem ra/nhìn tới/có vẻ như/có vẻ như vậy/hình như/có vẻ như vậy, xem ra
 看法=cách nhìn/cái nhìn/thái độ/quan điểm/nhận định
@@ -3637,14 +3648,14 @@
 老化=lão hoá/biến chất/hỏng/già/lạc hậu/lão hóa
 老去=già đi
 老古=lão Cổ/cổ xưa
-老君=lão Quân/Lao Jun/Laozi hay Lao-tze
+老君=Lão Quân/lão Quân/Lao Jun/Laozi hay Lao-tze
 老大=lão đại/về già/lúc già/khi già/anh cả/người chèo đò/người đưa đò/rất/vô cùng/Sếp
 老子=lão tử/ông đây/lão tử/Lão tử/bố/ba/cha/tía/bố mày
 老孟=lão Mạnh
 老宋=lão Tống
 老实=thành thực/thành thật/trung thực/trung thành/trung thực, thật thà
 老尼=lão ni/lão Ni
-老成=già thành/lão thành/từng trải/lão luyện/dày dạn kinh nghiệm/già dặn/ông Thành
+老成=lão thành/già thành/từng trải/lão luyện/dày dạn kinh nghiệm/già dặn/ông Thành
 老方=lão Phương/ông Phương
 老朱=lão Chu
 老板=lão bản/ông chủ/chủ rạp/chủ gánh
@@ -3653,7 +3664,7 @@
 老母=lão mẫu/mẹ già
 老汤=nước luộc/súp cũ
 老派=lạc hậu/cổ hủ/bảo thủ/người cổ hủ/người bảo thủ/trường phái cũ
-老爹=lão tía/ba/lão cha/cha
+老爹=ba/lão tía/lão cha/cha
 老牛=trâu già/lão ngưu
 老王=lão Vương
 老祖=lão tổ/tổ tiên
@@ -3662,7 +3673,7 @@
 老范=lão Phạm
 老薛=lão Tiết
 老袁=lão Viên
-老赖=kẻ khất nợ/lão Lai/nợ dodger
+老赖=kẻ khất nợ/lão Lại/lão Lai/nợ dodger
 老身=lão thân/bà già này/người già
 老邱=lão Khưu/lão Khâu
 老郑=lão Trịnh
@@ -3686,7 +3697,7 @@
 耐打=lì đòn
 耗光=hao hết sạch
 耗时=tốn thời gian/mất thời gian
-聊天=trò chuyện/tán dóc/nói chuyện phiếm/tán gẫu/Nói chuyện
+聊天=tán dóc/trò chuyện/nói chuyện phiếm/tán gẫu/Nói chuyện
 职校=trường nghề/trường dạy nghề
 职院=trường nghề/trường dạy nghề
 肉刺=nhục thứ
@@ -3697,7 +3708,7 @@
 股神=thần chứng khoán/cổ thần
 股长=trưởng ban/người phụ trách phòng/trưởng đơn vị
 肤白=da trắng
-育有=sinh/trở thành cha mẹ của
+育有=sanh/sinh/trở thành cha mẹ của
 背上=trên lưng/cõng lên
 背后=sau lưng/phía sau/lưng/mặt trái/ngấm ngầm/vụng trộm/đằng sau
 背心=áo thun/áo không tay/lưng/áo may ô/áo lót/áo vest/áo 3 lỗ
@@ -3728,7 +3739,7 @@
 自大=tự đại/kiêu căng/kiêu ngạo/ngạo mạng
 自宫=tự thiến/tự cung/để thiến chính mình
 自小=từ nhỏ
-自己=chính mình/bản thân/tự mình
+自己=bản thân/chính mình/tự mình
 自我=tự mình/bản thân/mình/tự ta/tự
 自新=ăn năn hối lỗi/làm lại cuộc đời/tự làm mới
 自白=tự bạch/tự khai/tự nói ra/tự bộc bạch/tự thú tội
@@ -3794,7 +3805,7 @@
 螣蛇=đằng xà/con trăn/con rắn bay
 蠢爆=xuẩn bạo
 血条=thanh máu/huyết điều/thanh máu hp
-血赚=kiếm lời to/máu kiếm
+血赚=trúng quả đậm/kiếm lời to/máu kiếm
 血魄=huyết phách
 行不=được không/biết không
 行军=hành quân
@@ -3876,7 +3887,7 @@
 警监=cảnh giám/giám sát viên
 讨封=đòi phong
 让位=thoái vị/nhường ngôi/nhường địa vị/nhường chỗ ngồi/nhường chỗ
-让出=nhượng xuất/nhường ra/nhường chỗ/nhường lại
+让出=nhường ra/nhượng xuất/nhường chỗ/nhường lại
 让开=tránh ra/Tránh ra/tránh sang một bên
 让渡=sang nhượng/nhượng độ/để cho độ/hãy để độ
 让道=nhường đường/nhường đường/Nhường đường/Hãy nhường đường
@@ -3901,6 +3912,7 @@
 该项=hạng này/mục này
 说中=nói trúng/đánh đinh vào đầu
 说亲=làm mai/nói hôn/làm mối/làm mai làm mối
+说好=nói tốt/Đã đồng ý/hẹn
 说教=thuyết giáo/giảng giải lí lẽ tôn giáo/giảng đạo/lí thuyết suông/giảng kinh/rang giảng
 说明=nói rõ/thuyết minh/rằng/giải thích rõ/lời giải thích/lời thuyết minh/chứng minh/mô tả
 说来=nói tới/nói đến/nói đi
@@ -3933,7 +3945,7 @@
 谷中=trong thung lũng/trong cốc/Taninaka/Yanaka
 豚鼠=chuột lang
 负重=gánh nặng/phụ trọng/mang nặng/vác nặng/gánh trọng trách/mang trọng trách/vật đeo tăng sức nặng/mang trọng lượng
-贤人=hiền nhân/người tài/người tài đức/người đàn ông hiền lành
+贤人=hiền nhân/người Hiền/người tài/người tài đức/người đàn ông hiền lành
 贤君=hiền quân/Hiền Quân
 败家=bại gia/phá sản/lụn bại/phá của
 货主=chủ hàng/chủ hàng hoá
@@ -3965,7 +3977,7 @@
 走调=lạc điệu/sai điệu/tẩu điều/giai điệu/tắt chìa khóa
 走音=lạc giọng/tắt chìa khóa
 赴美=đi Mỹ/đi đến Hoa Kỳ
-赵国=nước Triệu/Triệu quốc/Zhao, một trong bảy quốc gia trong thời Chiến Quốc của lịch sử Trung Quốc
+赵国=nước Triệu/nước Triệu/Triệu Quốc/Triệu quốc/Zhao, một trong bảy quốc gia trong thời Chiến Quốc của lịch sử Trung Quốc
 赵地=đất Triệu/Triệu Địa
 起事=khởi sự/phát động đấu tranh chính trị bằng vũ trang/bắt đầu
 起出=khởi xuất
@@ -4032,6 +4044,7 @@
 边裁=trọng tài biên
 辽国=nước Liêu/Liêu Quốc
 过世=tạ thế/mất/qua đời
+过人=hơn người/trội/vượt trội/xuất sắc
 过从=qua lại/đi lại với nhau/tới lui/quá qua
 过低=quá thấp
 过关=quá quan/trót lọt/vượt qua/qua được/qua cửa ải
@@ -4081,6 +4094,7 @@
 迎新=đón người mới đến/đón chào bạn mới/nghinh tân/nghênh tân/chào đón năm mới
 运粮=vận lương/vận chuyển lương thực/vận chuyển ngũ cốc
 返家=về nhà/trở về nhà/trở về Nha
+还不=còn không
 还原=hoàn nguyên/trở lại như cũ/trở về trạng thái cũ/trả lại như cũ/khôi phục
 还好=còn tốt/hoàn hảo/khá tốt/tốt/không sao đâu/cũng được/tàm tạm/không tồi
 还完=trả hết
@@ -4152,7 +4166,7 @@
 道喜=chúc/mừng/chúc mừng/tỏ lời mừng/Đạo Hỉ
 道地=thuần tuý/chính gốc/chính cống/chính xác/đạo địa
 道子=đạo tử/đường/nét/đường nét/vạch/Michiko/đạo
-道家=đạo gia/Đạo gia
+道家=Đạo gia/đạo gia
 道巾=khăn đạo
 道意=đạo ý
 道教=đạo giáo
@@ -4163,7 +4177,7 @@
 道法=đạo pháp
 道白=lời thoại/đạo bạch/lời nói/nói/nói trắng
 道者=đạo nhân/đạo giả
-道藏=đạo tạng/Đạo Tàng/kho tàng kinh điển đạo giáo/kho kinh
+道藏=Đạo Tạng/đạo tạng/Đạo Tàng/kho tàng kinh điển đạo giáo/kho kinh
 道路=con đường/đường/đường xá/đường phố/đường sá/phố xá/đường giao thông
 道里=lộ trình/chặng đường/đạo lý/Trong Lời
 道题=đạo đề/đề bài/Câu hỏi
@@ -4254,9 +4268,10 @@
 长得=lớn lên/bộ dạng/nhìn/Thường dùng để miêu tả diện mạo bên ngoài của con người
 长拜=vái dài/changbai
 长斜=nghiêng dài
+长有=chiều dài/mọc ra
 长板=ván trượt
 长气=thở dài
-长沙=trường sa/chiều dài/Trường Sa/thành phố Trường Sa
+长沙=Trường Sa/trường sa/chiều dài/thành phố Trường Sa
 长河=sông dài/trường hà/Trường Hà/dòng/Sông Dài/sông Dài
 长活=ở đợ/người ở đợ/đầy tớ/sống lâu dài
 长生=trường sinh/sống lâu/Trường Sinh
@@ -4285,7 +4300,7 @@
 问明=hỏi rõ/Hỏi Rõ
 问清=hỏi rõ/lên tiếng hỏi
 问策=vấn sách
-问责=vấn trách/trách nhiệm giải trình/đổ lỗi cho phân bổ
+问责=đổ thừa/vấn trách/trách nhiệm giải trình/đổ lỗi cho phân bổ
 问道=hỏi rằng/hỏi/vấn đạo
 问问=hỏi một chút/hỏi/hỏi đi
 间作=trồng xen kẽ/giữa các tác phẩm
@@ -4303,9 +4318,9 @@
 阿叔=a thúc/chú
 阿婆=a bà/bà/bà nội/bà ngoại/cụ/mẹ/má
 阿母=má/mẹ/Mẹ/mẫu thân.Vú em/vú nuôi/nhũ mẫu.
-阿父=cha/ba/Cha
+阿父=ba/cha/Cha
 阿爷=a gia/A Gia
-阿飘=a phiêu/ma/quỷ/A Phiêu/ghost
+阿飘=Nguyễn Văn Ma/a phiêu/ma/quỷ/A Phiêu/ghost
 附马=phò mã/đính kèm ngựa
 陈粮=lương thực lâu năm
 降智=tụt IQ
@@ -4320,6 +4335,7 @@
 随从=tuỳ tùng/tùy tùng/đi theo/nhân viên tuỳ tùng/người đi theo
 随军=theo quân/tùy quân
 隐名=ẩn danh/Dấu tên/không cho người ta biết/ý nói ở ẩn.
+隐忍=ẩn nhẫn/ngấm ngầm chịu đựng
 隔开=ngăn cách/tách ra/cách/chắn/chắn, ngăn ra
 隶臣=lệ thần
 难宁=khó yên
@@ -4412,7 +4428,7 @@
 高才=tài cao/tài năng/có tài/nhân tài/người xuất chúng/tài năng cao
 高热=sốt cao/nhiệt độ cao/sốt
 高玩=pro player
-高祖=cao tổ/ông sơ/tổ tiên/Cao tổ/Cao Tổ
+高祖=Cao Tổ/cao tổ/ông sơ/tổ tiên/Cao tổ
 高级=cao cấp/cấp cao/bậc cao/hảo hạng/thượng đẳng
 高薪=lương cao/tiền lương cao/cao tân/mức lương cao
 高门=cao môn/nhà cao cửa rộng/vọng tộc/nhà quyền quý/nhà giàu/cổng cao
@@ -4624,7 +4640,7 @@
 人=người/nhân/con người
 亻=nhân/phải
 亼=tập/yo
-亿=ức/hàng trăm triệu/một trăm triệu
+亿=trăm triệu/ức/hàng trăm triệu/một trăm triệu
 什=cái/cái gì/thập/sh/số mười
 仁=nhân/Nhân/Ao/Hitoshi/Jin/Ma/Masashi/nhân từ/nhân ái/lòng nhân từ
 仂=lặc/yo/số dư
@@ -5674,8 +5690,8 @@
 咬=cắn
 咭=cười/chít chít/yo
 咮=trụ/chú/yo/mỏ chim
-咯=rồi/roài/lạc/đi/lộp bộp/lộp cộp
-咱=ta/chúng tôi/chúng ta/tôi/mình
+咯=roài/rồi/lạc/đi/lộp bộp/lộp cộp
+咱=chúng ta/ta/chúng tôi/tôi/mình
 咲=tiếu/Saki/Saku/yo/tiếu lâm/Tục dùng như chữ tiếu 笑.
 咳=khụ/ho
 咴=xích/hí/yo
@@ -5718,7 +5734,7 @@
 哦=há/nga/ồ/hứ
 哧=xích/xoẹt/xoạt/yo/roạt/khì khì
 哨=tiêu/tiếu/còi/đồn/trạm gác/nơi canh gác
-哩=lý/đấy/Mairu/yo/dặm
+哩=lị/lý/đấy/Mairu/yo/dặm
 哪=nào/kia/cái nào
 哭=khóc/khóc lóc
 哮=hao/gào/gầm gừ/thở gấp/thở khò khè
@@ -5785,7 +5801,7 @@
 商=thương/Thương/Thương nhân/thương lượng/bàn bạc
 啈=hanh/hành/nhiếp/hừ/hứ
 啉=lâm/phải/Ki-nô-lin
-啊=a/hả/à/quá/thật là
+啊=ah/a/hả/à/quá/thật là
 啋=thái/để ý tới
 啌=koong/yo/hòng/chớ hòng
 啍=đôn/yo/di chuyển từ từ
@@ -5803,7 +5819,7 @@
 啣=hàm/i/này
 啤=bia/yo
 啥=gì/những gì/cái gì
-啦=rồi/rùi/nha/thôi nào/được rồi/đấy/nhé
+啦=rùi/rồi/nha/thôi nào/được rồi/đấy/nhé
 啧=chậc/tranh cãi
 啪=phách/ba/ba~/đùng/pằng
 啫=điệp/a/yo/hạt dùng cho thán từ
@@ -6442,7 +6458,7 @@
 姙=nhâm/nhâm phụ
 姚=Diêu/Yao/họ Diêu
 姜=gừng/cây gừng
-姝=thù/anh/tốt đẹp
+姝=mỹ nhân/thù/anh/tốt đẹp
 姞=cật/yo/cẩn thận/thận trọng
 姣=giảo/tướng mạo/kiều diễm/tướng mạo đẹp/dáng đẹp
 姤=cấu/bà/gặp gỡ/gặp mặt/gặp nhau
@@ -7644,7 +7660,7 @@
 扢=cột/hất/chỉ/khen ngợi/ca ngợi
 扣=cài/trừ/chụp/khấu trừ/khóa/khâu/móc
 扤=ngột/lay động
-扥=thác/ti
+扥=kéo/thác/ti
 扦=thiên/xin lỗi/cái đế/cái giá/cái tiêm
 执=chấp/chấp nhận/cầm/nắm
 扩=khuếch/mở rộng/khếch đại/khuếch trương/làm to ra
@@ -7984,7 +8000,7 @@
 摔=ngã/té
 摘=trích/trích xuất/hái/bẻ/ngắt/lấy, cởi ra, tháo ra
 摛=si/xi/này/trải ra/tung/rắc/rải/duỗi/đưa ra/kéo dài/mở rộng/phô trương/phân tán
-摞=chồng chất/xấp/tôi/xếp chồng lên/chồng lên/xếp lên
+摞=chồng/chồng chất/xấp/tôi/xếp chồng lên/chồng lên/xếp lên
 摠=tổng/Tổng quan
 摧=tồi/phá vỡ/phá hủy/bẻ gãy/phá hoại/làm đứt/cắt/ngắt/làm gián đoạn
 摩=ma/Mo/mài/ma sát/tiếp xúc
@@ -8357,7 +8373,7 @@
 會=sẽ
 朅=khiết/kiệt/Sương/Được/đi
 朆=phân/chưa/chưa từng
-月=nguyệt/tháng/Akari/Light/Runa/Satsuki/Tsuki/Yue/trăng/mặt trăng
+月=tháng/nguyệt/Akari/Light/Runa/Satsuki/Tsuki/Yue/trăng/mặt trăng
 有=có/Akio/Ari/Yū
 朊=nguyễn/sóc/sóc triều/prô-tê-in/chất đạm
 朋=bạn/bằng hữu/bằng/Tomo/pun/bạn bè
@@ -8481,9 +8497,9 @@
 柃=linh/kiêu/(một loại thực vật, lá và cành có thể làm thuốc, quả làm nhiên liệu)
 柄=chuôi/thanh/tay cầm/cán/đuôi
 柈=bàn/kiêu/khúc củi lớn/miếng gỗ to/khúc củi to
-柊=Hiragi/hiiragi/Hiiragi/Nao/Shū/yo/(một loại cây cảnh)
+柊=Hiiragi/Hiragi/hiiragi/Nao/Shū/yo/(một loại cây cảnh)
 柎=phu/phủ/phụ/đài hoa
-柏=bách/Kashiwa/Bách/Béc-lin
+柏=Bách/bách/Kashiwa/Béc-lin
 某=nào đó/mỗ/Mō/một cái gì đó
 柑=cam/cam quýt/cây cam
 柒=thất/ki/số bảy viết bằng chữ/chữ viết hoa của số 7
@@ -9006,7 +9022,7 @@
 氕=ách/xyani/prô-ti
 氖=nê-on/nãi/xeni/Nê-on
 気=khí/rant
-氘=đao/xenni/đê-u-tri-um
+氘=deuterium/đao/xenni/đê-u-tri-um
 氙=tiên/xenni/xê-non
 氚=tritium/xuyên/tryt/tri-ti-um/kí hiệu: T
 氛=phân/bầu không khí/không khí/cảnh tượng/tình hình
@@ -10424,7 +10440,7 @@
 百=trăm/Bai/Momo/một trăm/bách/100/mười lần mười
 皁=tạo/bến
 皂=tạo/xà phòng/đen/màu đen
-的=/của/đích/được/Ghi chú:
+的=của/đích/được/Ghi chú:
 皆=đều/Mina/tất cả/đều là/toàn là/cũng
 皇=hoàng/Hoàng/Huang/Kō/Sumeragi/hoàng đế/to/to lớn
 皈=quy/cải/quy y/đi tu
@@ -10741,7 +10757,7 @@
 碰=chạm/bính/chạm vào/đụng/vấp/va
 碱=kiềm/tẩy rửa
 碲=đế/ti/te-lu
-碳=than/-tan/các-bon
+碳=carbon/than/-tan/các-bon
 碴=cặn bã/tra/gây sự/ức/i/mảnh vỡ
 碶=thế/Đại Thế Đầu
 碹=toàn/không/cái vòm/hình vòm
@@ -11660,7 +11676,7 @@
 羹=canh/canh, súp
 羼=sạn/sản/anh bạn/trộn
 羽=vũ/Long/Yu/Yui/lông chim/lông vũ
-羿=nghệ/Nghệ/tôi/Hậu Nghệ
+羿=Nghệ/nghệ/tôi/Hậu Nghệ
 翀=xung/bay vút lên/Bây/Không
 翁=ông/Okina/Ong/ông già/ông cụ
 翃=hoành/hồng/anh bạn/bay
@@ -12698,7 +12714,7 @@
 蜒=diên/cóc/con diêu du/con sên
 蜓=đình/giun/chuồn chuồn
 蜕=xác/thuế/lột đồ/lột xác
-蜗=oa/ốc sên
+蜗=ốc sên/oa
 蜘=tri/nhện/cóc/con nhện/nhền nhện
 蜚=phỉ/cóc/bay
 蜜=mật/Mitsu/mật ong
@@ -12936,7 +12952,7 @@
 裒=bầu/xin lỗi/góp nhặt/thu thập
 裔=duệ/1 người gốc/đời sau
 裕=dụ/Hiroshi/Yu/Yutaka/Yū/phong phú/dư dật/đầy đủ
-裘=cừu/cầu/Qiu/áo lông
+裘=Cừu/cừu/cầu/Qiu/áo lông
 裙=váy/cái củn
 裛=ấp/xin lỗi/hộp sách
 裟=sa/xin lỗi/áo cà sa
@@ -13284,7 +13300,7 @@
 谌=kham/này/tin tưởng/tin/tín nhiệm/tin cậy
 谍=điệp/này/điệp báo/hoạt động gián điệp
 谎=nói dối/dối/nói dóc/nói láo
-谏=gián/được/khuyên can/can gián/khuyên ngăn/khuyên giải/can ngăn
+谏=can/gián/được/khuyên can/can gián/khuyên ngăn/khuyên giải/can ngăn
 谐=hài/hài hòa/hài hoà/cân đối
 谑=hước/này/nói đùa/vui đùa
 谒=yết/này/yết kiến
@@ -13362,7 +13378,7 @@
 貅=hưu/chồn/tì hưu
 貆=hoan/hoàn/chồn nhỏ/chồn con
 貈=mạch
-貉=con chồn/không/chồn
+貉=chồn/con chồn/không
 貊=mạch/điêu/anh biết/dân tộc Mạch
 貌=mạo/ngoại hình/tướng mạo/diện mạo/bề ngoài
 貍=ly/xin lỗi
@@ -13813,6 +13829,7 @@
 迓=nhạ/tiều thế/nghênh đón/nghênh tiếp/đón chào
 返=phản/trở lại/về/trở về
 迕=ngỗ/đ/gặp
+还=còn/trả
 这=này/điều này/cái này/đây
 进=tiến/vào đi
 远=xa/viễn
@@ -13950,7 +13967,7 @@
 邰=thai/Thai/Bến Tre/họ Thai
 邱=Khâu/Qiu/Khưu/gò
 邲=bật/tất/Bến Tre/Tất/tên đất cổ, nay ở phía Đông Trịnh Châu, thuộc Hà Nam Trung quốc
-邳=phi/bi/Bến Tre/huyện Phi
+邳=Phi/phi/bi/Bến Tre/huyện Phi
 邴=bỉnh/Bến Tre/họ Bính
 邵=Thiệu/họ Thiệu
 邶=bội/hình/nước Bội
@@ -13970,6 +13987,7 @@
 郉=hình
 郊=ngoại ô/ngoại ô/vùng ngoại ô/ngoại thành
 郋=hề/Hề
+郎=lang
 郎=lang/Hyotarō/Lang
 郏=giáp/xin/qiu/huyện Hiệp
 郐=cối/Ấp/Xin/nước Cối
@@ -14278,7 +14296,7 @@
 钞=tiền giấy/sao/giấy bạc
 钟=chung/đồng hồ/cái chuông
 钠=natri/Na-tri
-钡=bối/đii/nguyên tố Ba-ri. Nguyên tố kim loại, ký hiệu Ba
+钡=bari/bối/đii/nguyên tố Ba-ri. Nguyên tố kim loại, ký hiệu Ba
 钢=thép/cương/liếc dao/mài dao
 钣=bản/biium/tấm/tấm kim loại/thanh kim loại
 钤=kiềm/quân nhân/con dấu
@@ -14724,7 +14742,7 @@
 霛=linh
 霜=sương/kem/sương giá
 霝=linh/giọt mưa
-霞=hà/Kasumi/Xia/Hà/ráng
+霞=ráng mây/hà/Kasumi/Xia/Hà/ráng
 霡=mạch
 霢=mạch
 霣=vẫn/mưa bão
@@ -15575,7 +15593,7 @@
 鹪=tiêu/chim cữ/hồng tước
 鹫=đại bàng/thứu/kiều/cò/chim đại bàng
 鹬=duật/cò/con cò
-鹭=lộ/Kạm/Cò/con cò/cò
+鹭=cò/lộ/Kạm/Cò/con cò
 鹮=hoàn/chim cữ/cò quăm
 鹯=chiên/chim liêu
 鹰=ưng/đại bàng/diều hâu/chim ưng/chim ó
@@ -15750,7 +15768,6 @@
 龠=dược/thược/ký tĩ
 龡=xuý/xúy
 龢=hòa/thưa
-郎=lang
 㖊=tầm/fathom
 㧑=huy/khiêm tốn
 䅟=sam/hoảng sợ trái cây
@@ -15761,20 +15778,3 @@
 䯄=oa/ngựa piebald
 䲠=xuân
 䴕=liệt/chim gõ kiến
-人事=nhân sự/phải trái/việc đời/việc người/việc làm nằm trong khả năng người/cảm giác/tri giác/lễ vật
-长有=chiều dài/mọc ra
-说好=nói tốt/Đã đồng ý/hẹn
-过人=hơn người/trội/vượt trội/xuất sắc
-还不=còn không
-还=còn/trả
-家电=điện gia dụng/đồ điện gia dụng/thiết bị gia dụng
-公布栏=bảng thông báo
-监控系统=hệ thống giám sát/hệ thống theo dõi
-逆反期=kỳ phản nghịch
-小侦探=thám tử nhỏ
-和人=cùng người/Kazuto
-取关=unfollow/để hủy theo dõi
-一人=một người/Hitori/Kazuhito/Kazuto/Ngày xưa gọi thiên tử là nhất nhân 一人.Một người/một cá nhân. ◇Luận Ngữ 論語: Cố cựu vô đại cố/tắc bất khí dã/vô cầu bị ư nhất nhân 故舊無大故/則不棄也/無求備於一人
-隐忍=ẩn nhẫn/ngấm ngầm chịu đựng
-公知=công tri
-人面=mặt người/khuôn mặt con người/Mặt người
