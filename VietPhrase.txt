@@ -472,7 +472,7 @@
 二手=second-hand/đã qua sử dụng/Second hand/hàng dùng lại
 二星=hai sao
 二来=thứ hai/thứ Hai/ở vị trí thứ hai
-二郎=nhị lang/Jiro/Jirō/Nirō/Nhị Lang/xem 二郎神 [Er4 lang2 shen2]
+二郎=nhị lang/Jiro/Jirō/Nirō/Nhị Lang
 二阶=nhị giai/cấp hai/bậc hai
 于思=râu rậm/vu tai/râu xồm xoàm
 于是=thế là/vì thế/vì vậy/sau đó/ngay sau đó/và vì vậy/liền/bèn, thế nên
@@ -535,7 +535,7 @@
 人流=dòng người
 人父=cha người/cha/cha của con người
 人犯=phạm nhân/tội phạm/nhân phạm/người phạm tội
-人生=đời người/nhân sinh/Jinsei/cuộc sống
+人生=nhân sinh/đời người/Jinsei/cuộc sống
 人神=nhân thần
 人种=nhân chủng/giống người/người dân
 人称=nhân xưng/xưng hô/người ta gọi là/được gọi là/ngôi/ngôi xưng hô
@@ -2032,7 +2032,7 @@
 小本=quyển vở nhỏ/Little Ben/trên một sợi dây
 小李=tiểu Lý/Xiao Li
 小杜=tiểu Đỗ/Tiểu Đỗ
-小树=cây nhỏ/ Tiểu Thụ/Tiểu Thụ/CL:棵[ke1]
+小树=cây nhỏ/ Tiểu Thụ/Tiểu Thụ
 小楚=tiểu Sở/Tiểu Sở
 小步=bước nhỏ
 小民=dân đen/Tiểu Dân/dân thường
@@ -2047,7 +2047,7 @@
 小王=tiểu vương/tiểu Vương/Tiểu Vương
 小环=vòng nhỏ
 小班=tiểu ban/mẫu giáo bé/lớp học nhỏ
-小球=tiểu cầu/quả bóng nhỏ/xem thêm 大 球 [da4 qiu2]
+小球=tiểu cầu/quả bóng nhỏ
 小生=tiểu sinh/ngôi sao mới nổi/nam ngôi sao trẻ tuổi/Tiểu Sinh/vai nam trẻ
 小白=tiểu bạch/tiểu Bạch/Tiểu Bạch/mới
 小石=hòn đá nhỏ/Koishi/Little Rock
@@ -2083,7 +2083,7 @@
 少主=thiếu chủ/Thiếu chủ
 少卿=thiếu khanh/Thiếu Khanh
 少帅=thiếu soái/thiếu tướng
-少府=thiếu phủ/Thủ quỹ nhỏ ở Trung Quốc đế quốc, một trong Cửu trưởng 九卿 [jiu3 qing1]
+少府=thiếu phủ
 少有=ít có/hiếm/không thường xuyên
 少来=ít đến/Nào!
 尚礼=thượng lễ/Thượng Lễ
@@ -2187,7 +2187,7 @@
 府内=trong phủ/bên trong phủ
 府尹=phủ doãn/Phủ Doãn
 府曹=phủ tào
-度娘=Bai Đu/độ nương/Baidu/Độ Nương/tên thay thế cho Baidu 百度 [Bai3 du4]
+度娘=Bai Đu/độ nương/Baidu/Độ Nương
 座城=toà thành/thành phố
 座山=ngọn núi/tòa sơn
 庸将=tướng xoàng
@@ -2544,7 +2544,7 @@
 指槽=rãnh ngón tay
 按奈=nhẫn nại
 按键=ấn phím/nhấn phím/sự bấm phím trên bàn phím/án kiện/động tác gõ phím/các phím
-挖角=đào góc/Đài Loan [wa1 jiao3]
+挖角=đào góc
 挨锤=ăn đập
 挺大=rất lớn
 挺正=rất phù hợp
@@ -2592,7 +2592,7 @@
 插兜=đút túi
 握笔=cầm bút
 搀和=trộn lẫn/trộn đều/và
-搅基=chơi gay/xem 搞 基 [gao3 ji1]
+搅基=chơi gay
 搅浑=quấy đục/khuấy đục/khuấy đảo
 搞事=gây sự/có chuyện gì đó
 搞基=chơi gay/làm cơ sở/để tham gia vào các hoạt động tình dục đồng giới nam
@@ -4494,7 +4494,7 @@
 𫐓=nhu/dải bánh xe
 𫓧=phu/cây rìu
 𫖮=nghỉ/làm hài lòng
-𫖯=phủ/biến thể của 俯 [fu3]
+𫖯=phủ
 𫗧=tốc/nồi cơm
 𫚕=sư/Seriola qinqueradiata
 𫚖=chỉ/(cá)
@@ -4756,7 +4756,7 @@
 佞=nịnh/niêm oanh/nịnh hót
 佟=Đồng/đông/Tong/Đồng Đồng/họ Đồng
 你=ngươi/cậu/các ngươi/bạn/anh/chị/ông/bà/mày
-佢=cừ/châu/ông/Tương đương tiếng Quan Thoại: 他 [ta1]
+佢=cừ/châu/ông
 佣=dung/dụng/dong/thuê/người giúp việc/mướn
 佤=ngoã/ngõa/yo/dân tộc Ngoã
 佥=thiêm/yo/toàn bộ/đều
@@ -5877,7 +5877,7 @@
 喵=meo/meo meo/m đà m đà
 喷=phun/phun ra/phọt ra/bắn ra/phụt ra
 喹=khuê/miêu/chất ki-nô-lin
-喺=dính vào/vây/Tương đương tiếng phổ thông: 在 [zai4]
+喺=dính vào/vây
 喻=Dụ/dụ/nói rõ/thuyết minh
 喽=rồi/đi/miêu/lâu la
 喾=khốc/oh/Cốc
@@ -5927,7 +5927,7 @@
 嘀=đích/nói thầm/thầm thì/nghi ngờ/nghi hoặc/yo/tí tách/tích tắc
 嘁=hứ/yo/lanh lợi/dứt khoát
 嘂=khiếu
-嘅=khái/yo/Tương đương tiếng Quan Thoại: 的 [de5]
+嘅=khái/yo
 嘆=thở dài/yo
 嘈=rầm rĩ/huyên náo/ồn ào/ầm ĩ
 嘉=gia/Yomi/jia/đẹp/tốt/quý/tốt đẹp
@@ -6998,7 +6998,7 @@
 巻=quyển/i/anh
 巽=tốn/Son/Tatsumi/thưa ông
 巾=khăn/khăn quàng cổ
-巿=phất/thưa ông/xem 韍 [fu2]
+巿=phất/thưa ông
 帀=táp/bão táp/Dùng như chữ táp 匝.
 币=tệ/tiền/tiền tệ/đồng tiền
 市=thành phố/thị/chợ/mua/thị trường/Ichi
@@ -8932,7 +8932,7 @@
 歳=tuế/không có gì/vạn tuế
 歴=lịch
 歹=ngạt/xấu/ác quỷ/xấu xa/tồi/xằng bậy/bậy/tồi
-歺=ngạt/ký tự đơn giản vòng hai cho 餐 [can1]
+歺=ngạt
 死=chết/tử/chết đi/mất
 歼=diệt/gian/tiêu diệt/giết
 歾=một/anh ta/chết
@@ -9794,7 +9794,7 @@
 爆=bạo/Baku/Bao/nổ tung/vỡ tung/toé/bùng lên/nổ/phun/nổ
 爇=nhiệt/nó/châm/đốt
 爊=ngao/nó/nướng
-爌=hoảng/yo/xem 爌 肉 [kong4 rou4]
+爌=hoảng/yo
 爓=diễm/ngọn lửa
 爗=diệp
 爚=dược/thược/ánh lửa
@@ -9965,7 +9965,7 @@
 猲=yết/i/tiều diễm/mùi chó/mùi của chó
 猳=gia
 猴=khỉ/hầu/con khỉ
-猵=biên/xem 猵 狙 [pian4 ju1]
+猵=biên
 猷=du/không có gì/kế hoạch/mưu kế
 猸=mi/i/bây/con mòng cua
 猹=tra/không/con tra
@@ -12818,7 +12818,7 @@
 蟛=bành/con trăn/con cáy/con còng
 蟜=kiểu/dế/(côn trùng)
 蟞=giải/cóc
-蟟=liêu/xem 蟭 蟟 [jiao1 liao2]
+蟟=liêu
 蟠=bàn/bàn cạc/cuộn khúc
 蟢=hỉ/con liêu/nhện cao chân
 蟥=đỉa/đấm/con đỉa
@@ -12942,7 +12942,7 @@
 裂=rạn/liệt/nứt/nứt ra/rạn nứt
 装=trang/đóng gói/trang điểm/hoá trang
 裆=háng/đang/đũng quần/tôi/đáy quần
-裇=áo/thưa ông/xem T 裇 [T xu1]
+裇=áo/thưa ông
 裈=côn/thưa ông/quần
 裉=khẳng/khấn/tôi không biết/nách áo
 裋=thụ/thấu/mập m/áo vải thô
@@ -13012,7 +13012,7 @@
 襁=cưỡng/tậu/cái địu
 襃=bao/xin lỗi/bao dương
 襄=tương/Jō/giúp nhau/giúp đỡ
-襆=bộc/bốc/phọc/tương/Đài Loan [pu2]
+襆=bộc/bốc/phọc/tương
 襇=cán
 襉=cán
 襌=đan/xin lỗi/áo mỏng/áo đơn
@@ -13498,7 +13498,7 @@
 赭=giả/đi/đỏ thẫm/đỏ sẫm
 赯=đường/màu đỏ/đỏ
 走=đi/Hashiru/Kakeru/Soichi/Sō/đi đi/đi thôi
-赱=tẩu/liều liêu/biến thể của 走 [zou3]
+赱=tẩu/liều liêu
 赳=củ/liều lận/oai hùng/oai phong
 赴=phó/đi/đi đến/đi dự
 赵=Triệu/nước Triệu
@@ -13586,14 +13586,14 @@
 踁=hĩnh/cảnh/cảnh
 踅=tuyệt/kiêu/đi đi lại lại/giữa đường quay lại
 踆=thuân/tồn/kiêu/đá/đuổi/tống cổ
-踈=sơ/biến thể của 疏 [shu1]
+踈=sơ
 踉=lương/liều l/lảo đảo/loạng choạng/nghiêng ngả
 踊=dũng/Odoru/liều l/nhảy/nhảy lên
 踌=trù/khập khio/do dự/chần chừ/lưỡng lự
 踏=đạp/bước đi/giẫm
 踔=trác/xước/oanh/được/nhảy nhót
 踖=tích/đạp/đậu/giẫm
-踘=cúc/oanh/Đài Loan [ju2]
+踘=cúc/oanh
 踝=mắt cá/mắt cá chân
 踞=ngồi/cứ/chiếm được/ngồi xổm
 踟=trì/tùy/trù trừ/chần chừ/do dự. 踟蹰
@@ -13689,7 +13689,7 @@
 躱=đóa/đoá/đoá tàng
 躲=tránh/trốn/trốn tránh/ẩn náu/ẩn núp/trú
 躳=cung
-躹=cúc/cúi người chào/đậu/biến thể của 鞠 [ju1]
+躹=cúc/cúi người chào/đậu
 躺=nằm/nằm xuống
 軃=đả
 軆=thể
@@ -13817,7 +13817,7 @@
 迂=cổ hủ/vu/anh/quanh co/ngoằn ngoèo
 迄=đến/bèn/không
 迅=nhanh/nhanh chóng/tấn/Jin
-迆=dĩ/dai dận/biến thể của 迤 [yi2]
+迆=dĩ/dai dận
 过=qua/quá/Jin/đi qua
 迈=bước/mại/mai
 迋=vương/hãy/lừa dối
@@ -14333,7 +14333,7 @@
 铄=thước/tuốc/nung chảy
 铅=chì/Duyên Sơn
 铆=mão/tán/thoa/tán bu-lông/tán ri-vê
-铇=bào/biến thể của 刨 [bao4]
+铇=bào
 铈=thị/bến/xê-ri
 铉=huyễn/nou/thoa/cái xuyên tai đỉnh
 铊=tha/thiều/tha-li
@@ -14761,7 +14761,7 @@
 靁=lôi/yan/này
 靆=đãi
 靉=ái
-靑=giáp/chiêm/biến thể của 青 [qing1]
+靑=giáp/chiêm
 青=thanh/Ao/Aoi/Blue/Qing/Sei/Thanh/Màu xanh/xanh/màu xanh
 靓=tịnh/trang điểm/làm dáng
 靖=tĩnh/Huo/Jing/Pan/Yasushi/Tĩnh/Tĩnh Tĩnh/bình yên/yên ổn
@@ -14772,7 +14772,7 @@
 靠=dựa/dựa vào/mẹ kiếp/kê/tựa
 靡=mĩ/mị/tận cùng/lãng phí/hoang phí
 面=mặt/mì/nét mặt
-靣=diện/biến thể của 面 [mian4]
+靣=diện
 靥=lúm đồng tiền/má lúm đồng tiền/nó
 靧=hối/huỷ/rửa mặt
 革=cách/da/da thuộc
@@ -14962,7 +14962,7 @@
 飞=bay/phi/Fei
 食=ăn/thức ăn/Lệ Thực Kỳ
 飠=thực
-飡=xan/lò nung/biến thể của 餐 [can1]
+飡=xan/lò nung
 飢=trở gió/nó
 飣=đính
 飥=thác
@@ -15216,9 +15216,9 @@
 髒=bẩn/bộc
 髓=tuỷ/tủy/tuỷ xương
 高=cao/Gao/Kao/Kō/Yao
-髙=cao/mập/biến thể của 高 [gao1]
+髙=cao/mập
 髟=tiêu/bưu/đầu/rũ/rũ xuống
-髠=khôn/bờm/biến thể của 髡 [kun1]
+髠=khôn/bờm
 髡=khôn/lungi/cạo trọc đầu
 髢=thế/xy/tóc giả
 髣=phảng/phưởng/bội/dường như/hình như
@@ -15268,7 +15268,7 @@
 鬯=sưởng/oanh/rượu sưởng
 鬱=uất/úc/mậu/con trai
 鬲=cách/này/sông Cách Tân
-鬴=phủ/phũ/biến thể của 釜 [fu3]
+鬴=phủ/phũ
 鬵=tẩm/nồi sắt lớn
 鬶=quy/cái
 鬷=tông/ấm trên chân
@@ -15607,7 +15607,7 @@
 麁=thô
 麂=kỷ/chồn/con hoẵng
 麃=bào/tiêu/Liêu/Còi/thảo mai/ô mai
-麄=thô/biến thể của 粗 [cu1]
+麄=thô
 麅=bào
 麇=quân/quần/khuân/chim bĩu/thành đàn/thành bầy
 麈=chủ/chim/con hươu
