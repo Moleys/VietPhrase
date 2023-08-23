@@ -4640,7 +4640,7 @@
 人=người/nhân/con người
 亻=nhân/phải
 亼=tập/yo
-亿=trăm triệu/ức/hàng trăm triệu/một trăm triệu
+亿=ức/trăm triệu/hàng trăm triệu/một trăm triệu
 什=cái/cái gì/thập/sh/số mười
 仁=nhân/Nhân/Ao/Hitoshi/Jin/Ma/Masashi/nhân từ/nhân ái/lòng nhân từ
 仂=lặc/yo/số dư
@@ -4890,7 +4890,7 @@
 倡=xướng/qi/phải/khởi đầu/bắt đầu/xướng lên/đề xướng/đề nghị/đề xuất
 倢=tiệp/nhanh chóng/nhanh
 倣=phỏng
-値=trị/yo/giá trị trịa/tròn trịa/Một dạng của 值.
+値=trị/yo/giá trị trịa/tròn trịa
 倥=không/yi/phải/ngu muội
 倦=mệt mỏi/chán/quyện/mệt nhọc/uể oải
 倨=ngạo/ngạo mạn/cứ/bßm/kiêu căng/kiêu ngạo
@@ -4994,7 +4994,7 @@
 僕=bộc/Boku/I/không
 僖=hi/ti/không thể/vui mừng/vui vẻ
 僚=liêu/Ryō/quan lại
-僝=sàn/sạn/yo/Ghi chú: 〖僝僽〗
+僝=sàn/sạn
 僞=ngụy
 僡=huệ/ân huệ/ơn huệ/tạo thuận lợi cho người khác
 僣=thiết/không/vượt qua thẩm quyền của một người
@@ -5012,7 +5012,7 @@
 僳=túc/yo/dân tộc Lật Túc
 僴=giản/yo
 僵=cương/cứng/cứng nhắc
-僶=mẫn/thằng/thằng bé/(Động) Cố gắng. ◎Như: mẫn miễn 僶勉 cố gắng/nỗ lực. § Cũng viết là 黽勉.
+僶=mẫn/thằng/thằng bé
 價=giá/ti
 僻=tích/tịch/hoang vắng/hẻo lánh/vắng vẻ/vắng
 僽=sậu/trừu/sâu/tiều/tiều tuỵ/phiền não/giày vò/oán trách/trách móc
@@ -5071,7 +5071,7 @@
 克=khắc/Katsu/Katsumi/Masaru/K/có thể
 兌=đoái/Da/yo
 免=miễn/miễn/miễn phí/miễn trừ/xoá bỏ
-兎=thố/Rabbit/Usagi/ti/không có gì/thỏ/con thỏ/thỏ thẻ thố/ngựa xích thố/Tục viết thay chữ 兔.
+兎=thố/Rabbit/Usagi/ti/không có gì/thỏ/con thỏ/thỏ thẻ thố/ngựa xích thố
 兑=đoái/đổi/đổi lấy
 兒=nhi/ti
 兔=thỏ/thố/con thỏ
@@ -5186,7 +5186,7 @@
 凯=khải/Kay/khải hoàn/thắng lợi/chiến thắng
 凰=phượng hoàng/hoàng/Huang/Ling/Ootori/chim phượng
 凳=băng ghế/ghế dài/ghế đẩu/ghế
-凴=bằng/bằng chứng/§ Cũng như chữ 凭.§ Tục mượn dùng như chữ bằng 憑.
+凴=bằng/bằng chứng
 凵=khảm/tiều/Khảm
 凶=hung/hung dữ/bất hạnh/không may/xấu/dữ
 凷=khối/khôi/hòn đất
@@ -5260,7 +5260,7 @@
 剌=lạt/ngượng nghịu/yo/ngược/ngược ngạo/không tự nhiên
 前=trước/tiền/Saki/Zen/trước đây/phía trước
 剎=sát/yo
-剏=sáng/sáng lập/Cũng như chữ sáng 刱 hay 創.
+剏=sáng/sáng lập
 剐=róc/róc thịt/quả/yo/xử giảo/róc xương lóc thịt/lăng trì
 剑=kiếm/thanh kiếm/thanh gươm
 剒=thố/thác/chém/cắt/chặt
@@ -5296,7 +5296,7 @@
 剿=tiêu diệt/ti gia ức/sao chép/ăn cắp văn/đạo văn
 劀=qua/gọt/cạo
 劁=tiêu/yo/thiến
-劂=quyết/yo/见〖剞厥〗(jījué)
+劂=quyết
 劄=tráp/trát/không/chích bằng kim
 劈=bổ/phách/chẻ ra/chia ra/phân ra/tách ra
 劋=giảo
@@ -5325,21 +5325,21 @@
 劲=kình/sức lực/sức mạnh/khoẻ mạnh
 劳=lao/Lao/lao động/làm
 劵=khoán/phiếu/yo
-効=hiệu/yo/hiệu quả/hữu hiệu/hiệu nghiệm/(Danh) Hiệu quả. § Cũng như hiệu 效.
+効=hiệu/yo/hiệu quả/hữu hiệu/hiệu nghiệm
 劻=khuông/yo/luống cuống/bức rức/bối rối
 劼=cật/yo/cẩn thận/thận trọng
 劾=hặc/yo/vạch trần/hài tội
 势=thế/thế lực
 勃=đột nhiên/Bo/Cương/bỗng nhiên
 勄=mẫn/yo
-勅=sắc/yo/sắc bén;sắc sảo/Cũng như sắc 敕.
+勅=sắc/yo/sắc bén;sắc sảo
 勇=dũng/Isami/Isamu/Isao/Kondō/Yu/Yū/dũng cảm/gan dạ
 勉=gắng/miễn/nỗ lực/Ben/Manabu/Susumu/Tsutomu/miễn phí/gắng sức
 勋=huân/công lao
 勌=quyện
 勍=kình/yo/mạnh
 勐=mãnh/yo/dũng mãnh/dũng cảm
-勑=lai/yo/sắc/sắc bén;sắc sảo/§ Cũng như lai 徠.§ Cũng như sắc 敕.
+勑=lai/yo/sắc/sắc bén;sắc sảo
 勒=ghìm/ghì/le/dây cương
 勔=miễn/không/nỗ lực/cố gắng
 勖=úc/yo/khuyến khích/cố gắng
@@ -5410,7 +5410,7 @@
 午=buổi trưa/ngọ/Buổi Trư
 卉=huỷ/hủy/i/cây cỏ/cỏ/thảo
 半=nửa/bán/rưỡi/Ban/Han/một nửa
-卋=thế/thế hệ/thế sự/§ Xưa dùng như chữ thế 世.
+卋=thế/thế hệ/thế sự
 卌=bốn mươi/tấp/không
 卍=vạn/Manji/mão/chữ Vạn, một biểu tượng linh thiêng và tốt lành trong Ấn Độ giáo, Phật giáo và Kỳ Na giáo
 华=hoa/De/Hua/Hoa/sáng/sáng sủa/rực rỡ/lộng lẫy
@@ -5466,7 +5466,7 @@
 厍=xá/mão/thôn xã
 厎=chỉ/này/đá mài
 厐=lớn/mão/lớn lao
-厓=nhai/nhào/dạng cũ của 崖
+厓=nhai/nhào
 厔=chất/nhào/Chu Chất
 厕=xí/nhào/cầu tiêu/nhà xí/nhà vệ sinh
 厖=mang/yo/khổng lồ
@@ -5486,11 +5486,11 @@
 厨=bếp/trù/Mikuriya/đầu bếp/nhà bếp/phòng bếp
 厩=cứu/chuồng ngựa/chuồng
 厪=cận/túp lều
-厫=ngao/ngao du/Cũng như chữ 敖.
+厫=ngao/ngao du
 厭=ghê/yo
 厮=tư/gã sai/đầy tớ trai
 厯=lịch
-厰=xưởng/xưởng chế tạo/§ Cũng như chữ 廠.
+厰=xưởng/xưởng chế tạo
 厳=nghiêm/Gen/Iwao
 厶=khư/yo/riêng tư
 厺=khứ
@@ -5606,7 +5606,7 @@
 呂=Lã/yo
 呃=ách/ạch/uh/kìa
 呅=miệng nói/yo/van/van nài
-呆=ngẩn/ngốc/nán lại/ở/ở lại/khô khan. 义同'呆'(dāi)，专用于'呆板'
+呆=ngẩn/ngốc/nán lại/ở/ở lại
 呈=hiện lên/hiện/trình/trình bày/có
 呉=ngô/Kure
 告=cáo/thông báo/bảo/nói/nói với/báo cho biết/nói cho hay/nói cho biết
@@ -5634,7 +5634,7 @@
 呦=ô/á/yo/ôi
 呧=để/yo/làm phật ý
 周=tuần/chu/Amane/Itaru/Shū/Tuần/vòng/quanh
-呪=chú/Noroi/yo/huếnh/huếch hoác/trống huếch/Cũng như chú 咒.
+呪=chú/Noroi/yo/huếnh/huếch hoác/trống huếch
 呫=chiếp/thiếp/yo/nếm/thử
 呬=hi/yo/nghỉ ngơi
 呯=phang/bình/yo/nổ!
@@ -5655,7 +5655,7 @@
 咁=như vậy/yo
 咂=táp/chép miệng/hớp/nhấp
 咄=đốt/ô hay/hung hăng/thôi đi/rõ là
-咅=phôi/(ngày nay được sử dụng như một thành phần ngữ âm trong 部 [bu4], 倍 [bei4], 培 [pei2], 剖 [pou1], v.v.)
+咅=phôi
 咆=bào/gầm gừ/gầm/rống
 咇=biệt/yo/thơm
 咈=phất/yo/không vâng lời/không tuân lời/không nghe lời
@@ -5692,7 +5692,7 @@
 咮=trụ/chú/yo/mỏ chim
 咯=roài/rồi/lạc/đi/lộp bộp/lộp cộp
 咱=chúng ta/ta/chúng tôi/tôi/mình
-咲=tiếu/Saki/Saku/yo/tiếu lâm/Tục dùng như chữ tiếu 笑.
+咲=tiếu/Saki/Saku/yo/tiếu lâm
 咳=khụ/ho
 咴=xích/hí/yo
 咵=khoa/khoa trương/yo/khoa tử
@@ -5813,7 +5813,7 @@
 啖=ăn/đạm/yo/cho ăn
 啗=đạm
 啙=tử/lười biếng/làm biếng/biếng nhác
-啚=bỉ/bở/khoai bở/tưởng bở/vớ bở bẽ/bẽ bàng/(Tính) Keo kiệt/biển lận.(Danh) Chỗ làng quê hoặc nơi xa xôi.§ Ngày xưa dùng như đồ 圖.
+啚=bỉ/bở/khoai bở/tưởng bở/vớ bở bẽ/bẽ bàng/Keo kiệt/biển lận
 啜=uống/xuyết/i/nốc/hớp
 啡=phê/i/cà phê
 啣=hàm/i/này
@@ -5853,7 +5853,7 @@
 喎=oa/yo
 喏=nhạ/ầy/dạ/ừ/yo/vái chào
 喑=âm/yo/mất tiếng/mất giọng
-喒=tàm/ta/ta với mình/chúng ta/nước ta/(Đại) Ta/chúng ta. § Cũng đọc là gia . ◎Như: gia môn 喒門 chúng ta.
+喒=tàm/ta/ta với mình/chúng ta/nước ta/Ta/chúng ta
 喓=yêu/yo/riu riu
 喔=ờ/ồ
 喘=thở gấp/thở hổn hển/thở
@@ -5972,7 +5972,7 @@
 噍=tiếu/điêu/nhai/ăn
 噎=nghẹn/ế
 噏=hấp/đậu/thu lại/co lại
-噐=khí/khí cụ/khí giới/Tục dùng như chữ khí 器.
+噐=khí/khí cụ/khí giới
 噒=liên/rên/rên la nằn
 噓=hư/ti
 噔=đăng/thịch/yo/lộc cộc/thình thịch
@@ -6044,7 +6044,7 @@
 囥=kháng/khang/cất/giấu/giấu giếm/che đậy
 囧=quýnh/囧/không/sáng bừng, tươi sáng
 囫=hốt/yo/hoàn chỉnh/hoàn thành/hoàn tất
-囬=hồi/không/hồi báo/hồi đáp/hồi môn/Cũng như chữ hồi 回
+囬=hồi/không/hồi báo/hồi đáp/hồi môn
 园=vườn/viên
 囮=ngoa/chim mồi
 囯=quốc/này/tổ quốc
@@ -6061,7 +6061,7 @@
 圂=hộn/hoạn/không/nhà vệ sinh/nhà xí
 圃=vườn/phố/này
 圄=ngữ/yo/nhà tù/ngục thất
-圅=hàm/công hàm/hàm số/hàm thụ/học hàm/Tục dùng như chữ hàm 函.
+圅=hàm/công hàm/hàm số/hàm thụ/học hàm
 圆=tròn/vòng tròn
 圈=vòng/khoanh/vòng tròn
 圉=ngữ/xin lỗi/chuồng ngựa/chỗ nuôi ngựa
@@ -6114,7 +6114,7 @@
 坟=mồ/mộ phần/phần/phần mộ/phần còn lại/mộ/mồ mả
 坠=rơi/rớt/rơi xuống/ngã xuống
 坡=sườn núi/dốc/sườn dốc
-坢=bán/phân. 粪肥
+坢=bán/phân
 坣=đường
 坤=khôn/Kon/quẻ khôn
 坦=thản/tan/bằng phẳng
@@ -6167,7 +6167,7 @@
 垴=não/không/núi nhỏ/đồi nhỏ
 垵=am/anh/ang/cái ang
 垸=viện/bây/đê bao/bờ bao
-垻=bá/bụi/bụi bặm/túi bụi/Cũng như chữ bá 壩.
+垻=bá/bụi/bụi bặm/túi bụi
 垽=ngận/cặn lắng/vật chìm lắng
 垾=hàn/đê nhỏ/Hàn
 垿=tự/Tự/tường đông tường tây
@@ -6228,7 +6228,7 @@
 堠=hậu/yo/vọng gác/đồn đất/chòi quan sát/tháp canh
 堡=pháo đài/bảo/lâu đài/fort/thôn/trấn/thôn xóm/xóm
 堤=đê/Tsutsumi/con đê
-堦=giai/giai đoạn/giai cấp/Tục dùng như chữ giai 階.
+堦=giai/giai đoạn/giai cấp
 堧=nhuyên/bãi trống
 堩=hằng/đường/đường đi
 堪=chịu/có thể/có/có khả năng
@@ -6262,7 +6262,7 @@
 填=điền/lấp/điền vào
 塬=nguyên/bây/đụn
 塮=tạ/phân chuồng/phân bắc
-塲=tràng/trường/chiến trường/hội trường/trường học/Tục dùng như chữ tràng 場.
+塲=tràng/trường/chiến trường/hội trường/trường học
 塸=khu/gò/gò đất
 塺=mai
 塼=chuyên
@@ -6349,7 +6349,7 @@
 夜=đêm/Ye/Yo/Yoru/ban đêm
 够=đầy đủ/đủ/đủ rồi
 夠=cú/hú/yo
-夣=mộng/ti/mọng/mọng nước/chín mọng/Cũng như chữ mộng 夢.
+夣=mộng/ti/mọng/mọng nước/chín mọng
 夤=di/anh/kính nể/kính sợ/tôn trọng
 夥=khoả/hỏa/khỏa/xin lỗi
 大=lớn/Dai/Hiroshi/Masaru/Ooki/Shin/to/rộng
@@ -6605,7 +6605,7 @@
 嬉=đùa/vui đùa/vui chơi/nô đùa
 嬍=mỹ
 嬔=phiêm/miễn/thỏ con/đẻ
-嬖=bế/bà con/sủng ái/yêu dấu/cưng/yêu chiều 宠爱
+嬖=bế/bà con/sủng ái/yêu dấu/cưng/yêu chiều
 嬗=thiện/con dơi/thay đổi/biến chất
 嬛=huyên/lu/(được sử dụng trong tên)
 嬝=niệu
@@ -6704,7 +6704,7 @@
 寀=thái/doanh/anh
 寁=toản/nhanh
 寂=tịch/Kaiō/im lặng/yên lặng/yên tĩnh/vắng vẻ
-寃=oan/sinh/oan ức/Tục dùng như chữ oan 冤.
+寃=oan/sinh/oan ức
 寄=gửi/gởi
 寅=dần/dần dần
 密=mật/dày/mau
@@ -6734,7 +6734,7 @@
 寯=tuấn/ti/thanh tú/đẹp đẽ
 寰=hoàn/hoàn tận/khu vực rộng/khu vực lớn
 寱=nghệ/lời nói mê
-寳=bảo/này/bảo kiếm/Tục dùng như chữ bảo 寶.
+寳=bảo/này/bảo kiếm
 寸=tấc/một inch
 对=đối với/đối/phải/trả lời/đáp lời/đối đáp
 寺=tự/chùa/dinh
@@ -6747,7 +6747,7 @@
 専=chuyên
 尃=phu/để tuyên bố, để thông báo
 射=bắn/sút
-尅=khắc/này/tương khắc/xung khắc/Cũng như chữ khắc 剋.
+尅=khắc/này/tương khắc/xung khắc
 将=đem/Masaru/Masashi/Sho/Shō/sẽ/mang/xách/dìu
 將=đem/này
 尉=uý/úy/đại úy/họ Uất Trì
@@ -6755,7 +6755,7 @@
 對=đối/tôi
 小=nhỏ/bé
 少=thiếu/ít hơn/ít
-尒=nhĩ/yo/nhé/về ngay nhé!/Nguyên là chữ nhĩ 爾.
+尒=nhĩ/yo/nhé/về ngay nhé!
 尓=nhĩ/yo
 尔=ngươi/er/anh/mày
 尕=ca/tôi/nhỏ/bé/nhỏ bé
@@ -6865,7 +6865,7 @@
 峄=dịch/Nga/Anh/Dịch Sơn
 峋=tuân/yo/lởm chởm
 峒=động/hang động/sơn động
-峕=thì/(chữ viết sai của 时)
+峕=thì
 峙=trì/xấp nỉ/sừng sững/đứng sừng sững
 峛=lệ
 峝=đỗng/động/sơn động
@@ -6874,7 +6874,7 @@
 峢=lệ
 峣=nghiêu/đại/được với điều đó/cao vút/cao lớn
 峤=kiệu/à/núi cao chót vót
-峥=tranh/Tranh/峥嵘
+峥=tranh/Tranh
 峦=loan/loan loan/núi
 峧=giao/Giao
 峨=nga/loan/cao
@@ -6934,7 +6934,7 @@
 嵒=nham
 嵕=tông/mân/anh
 嵖=tra/Tra Nha
-嵘=vanh/tác nhân/Ghi chú: 见〖峥嵘〗(zhēngróng)
+嵘=vanh/tác nhân
 嵚=khâm/anh/núi cao ngất trời/núi cao chót vót
 嵛=du/mân/anh/Côn Du
 嵝=lũ/yo/Câu Lũ
@@ -6962,7 +6962,7 @@
 嶰=giải/hải/khe núi
 嶲=tây/Ni/Anh
 嶷=nghi/yo/Cửu Nghi
-巂=tây/yo/(tên huyện, ở tỉnh Tứ Xuyên, Trung Quốc)
+巂=tây
 巃=lung/thưa/kết tủa
 巅=đỉnh/đó là/đỉnh núi/chóp núi
 巇=hi/anh không biết/khe hở/kẻ hở
@@ -6999,7 +6999,7 @@
 巽=tốn/Son/Tatsumi/thưa ông
 巾=khăn/khăn quàng cổ
 巿=phất/thưa ông
-帀=táp/bão táp/Dùng như chữ táp 匝.
+帀=táp/bão táp
 币=tệ/tiền/tiền tệ/đồng tiền
 市=thành phố/thị/chợ/mua/thị trường/Ichi
 布=bố/vải/Bu/Lu/Vải/vải bố
@@ -7248,7 +7248,7 @@
 徜=thảng/bưu/rong chơi
 從=theo/liao/bẽo
 御=ngự/đánh xe/điều khiển xe
-徧=biến/không có gì/phổ biến/(Phó) Khắp cả. ◇Lê Trắc 黎崱: Thùy lão thị thư/tốt hận vãn/ư cổ kim văn tịch bất năng biến lãm 垂老嗜書/卒恨晚/於古今文籍不能徧覽
+徧=biến/không có gì/phổ biến
 徨=hoàng/yi/y phục/do dự/hồi hộp
 循=theo/làm theo/tuân thủ
 徫=vĩ
@@ -7301,7 +7301,7 @@
 忸=ngượng ngùng/nữu/không/bẽn lẽn/ngượng nghịu
 忺=hiêm/vui sướng/thoả ý
 忻=hân/hãn/ức/ϭо/vui vẻ
-忼=khảng/khảng khái/Khảng khái 忼慨 tả cái ý tráng sĩ bất đắc chí mà tức tối dội ngược/cũng có khi dùng chữ khảng 慷.
+忼=khảng/khảng khái/Khảng khái
 忽=chợt/bỗng/hốt/không chú ý/không để ý/xem nhẹ/chểnh mảng
 忾=hi/không có gì/căm thù/căm ghét/căm giận
 忿=phẫn/phải/phẫn nộ/căm phẫn/giận/căm giận/tức tối
@@ -7337,7 +7337,7 @@
 怫=phật/i/lo buồn/giận dữ
 怯=nhát/rụt rè/nhát gan/sợ hãi
 怱=thông/Phải
-怳=hoảng/yo/hoảng sợ hoảnh/ráo hoảnh/(Phó) Hoảng nhiên 怳然 thất ý.§ Thông hoảng 恍.
+怳=hoảng/yo/hoảng sợ hoảnh/ráo hoảnh
 怵=sợ hãi/sợ/го/được/kinh sợ/hoảng sợ/lo lắng/nơm nớp/khiếp đảm
 怹=than/i/được/ông ta/anh ta/anh ấy
 总=tổng/tổng quát/tập hợp
@@ -7364,8 +7364,8 @@
 恛=rối loạn/hỗn loạn
 恝=kiết/giáp/được/không chút động lòng/thản nhiên/thờ ơ/lạnh lùng
 恟=hung/kinh sợ/sợ sệt
-恠=quái/quái gở/tai quái/Tục dùng như chữ quái 怪.
-恡=lận/lận đận/Cũng như chữ lận 吝.
+恠=quái/quái gở/tai quái
+恡=lận/lận đận
 恢=khôi/bừ/rộng lớn/lớn/rộng rãi
 恣=tứ/được/buông thả/phóng túng/không câu thúc
 恤=tuất/áo thun/lo lắng/băn khoăn
@@ -7546,7 +7546,7 @@
 慼=thích
 慾=dục/tiều
 憃=xuẩn/ngu xuẩn/ngu dại
-憇=khế/không/khệ/khệ nệ/Tục dùng như chữ khế 憩.
+憇=khế/không/khệ/khệ nệ
 憋=nghẹn/bịt/nín/kìm nén/nén
 憍=kiêu/tôi/ngạo mạn
 憎=ghét/tăng/hận/căm ghét/ghét cay ghét đắng
@@ -7649,7 +7649,7 @@
 才=mới/tài năng/tài
 扎=bó/trát/za/tết/buộc/quấn/vấn
 扑=phác/nhào/phốc/bổ nhào/nhào đầu về phía trước
-扒=bới ra/đào/móc túi/víu/vin/bíu/mắc/treo 抓住;把着;抓着可依附的东西
+扒=bới ra/đào/móc túi/víu/vin/bíu/mắc/treo
 打=đánh/đánh đi/đập/gõ
 扔=ném/ném đi/đẩy
 托=cầm/nhờ/to/tto/nắm/nâng/đỡ/đựng
@@ -7779,7 +7779,7 @@
 拿=cầm/lấy/lấy đi/cầm lấy
 持=cầm/trì/giữ/nắm/tóm
 挂=treo/hack/Kai/móc/khoác
-挅=đỏa/xoá/xoá bỏ/xuý xoá/(Động) Đo lường. ◎Như: điêm đỏa 掂挅 cân nhắc
+挅=đỏa/xoá/xoá bỏ/xuý xoá/Đo lường
 指=chỉ/đề cập đến/ngón tay
 挈=khiết/trức/nêu/giơ lên
 按=ấn/nhấn/bấm/đè/đóng/ghim/găm/kẹp/cặp
@@ -7846,7 +7846,7 @@
 捧=nâng/phủng/Sasage/nâng đỡ/bê/bưng, ôm
 捨=bỏ/i/phải
 捩=liệt/mập mức/xoay/vặn
-捭=bãi/tách ra/phải/tách. 分开
+捭=bãi/tách ra/phải/tách
 据=theo/chiếm cứ/chiếm
 捯=đào/này/kéo/cuộn
 捱=nhai/chịu đựng/yo
@@ -7891,7 +7891,7 @@
 掭=thiệm/ức/quệt bút
 掮=kiên/i/anh/vác
 掯=khẳng/này/đè mạnh/ép
-掰=bẻ/tách ra/bạm/tẽ/tách/vạch/cạy/bẻ 用手把东西分开或折断
+掰=bẻ/tách ra/bạm/tẽ/tách/vạch/cạy
 掱=thủ/vát/tên móc túi/tên ăn cắp/kẻ đầu cơ
 掳=bắt/ức/bắt cóc
 掴=quặc/tát/Tsukamu/ức/vả
@@ -8084,7 +8084,7 @@
 攟=quấn
 攥=nắm/siết chặt/nắm chặt
 攧=điên/ngã/té ngã
-攩=đảng/đáng/cáng đáng/(Động) Ngăn cản. § Cũng như đáng 擋.(Động) Chống lại/chống cự/ngự. ◇Thủy hử truyện 水滸傳: Thả bả tửu lai đảng hàn 且把酒來攩寒
+攩=đảng/đáng/cáng đáng
 攫=quắp/chiếm/xin lỗi/cướp
 攮=nãng/này/đâm
 支=chi/chi nhánh/chống/đỡ/chống đỡ/chống lên
@@ -8127,7 +8127,7 @@
 敪=xuyết/đến mà không được mời
 敫=kiểu/này/họ Kiểu
 敬=kính/Jing/Kei/Takashi/tôn kính/kính trọng/ngưỡng mộ
-敭=dương/dương cung tên/dương cầm/tuyên dương/dương dương tự đắc/Ngày xưa dùng như chữ dương 揚.
+敭=dương/dương cung tên/dương cầm/tuyên dương/dương dương tự đắc
 数=đếm/toán/số/Amata/Kazoe
 敲=gõ/khua
 敳=ngai/yo/có thể
@@ -8249,7 +8249,7 @@
 春=xuân/Haru/Hoshino Haru/Kiyoharu/Shun/Yan/mùa xuân/(nghĩa đen và nghĩa bóng)/lạc thú
 昦=hạo
 昧=muội/giấu/Guang/muội muội/mờ mịt/mê muội/mơ hồ
-昨=hôm qua/10000000000000000000000000000/ngày hôm qua
+昨=hôm qua/ngày hôm qua
 昩=mạt/i/phải không
 昪=biện/yo/sáng sủa
 昫=hu/i/phải không/húc/ấm áp
