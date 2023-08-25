@@ -5801,7 +5801,7 @@
 商=thương/Thương/Thương nhân/thương lượng/bàn bạc
 啈=hanh/hành/nhiếp/hừ/hứ
 啉=lâm/phải/Ki-nô-lin
-啊=ah/a/hả/à/quá/thật là
+啊=a/hả/à/quá/thật là
 啋=thái/để ý tới
 啌=koong/yo/hòng/chớ hòng
 啍=đôn/yo/di chuyển từ từ
