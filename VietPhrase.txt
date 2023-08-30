@@ -15778,3 +15778,5 @@
 䯄=oa/ngựa piebald
 䲠=xuân
 䴕=liệt/chim gõ kiến
+起重=bắt đầu coi trọng/nâng
+神专=thần album
