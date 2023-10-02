@@ -15780,3 +15780,13 @@
 䴕=liệt/chim gõ kiến
 起重=bắt đầu coi trọng/nâng
 神专=thần album
+俺=choa
+卡=thẻ
+家=nhà
+扥=kéo
+柏=Bách
+称=xưng
+纪=kỷ
+缓=hoãn/hoà hoãn
+股=cỗ
+霞=ráng mây
