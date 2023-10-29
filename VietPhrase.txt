@@ -348,7 +348,6 @@
 中常=trung bình/bình thường/không tốt không xấu
 中彩=trúng số/để giành chiến thắng trong một cuộc xổ số
 中性=trung tính/giống trung/từ trung tính
-中招=trúng chiêu/dính chưởng/rơi vào bẫy của ai đó
 中指=ngón giữa/ngón tay giữa
 中文=tiếng Trung/tiếng Trung/Trung văn/tiếng Hoa/tiếng Châu Á/Tiếng Trung Quốc
 中枢=trung khu/đầu mối/trung tâm/trung xu
@@ -16434,3 +16433,4 @@
 䯄=oa/ngựa piebald
 䲠=xuân
 䴕=liệt/chim gõ kiến
+乖儿=con ngoan
