@@ -3915,7 +3915,6 @@
 人口=nhân khẩu/dân cư/dân số/đầu người/số người
 人名=tên người/tên cá nhân
 人命=mạng người/nhân mạng/sinh mệnh/cuộc sống con người
-人和=nhân hòa/người cùng/sự đoàn kết của nhân dân/nhân hoà/con người và
 人头=đầu người/số người/quan hệ với con người/phẩm chất con người/đạo đức
 人妖=nhân yêu/gay/tiểu thư
 人妻=nhân thê
