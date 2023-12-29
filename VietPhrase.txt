@@ -20176,7 +20176,7 @@
 翾=huyên/không/chao liệng/bay liệng
 翿=đạo/biểu ngữ lông vũ hoặc quạt
 耀=diệu/yao/chói lọi
-老=già/lão/rất/cũ/cứ
+老=lão/già/rất/cũ/cứ
 考=khảo/kiểm tra/Takashi/thi/hỏi/đố
 耄=mạo/oanh/cụ già/người có tuổi
 者=người/kẻ/giả/cái
