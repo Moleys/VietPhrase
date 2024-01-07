@@ -3938,7 +3938,6 @@
 享用=thưởng thức
 享誉=lừng danh
 京介=Kyōsuke
-京大=Kyōto
 京子=Kyōko
 亭子=đình nghỉ chân
 亭盖=mái hiên
@@ -11819,7 +11818,6 @@
 过之=qua
 过了=qua/đã qua/quá rồi/quá
 过于=quá chừng/quá mức/vô cùng/quá/lắm/quá đáng
-过人=hơn người/trội/vượt trội/xuất sắc
 过从=qua lại/đi lại với nhau/tới lui/quá qua
 过付=giao nhận/giao dịch/trả tiền quá mức
 过份=quá mức/quá đáng
@@ -16781,7 +16779,7 @@
 暑=nóng/mùa hè/nắng
 暕=giản/sóc/sáng sủa
 暖=ấm/ấm áp/ấm ấp
-暗=thầm/ám/tối/tối tăm/tối mò/mù mịt/u ám
+暗=tối/thầm/ám/tối tăm/tối mò/mù mịt/u ám
 暝=minh/xiêm/mặt trời lặn/trời tối
 暠=cảo/yo/trắng/màu trắng
 暤=hạo/hao/xiêm/chúng tôi/sáng/sáng sủa/sáng ngời
