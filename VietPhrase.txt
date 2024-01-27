@@ -839,7 +839,6 @@
 从来=luôn luôn/cho tới bây giờ/từ trước đến giờ/từ trước tới nay/không bao giờ/chưa bao giờ/chưa hề/từ trước đến nay/trước đến giờ, đó giờ/trước nay
 他人=người khác/kẻ khác/tha nhân/những người khác
 他处=chỗ khác
-他妈=mẹ nó/mẹ hắn
 他家=nhà hắn
 他年=năm nào
 他意=ý khác
@@ -13636,7 +13635,7 @@
 會=sẽ
 朅=khiết/kiệt/Sương/Được/đi
 朆=phân/chưa/chưa từng
-月=Nguyệt/tháng/nguyệt/Akari/Light/Runa/Satsuki/Tsuki/Yue/trăng/mặt trăng
+月=tháng/nguyệt/Akari/Light/Runa/Satsuki/Tsuki/Yue/trăng/mặt trăng
 有=có/Akio/Ari/Yū
 朊=nguyễn/sóc/sóc triều/prô-tê-in/chất đạm
 朋=bạn/bằng hữu/bằng/Tomo/pun/bạn bè
