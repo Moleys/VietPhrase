@@ -7109,7 +7109,6 @@
 私会=gặp riêng
 私奔=bỏ nhà đi trốn
 私宅=tư trạch/nhà riêng
-私服=private server
 私设=tư bố trí
 私逃=tự bỏ trốn
 秃鹫=kền kền
