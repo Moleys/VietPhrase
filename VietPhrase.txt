@@ -24,7 +24,6 @@
 一团=một đoàn
 一地=đầy đất/một nơi/một đất
 一处=một chỗ
-一大=nhất đại/một lớn
 一天=một ngày/một ngày đêm
 一头=một đầu
 一套=một bộ
