@@ -13493,7 +13493,7 @@
 彐=kệ/ký/đồng thời/Kệ
 彑=kệ/ký
 归=quy/về/trở về/quay về/trở lại/quay trở lại
-当=khi/đương/làm/tương xứng/xứng/tương đương
+当=đương/khi/làm/tương xứng/xứng/tương đương
 彔=lục
 录=ghi/thu/ghi lại/ghi chép/sao lục
 彖=thoán/bưu/phán đoán/luận đoán
