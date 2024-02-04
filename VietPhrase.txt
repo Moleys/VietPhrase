@@ -9759,7 +9759,6 @@
 连手=liên thủ/ngay cả tay/Hành động phối hợp
 连招=liên chiêu
 连朝=liền hướng
-连杀=liên sát
 连片=liền kề nhau
 连理=liền cành/tình vợ chồng/tình nghĩa vợ chồng/Liên Lý
 连衣=liên y/áo choàng
@@ -10997,7 +10996,7 @@
 众=chúng/chúng ta/chúng tôi/nhiều/đông
 优=ưu/tuyệt vời/ưu tú/tốt/trội
 伙=nhóm/băng/hỏa/cơm nước/cơm
-会=hội/sẽ/lại/phải/hội (sẽ)/biết/Ai/có/họp/hợp lại
+会=sẽ/hội/lại/phải/hội (sẽ)/biết/Ai/có/họp/hợp lại
 伛=ủ/phải/gù lưng
 伝=vân/yo/tuyên truyền
 伞=ô/dù/cái dù/tán/cái ô
@@ -22075,3 +22074,10 @@
 䯄=oa/ngựa piebald
 䲠=xuân
 䴕=liệt/chim gõ kiến
+道"=nói"/nói"
+道,=nói,/đạo,
+道，=nói,
+道.=nói./đạo./đường.
+道。=nói.
+道:=nói:
+道：=nói:
