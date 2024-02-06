@@ -6045,7 +6045,7 @@
 条规=nội quy/điều lệ/quy định
 来临=tiến đến/đã tới/đến/về/tới/đi lại/đi tới/lại tới
 来了=đến rồi
-来人=người tới/người/bay đâu/người được phái đến/người được cử đến/người đem thư hoặc thông báo đến/người đưa tin/sứ giả/bây đâu /người vừa tới/người đến/Raito/người đắm
+来人=người tới/người/bay đâu
 来信=gởi thư/thư
 来到=đi đến/đi vào/đi tới/đến
 来刺=đến đâm
@@ -8093,7 +8093,7 @@
 糗事=chuyện xấu hổ
 糙汉=gã thô bạo
 糯糯=nhu nhu
-系列=hệ liệt/dẫy/series/loạt/hàng loạt/hàng loạt /(*series)/(hàng) loạt
+系列=hệ liệt/dẫy/series/loạt/hàng loạt/hàng loạt/loạt
 系好=buộc chặt
 系花=hệ hoa
 系草=hệ thảo
@@ -10542,7 +10542,7 @@
 马甲=Mã Giáp
 马病=bệnh ngựa
 马肚=bụng ngựa
-马脚=sơ hở/dấu vết/chân ngựa/chân tướng/sơ sót/thiếu sót/chân ngựa /chân tướng
+马脚=sơ hở/dấu vết/chân ngựa/chân tướng/sơ sót/thiếu sót/chân ngựa/chân tướng
 马草=cỏ ngựa
 马虎=luộm thuộm
 马衣=áo ngựa
@@ -12787,7 +12787,7 @@
 娓=vỉ/thưa ông/êm tai/rủ rỉ
 娕=hình dạng đẹp/yo
 娖=xúc/yo/thận trọng/cẩn thận
-娘=nương/Musume/Nyan/mẹ/má/u /me/mợ
+娘=nương/Musume/Nyan/mẹ/má/u/me/mợ
 娜=na/Na
 娟=quyên/đẹp đẽ/đẹp
 娠=thần/mang thai/có bầu
@@ -16119,7 +16119,7 @@
 牁=ca/mưu thượng/Kha
 牂=tang/nó/dê cái
 牆=tường/không có gì
-片=mảnh/phiến/phim/tấm /bức, miếng, mảnh
+片=mảnh/phiến/phim/tấm/bức, miếng, mảnh
 版=bản/hãy/phiên bản/bản kẽm/bản in（tấm đế có chữ hoặc hình để in, trước dùng gỗ, nay bằng kim loại）
 牋=tiên
 牌=bài/nhãn hiệu/thẻ/bảng hiệu/biển hiệu
@@ -16985,7 +16985,7 @@
 砲=pháo/thớt
 砳=lặc/đá
 破=phá/phá vỡ/vỡ/đứt/thủng
-砵=bát/đồng bát /xyan/Đồng Bát
+砵=bát/đồng bát/xyan/Đồng Bát
 砷=thân/thây lấp/thạch tín
 砸=nện/tạp/đập/đập vỡ/đánh
 砹=ngải/astatine/syn/nguyên tố An-xta-ti, kí hiệu At
@@ -18334,7 +18334,7 @@
 舛=phạm/háng/sai
 舜=Thuấn/thuấn/Di/Shun/Thu thuận/vua Thuấn
 舝=hạt
-舞=múa/vũ/võ/Kuju Mai/Mai/Mau/khiêu vũ/khiêu vũ /vũ điệu/điệu múa
+舞=múa/vũ/võ/Kuju Mai/Mai/Mau/khiêu vũ/khiêu vũ/vũ điệu/điệu múa
 舟=thuyền/Shu
 舠=đao/chèo xuồng
 舡=hang/thuyền/hàm/đò/ghe
@@ -18535,7 +18535,7 @@
 荆=kinh/gai/Kinh/cây mận gai
 荇=hạnh/tuân/được không/rau hạnh
 荈=xuyễn/lá trà già/thu thu/được/trà già
-草=đệt/cỏ/thảo/Sō
+草=cỏ/thảo/Sō
 荍=kiều/cây cẩm quỳ
 荏=nhẫm/tôi/bạch tô
 荐=tiến/giới chức/tiến cử/giới thiệu
@@ -20421,7 +20421,7 @@
 醯=ê/hê/giấm/xin/acyl
 醰=đàm/rượu nồng/rượu nặng
 醱=bát
-醲=nùng/rượu nồng /vị cay của rượu
+醲=nùng/rượu nồng/vị cay của rượu
 醳=dịch/rượu ngon
 醴=lễ/ấp/i/rượu ngọt
 醵=cự/cừ/yan/góp/gom/hùn
