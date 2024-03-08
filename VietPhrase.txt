@@ -446,7 +446,6 @@
 不需=không cần
 不顾=không để ý/không quan tâm/bất cần/không cần biết đến/không đếm xỉa/không tính đến/bất chấp/mặc/coi thường/coi nhẹ
 与一=cùng một/Yoichi
-与人=cùng người
 丑丑=xấu xí/xâu xấu
 丑女=cô gái xấu xí
 丑萌=xấu manh
@@ -871,7 +870,6 @@
 人神=nhân thần
 人种=nhân chủng/giống người/người dân
 人称=nhân xưng/xưng hô/người ta gọi là/được gọi là/ngôi/ngôi xưng hô
-人类=nhân loại/loài người/con người
 人精=nhân tinh/tinh tế con người/Wunderkind
 人缝=người khâu
 人脸=mặt người/khuôn mặt
@@ -3358,7 +3356,6 @@
 女校=trường nữ
 女爵=nữ tước
 女犬=chó nữ
-女的=phái nữ
 女科=nữ khoa
 女红=nữ công/nữ hồng/nghệ thuật nữ tính
 女观=am nữ
@@ -5558,7 +5555,6 @@
 断经=ngừng kinh
 断腿=chân gãy
 断音=ngắt âm
-新一=tân nhất
 新专=album mới
 新任=tân nhiệm/nhiệm kỳ mới/mới
 新作=tác phẩm mới
@@ -6157,7 +6153,6 @@
 校祭=lễ hội trường
 校董=chủ tịch trường/hội đồng trường
 校装=đồng phục trường học
-校长=hiệu trưởng
 校队=đội tuyển trường
 栲胶=chất tanin
 样机=nguyên mẫu/nguyên mẫu
@@ -7182,7 +7177,6 @@
 珠光=ánh ngọc trai
 珠心=tâm châu
 班上=trên lớp/lớp học/trong lớp/(trong lớp
-班会=họp lớp
 班列=ban liệt/lớp học/Ngôi thứ
 班干=cán bộ lớp
 班花=hoa khôi lớp
