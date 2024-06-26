@@ -15585,7 +15585,7 @@
 囝=kiển/này/con trai
 回=hồi/trở lại/quanh co/vòng vo/vòng vèo/chuyến
 囟=tín/này/cái thóp
-因=nhân/bởi vì/Chinami/theo/y theo/noi theo
+因=bởi vì/nhân/Chinami/theo/y theo/noi theo
 囡=niếp/này/trẻ con/trẻ em/con nít
 团=đoàn/vo/trung đoàn/hình tròn
 団=đoàn/yo
