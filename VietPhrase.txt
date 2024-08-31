@@ -8106,7 +8106,6 @@
 死於=chết vì
 死样=khốn nạn
 死相=tư thế chết
-死神=tử thần/Tử thần
 死线=chết chóc
 死罪=tội chết
 死虾=tôm chết
