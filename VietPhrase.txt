@@ -6716,7 +6716,7 @@
 挡酒=chặn rượu
 挡门=chặn cửa
 挣上=kiếm
-挣扎=sự giãy dụa
+挣扎=sự giãy giụa
 挣来=kiếm được
 挤出=nặn ra
 挤到=chen tới
