@@ -1443,7 +1443,7 @@
 便当=thuận thiện/bentō
 便是=chính là
 便有=liền có
-便服=y phục hàng ngày/thường phục/quần áo thường ngày/quần áo kiểu Trung quốc
+便服=y phục hằng ngày/thường phục/quần áo thường ngày/quần áo kiểu Trung quốc
 便血=tiêu ra máu/tiểu ra máu/phân ra máu
 便难=tranh luận/liền khó
 促狭=bỡn cợt
@@ -1695,7 +1695,7 @@
 入洞=nhập lỗ
 入牢=vào tù
 入耳=lọt vào tai/nghe lọt tai/nghe bùi tai/vào tai
-入职=nhập chức/vào làm việc/Nhận việc/nhận chức
+入职=nhập chức/vào làm việc/Nhận việc/nhậm chức
 入营=nhập doanh
 入读=nhập học
 入账=vào sổ sách
@@ -3004,7 +3004,7 @@
 合住=cùng ở
 合体=Hợp Thể
 合平=hợp bình
-合并=sáp nhập/hợp nhất/hợp lại/thống nhất/nhập chung/hợp lại làm một/sát nhập
+合并=sáp nhập/hợp nhất/hợp lại/thống nhất/nhập chung/hợp lại làm một/sáp nhập
 合着=hóa ra/không ngờ như thế/thì ra như vậy
 吉尺=Yoshishaku
 吉野=Yoshino
@@ -6791,7 +6791,7 @@
 捧读=nâng đọc
 捻住=kẹp chặt
 授帽=trao mũ
-授职=nhận chức/được trao chức vụ
+授职=nhậm chức/được trao chức vụ
 授薪=trả lương
 掉色=phai màu/bạc màu/mất màu/đổi màu
 掉血=rớt máu
@@ -6824,7 +6824,7 @@
 探索=thăm dò
 探视=quan sát
 探针=đầu dò
-接任=tiếp nhận/tiếp quản/tiếp nhận chức vụ/thay thế/thay chỗ
+接任=tiếp nhận/tiếp quản/tiếp nhậm chức vụ/thay thế/thay chỗ
 接口=tiếp khẩu/giao diện/tiếp lời/mối nối/chỗ nối/gờ nối
 接地=tiếp đất/nối đất/dùng mặt đất làm cực âm
 接头=chắp nối/chắp đầu/ghép lại/nối tiếp/thương thảo/liên hệ/thu xếp/bàn bạc/hội ý/nắm tình hình/quen với tình hình/nắm/khớp nối
@@ -11876,7 +11876,7 @@
 见人=gặp người/thấy người
 见地=kiến giải/tầm mắt/trình độ/nhìn thấy mặt đất
 见外=khách khí/xa cách/xa lạ/ghẻ lạnh/xem như người ngoài/xem bên ngoài
-见天=mỗi ngày/hàng ngày/Nhìn thấy Thiên Chúa
+见天=mỗi ngày/hằng ngày/Nhìn thấy Thiên Chúa
 见客=gặp khách
 见容=thấy dung
 见山=Miyama
@@ -12948,7 +12948,7 @@
 道白=lời thoại/đạo bạch/lời nói/nói/nói trắng
 道者=đạo nhân/đạo giả
 道藏=Đạo Tạng/đạo tạng/Đạo Tàng/kho tàng kinh điển đạo giáo/kho kinh
-道路=con đường/đường/đường xá/đường phố/đường sá/phố xá/đường giao thông
+道路=con đường/đường/đường sá/đường phố/đường sá/phố xá/đường giao thông
 道里=lộ trình/chặng đường/đạo lý/Trong Lời
 道题=đạo đề/đề bài/Câu hỏi
 遗作=tác phẩm để lại/di sản/công việc di cảo
@@ -15350,7 +15350,7 @@
 否=không/phủ/hỏng/xấu
 吧=nha/đi/nào/nhé/chứ/thôi
 吨=tấn
-吩=phân/yo/dặn dò/căn dặn/bảo ban/bảo
+吩=phân/yo/dặn dò/căn vặn/bảo ban/bảo
 吪=ngoa/yo/động
 含=ngậm/hàm/bao gồm
 听=nghe/lắng nghe/nghe này
@@ -15433,7 +15433,7 @@
 咍=hai/khái/ôi/nhạo/chế nhạo/cười nhạo/cười chế nhạo
 咎=tội/tội trạng/Jo/Toga/đổ lỗi/sai lầm
 咏=vịnh/Uta/ngâm
-咐=phó/yo/dặn dò/căn dặn
+咐=phó/yo/dặn dò/căn vặn
 咑=đát/đa/yo/đi/tắc
 咒=chú/rủa/nguyền rủa/lời chú/lời niệm chú
 咔=két/yo/ken két
@@ -15722,7 +15722,7 @@
 嘧=mật/yo/pi-ri-mi-đin
 嘬=toát/mút/yo/hút/bú
 嘭=bùm/oành/yo/thình thịch, bụp
-嘱=dặn dò/dặn bảo/căn dặn
+嘱=dặn dò/dặn bảo/căn vặn
 嘲=trào/giễu cợt/chế giễu/cười giễu
 嘴=miệng/mồm
 嘶=tê/Inanaki/rít lên/hí
@@ -20012,7 +20012,7 @@
 甿=manh/mụn cóc
 畀=tí/mụn/cho
 畂=điền
-畅=sướng/thoải mái/thông suốt/suông sẻ/êm thấm/trôi chảy
+畅=sướng/thoải mái/thông suốt/suôn sẻ/êm thấm/trôi chảy
 畆=mẫu
 畇=vận/vân/vuông vắn
 畈=phán/vạ/đất đai/ruộng/ruộng đất
@@ -20550,7 +20550,7 @@
 磠=lỗ
 磡=xử/ơi/vách núi/sườn núi
 磢=sảng/xoảng/xoang xoảng sảng
-磨=mài/ma/ma sát/Takuma/Osamu/cọ sát
+磨=mài/ma/ma sát/Takuma/Osamu/cọ xát
 磬=khánh/kiêu/cái khánh
 磲=cừ/xà cừ
 磳=zeng
@@ -21674,7 +21674,7 @@
 脦=thắc/bẩn thỉu/lôi thôi lếch thếch
 脧=tuyên/thôi/tống tiền
 脩=tu/Osamu/cù
-脬=phao/háng/bàng quang/bọng đái
+脬=phao/háng/bàng quan/bọng đái
 脯=mứt/qi/thịt khô
 脰=đậu/tôi/cổ/cái cổ
 脱=thoát/cởi ra/rụng/tróc
@@ -21957,7 +21957,7 @@
 苼=bao/con tơi
 苽=cô/niễng/cây niễng
 苾=bật/con/thơm tho/thơm
-苿=phỉ/tanh/mùi/chín mùi/mùi mẫn
+苿=phỉ/tanh/mùi/chín muồi/muồi mẫn
 茀=phất/bột/toanh/nhiều cỏ/rậm rạp/um tùm
 茁=truất/tiều/nhú mầm/đâm chồi
 茂=tốt/mậu/Komada/Shigeru/Mau/rậm rạp/tươi tốt/um tùm/sum sê
@@ -22644,7 +22644,7 @@
 衔=ngậm/hàm/liên tiếp
 衕=đồng
 衖=hạng
-街=phố/đường phố/đường xá/đường
+街=phố/đường phố/đường sá/đường
 衙=nha/nha môn
 衚=hồ
 衝=xung/Shō/ơi
@@ -23075,7 +23075,7 @@
 谒=yết/này/yết kiến
 谓=vị/gọi là/được gọi là/nói/bảo
 谔=ngạc/này/nói thẳng
-谕=dụ/thưa ông/nói/căn dặn/báo
+谕=dụ/thưa ông/nói/căn vặn/báo
 谖=huyên/xin lỗi/quên
 谗=thèm/gièm pha/này
 谘=tư/ti/thưa ngài/bàn/bàn bạc/thương lượng
@@ -23336,7 +23336,7 @@
 跫=cung/cùng/khương cung/thình thịch/ầm ầm
 跬=khuể/diều h/cự ly/bước chân
 跮=sí/đi bộ vội vàng
-路=đường/Ichirō/Lu/Michi/đường xá/đường lộ
+路=đường/Ichirō/Lu/Michi/đường sá/đường lộ
 跰=nghiễn/biền/bình/chai tay/chai chân
 跱=trĩ/ngồi xổm
 跲=kiếp/cấp/vấp/trượt
@@ -24356,7 +24356,7 @@
 阘=tháp/thác/xập/cửa sổ trên lầu/cửa sổ trên gác
 阙=khuyết/đóng/sơ xuất/sai lầm
 阚=khám/hám/Xiêm/họ Khám
-阛=hoàn/đóng/phố xá/đường phố/đường xá
+阛=hoàn/đóng/phố xá/đường phố/đường sá
 阜=phụ/Xụ/Xập/núi đất
 阝=phụ/xium/ti/ấp/bộ ấp phụ
 队=đội/hàng ngũ/đội ngũ/hàng
@@ -24985,7 +24985,7 @@
 髓=tuỷ/tủy/tuỷ xương
 高=cao/Gao/Kao/Kō/Yao
 髙=cao/mập
-髟=tiêu/bưu/đầu/rũ/rũ xuống
+髟=tiêu/bưu/đầu/rũ/rủ xuống
 髠=khôn/bờm
 髡=khôn/lungi/cạo trọc đầu
 髢=thế/xy/tóc giả
@@ -24996,7 +24996,7 @@
 髧=đãm/đảm/xoã xuống/buông xoã
 髩=tấn
 髪=phát/bội
-髫=thiều/bội/tóc xoã xuống/tóc rũ xuống
+髫=thiều/bội/tóc xoã xuống/tóc rủ xuống
 髭=tỳ/bội/ria mép/râu
 髯=râu/rại/râu quai nón
 髲=bị/tóc giả
@@ -25013,7 +25013,7 @@
 鬇=tranh/tóc rối
 鬈=quyền/bờm/xoăn/cong/quăn
 鬉=tông
-鬋=tiên/tiễn/tóc mai rũ xuống/thuỳ
+鬋=tiên/tiễn/tóc mai rủ xuống/thuỳ
 鬌=đoả/đỏa/chỏm tóc
 鬎=lạt/thích/bệnh chốc đầu
 鬏=thu/đi bộ/bím tóc
