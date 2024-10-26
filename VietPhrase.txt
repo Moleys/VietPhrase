@@ -23681,7 +23681,7 @@
 遐=xa/không/xa xôi
 遑=hoàng/đi/nhàn/nhàn hạ/nhàn rỗi/rảnh
 遒=tù/không/cường tráng/khoẻ mạnh
-道=câu/đạo/nói/Michi/Tao/đường/con đường
+道=đạo/câu/nói/Michi/Tao/đường/con đường
 遗=di/dị/để lại/đánh rơi/mất/rơi mất
 遘=cấu/đi bộ/gặp phải/gặp nhau/gặp mặt
 遙=xa/Haruka/đi bộ
