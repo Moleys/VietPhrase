@@ -4501,7 +4501,6 @@
 妆匣=hộp trang điểm
 妆娘=người trang điểm
 妈妈=ma ma
-妈的=mẹ nó
 妈耶=mẹ nó
 妓籍=kỹ tịch
 妖修=yêu tu
