@@ -4,4 +4,4 @@ ChinesePhienAmWords.txt, tôi đã bổ sung phiên âm, lấy nguồn từ Hanz
 
 Vietphrase này đang phát triển, không ổn định, không tốt bằng những Vietphrase khác.
 
-Nếu bạn muốn tải Vietphrase thông thường hãy tải ở folder normal, đây là phiên bản tôi chỉnh sửa từ Vietphrase thgiang.
+Nếu bạn muốn tải Vietphrase thông thường hãy tải ở https://moldich.gq/vpmrteo, đây là phiên bản tôi chỉnh sửa từ Vietphrase thgiang.
